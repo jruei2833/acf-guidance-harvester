@@ -1,0 +1,54 @@
+2026-02-05 12:37:14,349 [INFO] ACF Guidance Harvester starting
+2026-02-05 12:37:14,350 [INFO]   Input:   C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\input\Sub-Regulatory Inventory for Programs_12112025.xlsx.xlsx
+2026-02-05 12:37:14,350 [INFO]   Output:  C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\output
+2026-02-05 12:37:14,350 [INFO]   Reports: C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\reports
+2026-02-05 12:37:14,350 [INFO]   Log:     C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\logs\harvest_20260205_123714.log
+2026-02-05 12:37:14,350 [INFO] Loading Excel workbook...
+2026-02-05 12:37:15,112 [INFO]   Found 3383 data rows in sheet 'ALL'
+2026-02-05 12:37:15,113 [INFO]   Processing rows 30 to 40 (11 rows)
+2026-02-05 12:37:15,113 [INFO] Row 0031: Visiting https://acf.gov/cb/policy-guidance/im-83-04
+2026-02-05 12:37:17,368 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:37:18,483 [INFO]     [OK] Downloaded: im8304.pdf (88,472 bytes)
+2026-02-05 12:37:18,484 [INFO] Row 0032: Visiting https://acf.gov/cb/policy-guidance/pi-83-03
+2026-02-05 12:37:20,435 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:37:21,561 [INFO]     [OK] Downloaded: pi8303.pdf (171,874 bytes)
+2026-02-05 12:37:21,562 [INFO] Row 0033: Visiting https://acf.gov/cb/policy-guidance/im-83-14
+2026-02-05 12:37:23,348 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:37:24,462 [INFO]     [OK] Downloaded: im8314.pdf (71,489 bytes)
+2026-02-05 12:37:24,463 [INFO] Row 0034: Visiting https://acf.gov/cb/policy-guidance/pi-83-06
+2026-02-05 12:37:26,306 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:37:27,416 [INFO]     [OK] Downloaded: pi8306.pdf (96,873 bytes)
+2026-02-05 12:37:27,420 [INFO] Row 0035: Visiting https://acf.gov/cb/policy-guidance/pi-83-07
+2026-02-05 12:37:29,135 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:37:30,267 [INFO]     [OK] Downloaded: pi8307.pdf (124,626 bytes)
+2026-02-05 12:37:30,271 [INFO] Row 0036: Visiting https://acf.gov/cb/policy-guidance/pi-83-08
+2026-02-05 12:37:32,005 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:37:33,127 [INFO]     [OK] Downloaded: pi8308.pdf (96,468 bytes)
+2026-02-05 12:37:33,131 [INFO] Row 0037: Visiting https://acf.gov/cb/policy-guidance/pi-84-02
+2026-02-05 12:37:34,839 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:37:35,958 [INFO]     [OK] Downloaded: pi8402.pdf (91,181 bytes)
+2026-02-05 12:37:35,960 [INFO] Row 0038: Visiting https://acf.gov/cb/policy-guidance/im-84-02
+2026-02-05 12:37:37,763 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:37:38,917 [INFO]     [OK] Downloaded: im8402.pdf (107,799 bytes)
+2026-02-05 12:37:38,918 [INFO] Row 0039: Visiting https://acf.gov/cb/policy-guidance/pi-84-05
+2026-02-05 12:37:40,527 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:37:41,638 [INFO]     [OK] Downloaded: pi8405.pdf (96,574 bytes)
+2026-02-05 12:37:41,639 [INFO] Row 0040: Visiting https://acf.gov/cb/policy-guidance/im-84-09
+2026-02-05 12:37:43,367 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:37:44,480 [INFO]     [OK] Downloaded: im8409_0.pdf (114,096 bytes)
+2026-02-05 12:37:44,481 [INFO] Row 0041: Visiting https://acf.gov/cb/policy-guidance/pi-84-06
+2026-02-05 12:37:46,402 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:37:47,540 [INFO]     [OK] Downloaded: pi8406.pdf (109,225 bytes)
+2026-02-05 12:37:47,544 [INFO] ============================================================
+2026-02-05 12:37:47,544 [INFO] HARVEST COMPLETE
+2026-02-05 12:37:47,544 [INFO]   Duration: 0.5 minutes
+2026-02-05 12:37:47,544 [INFO]   Rows processed: 11
+2026-02-05 12:37:47,544 [INFO]   Success: 11
+2026-02-05 12:37:47,544 [INFO]   Failed: 0
+2026-02-05 12:37:47,544 [INFO]   No URLs: 0
+2026-02-05 12:37:47,544 [INFO]   No documents found: 0
+2026-02-05 12:37:47,544 [INFO]   Skipped (resume): 0
+2026-02-05 12:37:47,544 [INFO]   Total files downloaded: 11
+2026-02-05 12:37:47,544 [INFO] ============================================================
+2026-02-05 12:37:47,546 [INFO] Report saved: C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\reports\harvest_report_20260205_123747.json
+2026-02-05 12:37:47,546 [INFO] CSV summary saved: C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\reports\harvest_summary_20260205_123747.csv

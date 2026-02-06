@@ -1,0 +1,851 @@
+row,folder,office,doc_number,title,status,files_count,errors_count
+1702,1702,OCSE,"AT-91-02","Final Rule: $50 Pass-through; Support Guidelines; Mandatory Genetic Testing; Pat",success,2,0
+1703,1703,OCSE,"AT-91-01","Final Rule: Extension of IV-D Child Support Enforcement Services",success,2,0
+1704,1704,OCSE,"AT-90-15","NPRM: Federal Parent Locator Service Fees",success,1,0
+1705,1705,OCSE,"AT-90-13","Restrictions on Use of Federal Funds to Influence Awarding of Federal Grants or ",success,1,0
+1706,1706,OCSE,"AT-90-11","Policy Clarification Relating to Automated Child Support Enforcement Systems",success,1,0
+1707,1707,OCSE,"AT-90-10","APD Requirements to Meet Child Support System Provision of the Family Support Ac",success,1,0
+1708,1708,OCSE,"AT-90-09","NPRM: Processing Garnishments for Child Support and/or Alimony",success,1,0
+1709,1709,OCSE,"AT-90-08","Treatment of Interest Earned from Non-AFDC Child Support Collections",success,1,0
+1710,1710,OCSE,"AT-90-07","NPRM: Immediate Income Withholding; Review and Modification; Notice of Support C",success,2,0
+1711,1711,OCSE,"AT-90-05","Final Rule: Standards for Program Operations Corrections Notification",success,1,0
+1712,1712,OCSE,"AT-90-04","Birth Registration and Social Security Numbers",success,1,0
+1713,1713,OCSE,"AT-90-03","Final Rule: Child Support Enforcement Program Audit",success,1,0
+1714,1714,OCSE,"AT-90-02","Interstate Referral Guide (IRG)",success,1,0
+1715,1715,OCSE,"AT-90-01","Final Rule: Processing Garnishment Orders for Child Support and/or Alimony",success,2,0
+1716,1716,OCSE,"AT-89-17","NPRM: $50 Pass-through; Support Guidelines; Genetic Testing; Paternity Establish",success,1,0
+1717,1717,OCSE,"AT-89-16","Treatment of Income Earned by States from Interest, Investments or Other Income",success,1,0
+1718,1718,OCSE,"AT-89-15","Final Rule: Standards for Program Operations - Processing Cases and Distributing",success,1,0
+1719,1719,OCSE,"AT-89-14","Final Rule: Cooperative Arrangements",success,2,0
+1720,1720,OCSE,"AT-89-11","NPRM: Cooperation to Pursue Third Party Health Coverage",success,1,0
+1721,1721,OCSE,"AT-89-10","NPRM: Extension of IV-D Child Support Enforcement Services",success,2,0
+1722,1722,OCSE,"AT-89-09","Revised Minimum Data Elements Required for Certifiable FAMIS and CSE Systems Int",success,1,0
+1723,1723,OCSE,"AT-89-05","NPRM: Standards for Program Operations - Processing Cases and Distributing Colle",success,2,0
+1724,1724,OCSE,"AT-89-04","Final Rule: Medical Support Enforcement 1988",success,1,0
+1725,1725,OCSE,"AT-89-02","Child Support Enforcement Program Audit - NPRM",success,2,0
+1726,1726,OCSE,"AT-89-01","Revisions to Financial Reporting Requirements to Conform with Recent Legislation",success,1,0
+1727,1727,OCSE,"AT-88-18","Final Rule: Federal Income Tax Refund Offset",success,1,0
+1728,1728,OCSE,"AT-88-17","Family Support Act of 1988",success,1,0
+1729,1729,OCSE,"AT-88-16","NPRM: Cooperative Arrangements",success,1,0
+1730,1730,OCSE,"AT-88-14","Final Rule: Disregard of Child Support Payments, Correction to AT-88-11",success,1,0
+1731,1731,OCSE,"AT-88-13","Corrections to the Final Rule-Provision of Services in Interstate IV-D Cases",success,2,0
+1732,1732,OCSE,"AT-88-11","Final Rule: Disregard of Child Support Payments",success,1,0
+1733,1733,OCSE,"AT-88-10","Prorating Costs Relating to Approved APD Expenditures",success,1,0
+1734,1734,OCSE,"AT-88-04","Assessment of Interest on Disallowed Claims for Federal Financial Participation",success,1,0
+1735,1735,OCSE,"AT-88-02","Final Rule: Provision of Services in Interstate IV-D Cases",success,2,0
+1736,1736,OCSE,"AT-88-01","Final Rule: Automatic Data Processing Equipment and Services; Conditions for FFP",success,1,0
+1737,1737,OCSE,"AT-87-12","Retrieval of Information on Absent Parents from Forms 1099 by the IRS",success,1,0
+1738,1738,OCSE,"AT-87-11","A Guide for States Seeking Enhanced Funding for a Computerized Child Support Enf",success,1,0
+1739,1739,OCSE,"AT-87-09","Final Rule: Prohibition of FFP for Incarceration/Counsel for Indigent Absent Par",success,1,0
+1740,1740,OCSE,"AT-87-08","Reduction in the FFP Rate for Administrative Expenditures",success,1,0
+1741,1741,OCSE,"AT-87-03","Final Rule: Correction of Headings to Reflect Establishment of the Family Suppor",success,2,0
+1742,1742,OCSE,"AT-87-02","Final Rule: Automatic Data Processing Equipment and Services; Conditions for FFP",success,1,0
+1743,1743,OCSE,"AT-87-01","Final Rule: Grants to States for Public Assistance Programs and FFP",success,2,0
+1744,1744,OCSE,"AT-86-21","Procedures for Determining that a State IV-D Plan is Disapproved",success,1,0
+1745,1745,OCSE,"AT-86-20","NPRM: Provision of Services in Interstate IV-D Cases",success,2,0
+1746,1746,OCSE,"AT-86-19","Revision to the Title IV-D State Plan Preprint",success,2,0
+1747,1747,OCSE,"AT-86-17","Final Rule: Computing a Supplemental Payment in States",success,2,0
+1748,1748,OCSE,"AT-86-16","Establishing Paternity and Securing Support; Correction",success,2,0
+1749,1749,OCSE,"AT-86-14","Final Rule: Allotments for Child and Spousal Support",success,2,0
+1750,1750,OCSE,"AT-86-13","NPRM: Prohibition of Federal Funding of Costs of Incarceration and Counsel",success,2,0
+1751,1751,OCSE,"AT-86-12","NPRM: Processing Garnishment Orders for Child Support and/or Alimony",success,2,0
+1752,1752,OCSE,"AT-86-11","Interim Final Rule: Federal Employees Health Benefits Program",success,2,0
+1753,1753,OCSE,"AT-86-10","Final Rule: AFDC, Grants to States, Reporting the Federal Share of Child Support",success,2,0
+1754,1754,OCSE,"AT-86-09","Change in Rates for Federal Financial Participation (FFP)",success,1,0
+1755,1755,OCSE,"AT-86-07","Final Rule: Disclosure of Change of Address and Post Office Boxholder Informatio",success,2,0
+1756,1756,OCSE,"AT-86-06","Final Rule: Income and Eligibility Verification Procedures",success,2,0
+1757,1757,OCSE,"AT-86-03","Interim Final Rule: Automatic Data Processing Equipment and Services; Conditions",success,2,0
+1758,1758,OCSE,"AT-86-02","Final Rule: U.S. Army Family Support, Child Custody, and Paternity",success,2,0
+1759,1759,OCSE,"AT-85-19","Final Rule Corrections: Revision of Child Support Enforcement Program Audit Regu",success,2,0
+1760,1760,OCSE,"AT-85-16","Final Rule: Medical Support Enforcement 1985",success,2,0
+1761,1761,OCSE,"AT-85-15","Final Rule: Revision of the Child Support Enforcement Program Audit Regulations",success,2,0
+1762,1762,OCSE,"AT-85-12","Final Rule Corrections: Implementation of Child Support Enforcement Amendments o",success,2,0
+1763,1763,OCSE,"AT-85-10","Final Rule: Railroad Retirement Garnishment",success,1,0
+1764,1764,OCSE,"AT-85-06","Final Rule: Implementation of Child Support Enforcement Amendments of 1984",success,2,0
+1765,1765,OCSE,"AT-85-02","Final Rule: Former Spouse Payments From Retired Pay",success,2,0
+1766,1766,OCSE,"AT-85-01","Final Rule: Conditions for Imposition of Remedial Actions Applicable to Letter o",success,2,0
+1767,1767,OCSE,"AT-84-12","NPRM: Automatic Data Processing Equipment and Services; Conditions for FFP",success,2,0
+1768,1768,OCSE,"AT-84-10","Final Rule: Case assessment; Costs for services for non-AFDC families; Reduction",success,3,0
+1769,1769,OCSE,"AT-84-09","Final Rule: Implementation of Deficit Reduction Act of 1984 for AFDC and Child S",success,3,0
+1770,1770,OCSE,"AT-84-07","Final Rule: Computerized Support Enforcement Systems",success,2,0
+1771,1771,OCSE,"AT-84-06","Revised Application Form to Request Full Collection Services from IRS",success,1,0
+1772,1772,OCSE,"AT-84-03","Final Rule: Elimination of Double Support Payments",success,2,0
+1773,1773,OCSE,"AT-84-02","Final Rule: Withholding of Unemployment Benefits for Support Purposes",success,2,0
+1774,1774,OCSE,"AT-84-01","Final Rule: Involuntary Child and Spousal Support Allotments",success,2,0
+1775,1775,OCSE,"AT-83-17","Final Rule: Requests to Use the FPLS in Parental Kidnapping and Child Custody Ca",success,2,0
+1776,1776,OCSE,"AT-83-14","NPRM: Involuntary Child and Spousal Support Allotments",success,2,0
+1777,1777,OCSE,"AT-83-11","Final Rule: Processing Garnishment Orders for Child Support and/or Alimony",success,2,0
+1778,1778,OCSE,"AT-83-08","Final Rule: Allotments From Military Pay for Certain Support Obligations",success,2,0
+1779,1779,OCSE,"AT-83-06","Final Rule: Collection of Past-Due Support from Federal Tax Refunds",success,2,0
+1780,1780,OCSE,"AT-83-02","Final Rule with Comment Period: Collection of Support for Certain Adults",success,2,0
+1781,1781,OCSE,"AT-82-18","Final Rule: FFP in the Costs of Cooperative Agreements with Courts and Law Enfor",success,2,0
+1782,1782,OCSE,"AT-82-12","Final Rule: Equipment Acquired Under Public Assistance Programs",success,2,0
+1783,1783,OCSE,"AT-82-13","Final Rule with Comment Period: Assigned Support Received by AFDC Applicants or ",success,2,0
+1784,1784,OCSE,"AT-82-10","Final Rule: Incentive Payments to States and Political Subdivisions",success,2,0
+1785,1785,OCSE,"AT-82-05","Interim Final Rule: Cost Allocation Plans for Public Assistance Programs",success,2,0
+1786,1786,OCSE,"AT-82-04","Final Rule: Requests for Full Collection Services",success,2,0
+1787,1787,OCSE,"AT-82-02","Withholding of Unemployment Benefits - Section 2335 of Public Law 97-35",success,1,0
+1788,1788,OCSE,"AT-82-03","Final Rule: Withholding of Advance Funds for Failure to Report",success,2,0
+1789,1789,OCSE,"AT-82-01","Interim Final Rule: Collection of Past-Due Support from Federal Tax Refunds",success,4,0
+1790,1790,OCSE,"AT-81-22","Final Rule: Time Limits for States to File Claims",success,2,0
+1791,1791,OCSE,"AT-81-20","Child Support Obligations Not Discharged by Bankruptcy",success,1,0
+1792,1792,OCSE,"AT-81-18","Definition of Short Term Training",success,1,0
+1793,1793,OCSE,"AT-81-15","Final Rule: Administration of Grants",success,2,0
+1794,1794,OCSE,"AT-81-12","Use of the FPLS in Parental Kidnapping and Child Custody Cases",success,1,0
+1795,1795,OCSE,"AT-81-10","Requests to the FPLS for Information on Absent Parents - State User Guide",success,1,0
+1796,1796,OCSE,"AT-81-05","Final Rule: Time Limits for States to File Claims for FFP",success,2,0
+1797,1797,OCSE,"AT-81-03","Final Rule: Optional Use of Current Rate FFP to Distribute Arrearage Collections",success,2,0
+1798,1798,OCSE,"AT-81-01","Final Rule: Matching Payments to States for Non-AFDC Related Expenditures",success,2,0
+1799,1799,OCSE,"AT-80-18","New Financial Requirements Imposed by Public Laws 96-265 and 96-272",success,1,0
+1800,1800,OCSE,"AT-80-17","Requirements for Receiving Expanded Federal Matching for Court Costs, Revision t",success,1,0
+1801,1801,OCSE,"AT-80-14","P.L. 96-265: Use of IRS to Collect Child Support and FFP for Duties Performed by",success,1,0
+1802,1802,OCSE,"AT-80-12","Final Rule - Administration of Grants",success,4,0
+1803,1803,OCSE,"AT-80-09","Appeals Procedures Subsequent to Disallowance Action by Regional Representatives",success,1,0
+1804,1804,OCSE,"AT-80-07","Final Rule: Automated Data Processing Equipment and Services; Conditions for FFP",success,1,0
+1805,1805,OCSE,"AT-80-04","Final Rule: Medical Support Enforcement (1980)",success,2,0
+1806,1806,OCSE,"AT-80-01","Fee for Cases Certified to the Internal Revenue Service",success,1,0
+1807,1807,OCSE,"AT-79-09","Revision of the Effective Date of Regulation 45 CFR 304.21; FFP in the Costs of ",success,1,0
+1808,1808,OCSE,"AT-79-04","Final Rule: Bonding of Employees and Handling of Cash Receipts in the Child Supp",success,2,0
+1809,1809,OCSE,"AT-78-22","Final Rule: Conditions for FFP in the Costs of Automatic Data Processing",success,1,0
+1810,1810,OCSE,"AT-78-19","Final Rule: Good Cause for Refusing to Cooperate",success,1,0
+1811,1811,OCSE,"AT-78-16","Procedures for Implementing Changes to 45 CFR 302.35, 302.70, and 303.3 - Access",success,1,0
+1812,1812,OCSE,"AT-78-08","Request for Comments on a Final Rule - Good Cause for Refusing to Cooperate",success,2,0
+1813,1813,OCSE,"AT-77-17","Preparation of Requests for Proposals for Automated Child Support Information Sy",success,1,0
+1814,1814,OCSE,"AT-77-13","Tax Reform Act of 1976",success,1,0
+1815,1815,OCSE,"AT-77-12","Final Rule: Incentive Payments to States and Political Subdivisions",success,2,0
+1816,1816,OCSE,"AT-77-08","Restrictions on FFP for Publicly Owned Buildings",success,1,0
+1817,1817,OCSE,"AT-77-07","Final Rule: Repayment of Federal Funds by Installments",success,3,0
+1818,1818,OCSE,"AT-77-06","Final Rule: Revocation of the Deadline for Submission of Claims for FFP",success,2,0
+1819,1819,OCSE,"AT-77-04","Final Rule: Disallowance, Deferral and Reconsideration",success,2,0
+1820,1820,OCSE,"AT-77-03","Documentation Required to Support Claims for FFP Made Pursuant to Cooperative Ag",success,1,0
+1821,1821,OCSE,"AT-77-02","State Employment Offices to Supply Data to Assist the Child Support Program",success,1,0
+1822,1822,OCSE,"AT-76-08","Revised: Applications by States to use the Courts of the United States to Enforc",success,2,0
+1823,1823,OCSE,"AT-76-04","Public Sources of State's Share",success,2,0
+1824,1824,OCSE,"AT-76-01","Applications by States to Use the Courts of the United States to Enforce Child S",success,2,0
+1825,1825,OCSE,"ACF-OCSS-DCL-25-10","2025 Open Comment Period – Hague Convention Forms Annual Burden",success,3,0
+1826,1826,OCSE,"ACF-OCSS-TDCL-25-02","Report from Tribal Consultation – June 30, 2025",success,3,0
+1827,1827,OCSE,"ACF-OCSS-DCL-25-09","Submittal of Annual Certification Letter – 2025",success,2,0
+1828,1828,OCSE,"ACF-OCSS-DCL-25-08","Data Reliability Audit Requirements - FY 2025",success,2,0
+1829,1829,OCSE,"ACF-OCSS-DCL-25-07","2025 Open Comment Period – Standard Intergovernmental Forms",success,2,0
+1830,1830,OCSE,"ACF-OCSS-DCL-25-06","Submit OCSE-157 for FY 2025 by October 30",success,1,0
+1831,1831,OCSE,"ACF-OCSS-DCL-25-05","FY 2024 Preliminary Data Report and Tables",success,3,0
+1832,1832,OCSE,"ACF-OCSS-DCL-25-04","Open Comment Period — Revised National Medical Support Notice — Part A",success,2,0
+1833,1833,OCSE,"ACF-OCSS-DCL-25-03","2025 Certification Statement of Compliance with Security and Privacy Requirement",success,2,0
+1834,1834,OCSE,"ACF-OCSS-DCL-25-02","Strengthening State and Tribal Child Support Enforcement Act",success,1,0
+1835,1835,OCSE,"ACF-OCSS-TDCL-25-01","OFA – OCSS Joint Letter on Tribal Child Support Cooperation Requirements",success,2,0
+1836,1836,OCSE,"ACF-OCSS-DCL-25-01","OFA – OCSS Joint Letter on Child Support Cooperation Requirements",success,2,0
+1837,1837,OCSE,"ACF-OCSS-DCL-24-16","Direct Final Rule: 45 CFR Chapter III Technical Corrections",success,4,0
+1838,1838,OCSE,"ACF-OCSS-DCL-24-15","Final Rule: Employment and Training Services for Noncustodial Parents in the Chi",success,2,0
+1839,1839,OCSE,"ACF-OCSS-DCL-24-14","FY 2025 Incentive Payment Pool Amount",success,1,0
+1840,1840,OCSE,"ACF-OCSS-TDCL-24-04","Open Comment Period – OCSS-75 Tribal Child Support Data Report",success,2,0
+1841,1841,OCSE,"ACF-OCSS-DCL-24-13","FY 2025 User Fees for FPLS and CSENet",success,1,0
+1842,1842,OCSE,"ACF-OCSS-DCL-24-12","Best Practices in Child Support System Modernization",success,3,0
+1843,1843,OCSE,"ACF-OCSS-TDCL-24-03","Submittal of the OCSE-75 for FY 2024",success,1,0
+1844,1844,OCSE,"ACF-OCSS-DCL-24-11","Open Comment Period — State Self-Assessment Report",success,2,0
+1845,1845,OCSE,"ACF-OCSS-DCL-24-10","Data Reliability Audit Requirements - FY 2024",success,2,0
+1846,1846,OCSE,"ACF-OCSS-DCL-24-09","Submittal of Annual Certification Letter – 2024",success,2,0
+1847,1847,OCSE,"ACF-OCSS-DCL-24-08","Open Comment Period – Intergovernmental Reference Guide",success,2,0
+1848,1848,OCSE,"ACF-OCSS-DCL-24-07","Open Comment Period - OCSS-157 Annual Data Report",success,2,0
+1849,1849,OCSE,"ACF-OCSS-DCL-24-06","Submit OCSE-157 for FY 2024 by October 30",success,1,0
+1850,1850,OCSE,"ACF-OCSS-DCL-24-05","Withdrawal of U.S. Objection to Accession of Kazakhstan to Hague Convention",success,2,0
+1851,1851,OCSE,"ACF-OCSS-DCL-24-04","FY 2023 Preliminary Data Report and Tables",success,3,0
+1852,1852,OCSE,"ACF-OCSS-TDCL-24-02","Section 1115 Waiver Requests for Tribal Innovation",success,1,0
+1853,1853,OCSE,"ACF-OCSS-TDCL-24-01","Listening Session for Tribal Systems - June 18",success,1,0
+1854,1854,OCSE,"ACF-OCSS-DCL-24-03","2024 Certification Statement of Compliance with Security and Privacy Requirement",success,2,0
+1855,1855,OCSE,"ACF-OCSS-DCL-24-01","US Objection to Accession of Azerbaijan to Hague Convention",success,2,0
+1856,1856,OCSE,"ACF-OCSS-DCL-23-15","Open Comment Period – Interstate Administrative Subpoena and Notice of Lien",success,5,0
+1857,1857,OCSE,"DCL-23-14","FY 2024 Incentive Payment Pool Amount",success,1,0
+1858,1858,OCSE,"DCL-23-13","U.S. Objection to Accession of Botswana to Hague Convention",success,2,0
+1859,1859,OCSE,"DCL-23-12","FY 2024 User Fees for FPLS and CSENet",success,1,0
+1860,1860,OCSE,"TDCL-23-05","Submittal of the OCSE-75 for FY 2023",success,1,0
+1861,1861,OCSE,"DCL-23-11","Federal Offset and Pre-Offset Notice Program Fees in FY 2024",success,1,0
+1862,1862,OCSE,"DCL-23-10","Submittal of Annual Certification Letter – 2023",success,2,0
+1863,1863,OCSE,"TDCL-23-04","Recommendations for Personal Computers for Tribes using MTS",success,2,0
+1864,1864,OCSE,"DCL-23-09","Data Reliability Audit Requirements - FY 2023",success,2,0
+1865,1865,OCSE,"DCL-23-08","Submittal of OCSE-157 for FY 2023 by Oct. 30",success,1,0
+1866,1866,OCSE,"DCL-23-07","Open Comment Period – Voluntary Paternity Acknowledgment and Required Data Eleme",success,3,0
+1867,1867,OCSE,"TDCL-23-03","Report from Consultation – April 6, 2023",success,2,0
+1868,1868,OCSE,"DCL-23-06","FY 2022 Preliminary Data Report and Tables",success,3,0
+1869,1869,OCSE,"DCL-23-05","Security and Privacy Program — OCSS Security Agreement",success,2,0
+1870,1870,OCSE,"DCL-23-04","Updates on COVID-19 Flexibilities",success,3,0
+1871,1871,OCSE,"TDCL-23-02","Tribal Child Support Consultation - April 6, 2023",success,1,0
+1872,1872,OCSE,"DCL-23-03","2023 Open Comment Period - Revised IWO Form and Instructions",success,4,0
+1873,1873,OCSE,"DCL-23-02","Enrollment in CAP Service for International Payments",success,1,0
+1874,1874,OCSE,"DCL-23-01","2023 Open Comment Period – State Plan Pages",success,4,0
+1875,1875,OCSE,"DCL-22-15","FCR and SCR Family Violence Indicator Override Process",success,3,0
+1876,1876,OCSE,"DCL-22-14","German Federal Office of Justice Not Accepting Checks After March 20, 2023",success,1,0
+1877,1877,OCSE,"DCL-22-13","FY 2022 and FY 2023 Incentive Payment Pool Amounts",success,1,0
+1878,1878,OCSE,"TDCL-22-02","Submittal of the OCSE-75 for FY 2022",success,1,0
+1879,1879,OCSE,"DCL-22-12","FY 2023 User Fees for FPLS and CSENet",success,1,0
+1880,1880,OCSE,"TDCL-22-01","Open Comment Period – Tribal Child Support Direct Funding Request",success,3,0
+1881,1881,OCSE,"DCL-22-11","FY 2023 Federal Offset and Pre-Offset Notice Program Fees",success,1,0
+1882,1882,OCSE,"DCL-22-10","Data Reliability Audit Requirements - FY 2022",success,2,0
+1883,1883,OCSE,"DCL-22-09","Submittal of Annual Certification Letter — 2022",success,2,0
+1884,1884,OCSE,"DCL-22-08","Submittal of OCSE-157 for FY 2022 by Oct. 30",success,1,0
+1885,1885,OCSE,"DCL-22-07","Open Comment Period – Hague Convention Forms Annual Burden",success,5,0
+1886,1886,OCSE,"DCL-22-06","Children’s Bureau - OCSE Joint Letter on Updated Child Support Referral Policy",success,2,0
+1887,1887,OCSE,"DCL-22-04","FY 2021 Preliminary Data Report and Tables",success,3,0
+1888,1888,OCSE,"DCL-22-01","IRS Releases Revised Publication 1075",success,1,0
+1889,1889,OCSE,"TDCL-21-03","Open Comment Period – OCSE-75",success,4,0
+1890,1890,OCSE,"DCL-21-16","New Open Comment Period – Forms OCSE-396 and OCSE-34",success,2,0
+1891,1891,OCSE,"DCL-21-15","NPRM Withdrawal - Optional Exceptions to Child Support Guidelines",success,2,0
+1892,1892,OCSE,"DCL-21-14","Open Comment Period – OCSE-157 Annual Data Report",success,2,0
+1893,1893,OCSE,"DCL-21-10","Data Reliability Audit Requirements FY 2021",success,2,0
+1894,1894,OCSE,"DCL-21-09","Submittal of Annual Certification Letter — 2021",success,2,0
+1895,1895,OCSE,"DCL-21-08","Essentials for Attorneys in Child Support Enforcement, 4th edition released",success,1,0
+1896,1896,OCSE,"DCL-21-07","Open Comment Period – Intergovernmental Reference Guide",success,2,0
+1897,1897,OCSE,"DCL-21-06","Submittal of OCSE-157 for FY 2021 by Oct. 30",success,1,0
+1898,1898,OCSE,"TDCL-21-01","Written Tribal Consultation for the OCSE-75 Form",success,3,0
+1899,1899,OCSE,"DCL-21-03","Open Comment Period – Forms OCSE-396 and OCSE-34",success,4,0
+1900,1900,OCSE,"DCL-21-01","Open Comment Period – Administrative Subpoena and Notice of Lien",success,4,0
+1901,1901,OCSE,"DCL-20-14","Open Comment Period – Insurance Match Collection Activity",success,2,0
+1902,1902,OCSE,"DCL-20-15","Open Comment Period – MSFIDM with FAST Levy",success,2,0
+1903,1903,OCSE,"DCL-20-11","Data Reliability Audit Requirements FY 2020",success,2,0
+1904,1904,OCSE,"DCL-20-09","FY 2021 Federal Offset and Pre-Offset Notice Program Fees",success,1,0
+1905,1905,OCSE,"DCL-20-10","Open Comment Period – MSFIDM with FAST Levy Collection Activity",success,2,0
+1906,1906,OCSE,"DCL-20-08","Federal Collections & Enforcement Annual Certification Letter – 2020",success,2,0
+1907,1907,OCSE,"DCL-20-07","Submittal of OCSE-157 for FY 2020",success,1,0
+1908,1908,OCSE,"DCL-20-03","U.S. Objection to Accession of Guyana to Hague Convention",success,2,0
+1909,1909,OCSE,"TDCL-20-01","Open Comment Period – Tribal Budget and Narrative Justification Template",success,5,0
+1910,1910,OCSE,"DCL-19-16","Request for Comments on Revised IWO Form and Instructions",success,4,0
+1911,1911,OCSE,"DCL-19-15","Open Comment Period – Intergovernmental Reference Guide",success,2,0
+1912,1912,OCSE,"TDCL-19-01","Open Comment Period – OCSE-75 Tribal Annual Data Report",success,2,0
+1913,1913,OCSE,"DCL-19-09","Open Comment Period – Hague Convention Case Processing Forms",success,3,0
+1914,1914,OCSE,"DCL-19-08","Medical Support in Outgoing Cases to Canada",success,2,0
+1915,1915,OCSE,"DCL-19-06","U.S. Objection to Accession of Kazakhstan to Hague Convention",success,2,0
+1916,1916,OCSE,"DCL-19-07","Hague Convention Forms in Foreign Languages",success,1,0
+1917,1917,OCSE,"DCL-19-05","Streamlining Feasibility Studies",success,1,0
+1918,1918,OCSE,"IDCL-19-01","Accessing the U.S. Federal Parent Locator Service",success,1,0
+1919,1919,OCSE,"TDCL-18-02","Model Tribal System (MTS) Services to Tribes",success,1,0
+1920,1920,OCSE,"TDCL-18-01","Training for Finding the Right Security Control Assessor for FPLS Access",success,2,0
+1921,1921,OCSE,"DCL-17-05","Summary Information for Software Releases 17-01 and 17-02",success,1,0
+1922,1922,OCSE,"TDCL-17-01","Tribal Directors Resource Guide",success,2,0
+1923,1923,OCSE,"DCL-17-01","Child Support Final Rule Fact Sheets",success,7,0
+1924,1924,OCSE,"DCL-16-13","WIOA Final Rule",success,3,0
+1925,1925,OCSE,"DCL-16-11","U.S. Ratification of Hague Child Support Convention",success,1,0
+1926,1926,OCSE,"DCL-16-05","Justice Department Announces Resources to Reform Practices",success,1,0
+1927,1927,OCSE,"DCL-16-04","State Plan System Frequently Asked Questions",success,5,0
+1928,1928,OCSE,"TDCL-16-02","Quadrennial Review of Child Support Guidelines",success,1,0
+1929,1929,OCSE,"DCL-15-21","Offset of Tax Refund Payments to Collect Past-Due Support Interim Final Rule",success,2,0
+1930,1930,OCSE,"DCL-15-18","Intergovernmental Reference Guide (IRG) International Requirements",success,1,0
+1931,1931,OCSE,"DCL-14-13","Changing a Child Support Order Guide",success,2,0
+1932,1932,OCSE,"DCL-14-04","Updated Locator Codes Data Standards",success,2,0
+1933,1933,OCSE,"DCL-13-17","Instructions – the Australian Child Support Secure Email System",success,3,0
+1934,1934,OCSE,"DCL-13-02","Manitoba, Canada - Addresses and Procedures",success,1,0
+1935,1935,OCSE,"DCL-13-06","Garnishment of Supplemental Security Income Benefits",success,2,0
+1936,1936,OCSE,"IDCL-13-01","Paying Child Support by Paper Check",success,1,0
+1937,1937,OCSE,"DCL-12-02","Update - Erroneous Federal Tax Refund Offsets based upon Fraudulent Returns",success,1,0
+1938,1938,OCSE,"DCL-11-22","Use of Federal Intergovernmental Forms by Foreign Reciprocating Countries",success,1,0
+1939,1939,OCSE,"TDCL-11-01","Plan Amendments - Change to TDCL-10-07",success,1,0
+1940,1940,OCSE,"DCL-11-17","Erroneous Federal Tax Refund Offsets Based Upon Fraudulent Returns",success,1,0
+1941,1941,OCSE,"DCL-11-08","Federal Offset and Passport Denial State Services Portal Applications",success,1,0
+1942,1942,OCSE,"DCL-11-05","Use of Social Security Administration Data to Improve Performance",success,2,0
+1943,1943,OCSE,"DCL-11-01","Restructured Project Save Our Children (PSOC) Services",success,1,0
+1944,1944,OCSE,"DCL-10-20","Hague Convention on the International Recovery of Child Support",success,1,0
+1945,1945,OCSE,"TDCL-10-07","Plan Amendments",success,1,0
+1946,1946,OCSE,"TDCL-10-02","Tribal IRS Safeguarding Guidance",success,1,0
+1947,1947,OCSE,"DCL-09-30","Certified Copies of Orders to Canadian Provinces and Territories",success,1,0
+1948,1948,OCSE,"DCL-09-22","Private Collection Agencies and Redirection of Payments",success,1,0
+1949,1949,OCSE,"TDCL-09-01","Moving from Start-up to a Comprehensive Program: A Tool for Submitting an Applic",success,2,0
+1950,1950,OCSE,"DCL-09-05","OCSE Self-Assessment Reporting System",success,2,0
+1951,1951,OCSE,"DCL-08-31","New Collaborative Planning Guide for Child Support and the Judiciary",success,2,0
+1952,1952,OCSE,"DCL-08-29","QUICK to the Internet",success,1,0
+1953,1953,OCSE,"DCL-08-21","Distribution Options under the Deficit Reduction Act of 2005",success,2,0
+1954,1954,OCSE,"DCL-08-19","Child Support and Court/Judicial Message Exchange Data Model",success,2,0
+1955,1955,OCSE,"DCL-08-07","DOD Determinations of Dependency for Health Care Benefits for Children Born Out-",success,2,0
+1956,1956,OCSE,"IDCL-08-01","Establishment of Paternity and Service of Process when Noncustodial Parent is in",success,2,0
+1957,1957,OCSE,"DCL-07-36","Automated Systems for CSE: Guide for Electronic Document Management",success,2,0
+1958,1958,OCSE,"DCL-07-33","Child Welfare and Child Support: Working Together to Help Children",success,2,0
+1959,1959,OCSE,"DCL-07-32","Publication on How to use Electronic Information to Establish and Modify Child S",success,2,0
+1960,1960,OCSE,"DCL-06-32","Implementation of New Passport Denial Threshold",success,2,0
+1961,1961,OCSE,"DCL-06-30","Query Interstate Cases for Kids (QUICK)",success,1,0
+1962,1962,OCSE,"DCL-06-22","Automated Systems for Child Support: A Guide for Enhancing Review and Adjustment",success,2,0
+1963,1963,OCSE,"DCL-06-21","Cost-free Service of Process for Federal Reciprocating Countries",success,1,0
+1964,1964,OCSE,"DCL-06-19","Recommendations from Location Codes (aka FIPS) Workgroup",success,2,0
+1965,1965,OCSE,"DCL-06-14","Implementation of New Passport Denial Threshold: Effective Oct 1, 2006",success,2,0
+1966,1966,OCSE,"DCL-06-05","Compliance with Equal Treatment Regulations",success,2,1
+1967,1967,OCSE,"DCL-06-01","Interstate Case Reconciliations in 2006",success,1,0
+1968,1968,OCSE,"DCL-05-35","State Verification and Exchange System (SVES) Garnishment Match",success,2,0
+1969,1969,OCSE,"DCL-05-25","Privacy Act Disclosure Requirement",success,1,0
+1970,1970,OCSE,"DCL-05-26","Additional Information Regarding DFAS Restitution Letters",success,1,0
+1971,1971,OCSE,"DCL-05-17","Military Trainer Guide: Working with the Military on Child Support Matters",success,1,0
+1972,1972,OCSE,"DCL-05-18","Federal Parent Locator Service: Continuous Service Improvement Questions and Ans",success,2,0
+1973,1973,OCSE,"DCL-05-16","DFAS Restitution Letters",success,1,0
+1974,1974,OCSE,"DCL-04-42","Standardization of IV-D Case Identifiers",success,1,0
+1975,1975,OCSE,"DCL-04-17","Cost Allocation Methodologies Toolkit",success,1,0
+1976,1976,OCSE,"DCL-04-14","Improving the Processing of NDNH Data",success,2,0
+1977,1977,OCSE,"DCL-04-02","Data Reliability Audit Process for Auditing States Less Frequently than Annually",success,1,0
+1978,1978,OCSE,"DCL-04-04","Disclosure of Federal Tax Data by IV-D to IV-A",success,1,0
+1979,1979,OCSE,"DCL-03-45","International Child Support Payments to Poland",success,1,0
+1980,1980,OCSE,"DCL-03-44","Review of Federal Case Registry Options",success,3,0
+1981,1981,OCSE,"IDCL-03-01","Service of Process on Child Support Matters in the United States",success,1,0
+1982,1982,OCSE,"DCL-03-17","State Disbursement Unit Payment Processing and Physical Security",success,2,0
+1983,1983,OCSE,"DCL-03-15","Report on Study of Administrative and Judicial Processes for Establishing Child ",success,2,0
+1984,1984,OCSE,"DCL-03-08","Federal Guidance on International Child Support Payments",success,1,0
+1985,1985,OCSE,"DCL-02-19","Guidebook for a Common Methodology",success,1,0
+1986,1986,OCSE,"DCL-01-50","Base Level Program Expenditures for Incentive Reinvestment Purposes -- Revision",success,2,0
+1987,1987,OCSE,"DCL-00-112","Computer Data Match between Department of Education and the NDNH",success,1,0
+1988,1988,OCSE,"DCL-00-103","Attachment of Social Security Benefits",success,1,0
+1989,1989,OCSE,"DCL-00-79","Department of State Passport Denial Procedures",success,1,0
+1990,1990,OCSE,"DCL-00-80","Removal of Full Locate Functionality from State CSE System and CSENet 2000",success,1,0
+1991,1991,OCSE,"DCL-00-78","Processing Bankruptcies",success,4,0
+1992,1992,OCSE,"DCL-00-60","Internal Revenue Service’s Use of Federal Case Registry Information",success,1,0
+1993,1993,OCSE,"DCL-00-27","State Best Practices - FPLS Data: New Hire Reporting, FVI, FCR, Automation",success,8,0
+1994,1994,OCSE,"DCL-99-129","Online Interstate Roster and Referral Guide, Record Layout, and State FIPS Codes",success,1,0
+1995,1995,OCSE,"DCL-99-97","Follow-up to Federal Offset Conference Calls",success,1,0
+1996,1996,OCSE,"DCL-99-19","International Child Abduction",success,1,0
+1997,1997,OCSE,"DCL-98-78","Requests for Information from the FPLS",success,1,0
+1998,1998,OCSE,"DCL-97-61","Recent Legislation Relating to the IV-D Program - Taxpayer Relief Act of 1997",success,1,0
+1999,1999,OCSE,"DCL-97-31","Facilitate Family Preservation and Promote Adoption",success,1,0
+2000,2000,OCSE,"DCL-96-32","Clarification of AT to Claim Charge-backs for Pre-offset Notices",success,1,0
+2001,2001,OCSE,"DCL-96-23","Small Business Act and Financial Assistance",success,4,0
+2002,2002,OCSE,"DCL-96-01","Charge-backs for Printing and Processing Pre-Offset Notices",success,1,0
+2003,2003,OCSE,"DCL-95-31","Additional Prosecutions of Federal Criminal Nonsupport Cases",success,1,0
+2004,2004,OCSE,"DCL-95-07","Change in Expedited Processes Exemption Requirements",success,1,0
+2005,2005,OCSE,"DCL-94-69","Final Rule: Medicaid Extension when IV-D Support Collection Results in Terminati",success,2,0
+2006,2006,OCSE,"DCL-94-64","Recently Enacted Laws Impacting the Child Support Enforcement (IV-D) Program",success,1,0
+2007,2007,OCSE,"DCL-94-45","Residency Requirements for IV-D Services",success,1,0
+2008,2008,OCSE,"DCL-94-01","Non-IV-D Immediate Wage Withholding",success,1,0
+2009,2009,OCSE,"DCL-93-64","International Parental Kidnapping Crime Act of 1993",success,1,0
+2010,2010,OCSE,"DCL-93-61","Criminal Non-Support of Child Support",success,1,0
+2011,2011,OCSE,"DCL-93-36","Omnibus Budget Reconciliation Act of 1993 (P.L. 103-66)",success,1,0
+2012,2012,OCSE,"DCL-93-12","HCFA Final Rule-Poverty Level Pregnant Women Eligible for Medicaid",success,2,0
+2013,2013,OCSE,"DCL-92-33","Reimbursement from States for Use of FPLS",success,1,0
+2014,2014,OCSE,"DCL-90-14","Credit Reporting Agencies",success,1,0
+2015,2015,OCSE,"ACF-OCSS-IM-25-01","Employment and Training Services – Funding and Resources",success,2,0
+2016,2016,OCSE,"ACF-OCSS-IM-24-05","Section 1115 Waivers to Fund NCP Work Activities - Update",success,1,0
+2017,2017,OCSE,"ACF-OCSS-IM-24-04","Section 1115 Grant Funding Process - Update",success,1,0
+2018,2018,OCSE,"ACF-OCSS-IM-24-03","Section 1115 Waivers - Update",success,1,0
+2019,2019,OCSE,"ACF-OCSS-IM-24-02","FMAP Rates for State IV-D Agencies (FY 2024 and 2025)",success,1,0
+2020,2020,OCSE,"ACF-OCSS-IM-24-01","Guidance for the Tribal Child Support Program Start-Up Application Process",success,5,0
+2021,2021,OCSE,"IM-23-03","USPS Contact Information for Child Support Agencies - Updated",success,1,0
+2022,2022,OCSE,"IM-23-02","Name Change to Office of Child Support Services (OCSS)",success,2,0
+2023,2023,OCSE,"IM-23-01","New Webpage for Parents",success,1,0
+2024,2024,OCSE,"IM-22-02","Tribal IV-D Program Job Descriptions",success,1,0
+2025,2025,OCSE,"IM-21-05","Wire Payments to Countries Not Accepting Paper Checks",success,1,0
+2026,2026,OCSE,"IM-21-04","Child Support Resource Guide for State IV-D Directors - Revised",success,2,0
+2027,2027,OCSE,"IM-21-03","OMB-approved MSFIDM and FAST Levy Documents – Expire January 31, 2024",success,4,0
+2028,2028,OCSE,"IM-21-02","OMB-Approved Insurance Match Standard Input File Record – Expires January 31, 20",success,1,0
+2029,2029,OCSE,"IM-21-01","United Kingdom’s Ratification of the Hague Child Support Convention",success,1,0
+2030,2030,OCSE,"IM-20-06","Section 1115 Grant Funding – Streamlined Process",success,1,0
+2031,2031,OCSE,"IM-20-05","Tribal Property and Uniform Cost Principles",success,2,0
+2032,2032,OCSE,"IM-20-02","United Kingdom's Withdrawal from European Union - Procedures for U.S. States",success,1,0
+2033,2033,OCSE,"IM-20-01","Questions and Answers on Working Child Support Cases with Canada",success,3,0
+2034,2034,OCSE,"IM-19-07","The SSN on OCSE-Issued Pre-Offset Notice",success,1,1
+2035,2035,OCSE,"IM-19-06","Model Procedures for Domestic Violence Cases",success,2,0
+2036,2036,OCSE,"IM-19-05","Judicial Bench Cards for UIFSA and Hague Convention Cases",success,6,0
+2037,2037,OCSE,"IM-19-03","IRS Requirements for Tribes Accessing Federal Tax Information",success,1,0
+2038,2038,OCSE,"IM-19-02","Provide Only U.S. State of Residence for International Locate Requests",success,1,0
+2039,2039,OCSE,"IM-19-01","Outgoing Convention Applications to Portugal for Recognition and Enforcement of ",success,2,0
+2040,2040,OCSE,"IM-18-11","International Locate Requests from Central Authorities Only",success,1,0
+2041,2041,OCSE,"IM-18-10","Sending Wire Payments to Austria, Czech Republic, Slovakia, and Switzerland",success,1,0
+2042,2042,OCSE,"IM-18-08","Hague Child Support Convention Judicial Guide",success,2,0
+2043,2043,OCSE,"IM-18-07","A Caseworker's Guide to Processing Cases with Australia",success,2,0
+2044,2044,OCSE,"IM-18-06","DOL Opinion on Consumer Credit Protection Act and Lump Sum Payments",success,2,0
+2045,2045,OCSE,"IM-18-04","IV-D State Plan Training Materials",success,3,0
+2046,2046,OCSE,"IM-18-02","Use of IV-D Incentive Funds for NCP Work Activities",success,1,0
+2047,2047,OCSE,"IM-18-01","Minimum Requirement for OCSE Debtor File Submittals",success,1,0
+2048,2048,OCSE,"IM-17-03","Toolkit: Child Support Collaborations to Engage and Assist Veterans",success,1,0
+2049,2049,OCSE,"IM-17-02","OCSE Intergovernmental Forms Training",success,1,0
+2050,2050,OCSE,"IM-16-05","Training Materials Available: International Case Processing Under UIFSA (2008)",success,1,0
+2051,2051,OCSE,"IM-16-04","Procedures for Sending Payments to Norway",success,1,0
+2052,2052,OCSE,"IM-16-03","Information for Tribal Access to the FPLS",success,3,0
+2053,2053,OCSE,"IM-16-02","2008 Revisions to the Uniform Interstate Family Support Act",success,3,0
+2054,2054,OCSE,"IM-16-01","Tribal Child Support Budget Toolbox and Technical Assistance",success,1,0
+2055,2055,OCSE,"IM-15-03","Proper Case Type Reporting on the OCSE-157",success,1,0
+2056,2056,OCSE,"IM-15-02","Safe Access to Child Support Services: Scope of the Issue",success,2,0
+2057,2057,OCSE,"IM-15-01","Uniform Interstate Family Support Act (2008) and Hague Treaty Provisions",success,2,0
+2058,2058,OCSE,"IM-14-03","Domestic Violence Awareness Month: Focus on Resources, Collaboration and Confide",success,3,0
+2059,2059,OCSE,"IM-14-01","Medicaid Referrals to the IV-D Agency",success,1,0
+2060,2060,OCSE,"IM-13-03","Changes in Currency Conversion Policy in British Columbia and Manitoba, Canada",success,3,0
+2061,2061,OCSE,"IM-13-02","Updated - A Caseworker's Guide to Processing Cases with Canada",success,2,0
+2062,2062,OCSE,"","Facts on Garnishing Federal Benefits for Child Support",success,2,0
+2063,2063,OCSE,"IM-12-02","Requests for Locate Services, Referrals, and Electronic Interface",success,3,0
+2064,2064,OCSE,"IM-12-01","Alternatives to Incarceration",success,3,1
+2065,2065,OCSE,"IM-10-02","Questions and Responses regarding the Model Tribal System Final Rule",success,2,0
+2066,2066,OCSE,"IM-09-02","A Caseworker's Guide to Processing Cases with El Salvador",success,2,0
+2067,2067,OCSE,"IM-09-01","A Caseworker's Guide to Processing Cases with Switzerland",success,2,0
+2068,2068,OCSE,"IM-08-01","Guidance on Enterprise Architecture in State Automated Human Services Systems",success,2,0
+2069,2069,OCSE,"IM-08-07","IV-A and IV-D Interface and Data Exchange Report",success,2,0
+2070,2070,OCSE,"IM-08-05","Story Behind the Numbers: Understanding and Managing Child Support Debt",success,2,0
+2071,2071,OCSE,"IM-08-03","Guidance on Referral of Medicaid cases to Title IV-D Child Support Enforcement A",success,1,0
+2072,2072,OCSE,"IM-07-10","Earned Income Tax Credit",success,1,0
+2073,2073,OCSE,"IM-07-09","Issuance from the Food Stamp Agency",success,2,0
+2074,2074,OCSE,"IM-07-06","Referrals, Location, Applications, and Electronic Interface between Child Welfar",success,2,0
+2075,2075,OCSE,"IM-07-05","Child Support and Vital Records Data Exchange: Successful Practices",success,2,0
+2076,2076,OCSE,"IM-07-03","Tribal and State Jurisdiction to Establish and Enforce Child Support",success,2,0
+2077,2077,OCSE,"IM-06-04","Distribution in Tribal IV-D Cases, Trainers Guide and Participant Guide",success,1,0
+2078,2078,OCSE,"IM-06-03","Social Security Administration "Court Order Garnishment System"",success,1,0
+2079,2079,OCSE,"IM-06-02","Interstate Child Support Hearings",success,2,0
+2080,2080,OCSE,"IM-05-11","Social Security Administration Updates - 2005",success,1,0
+2081,2081,OCSE,"IM-05-07","Story Behind the Numbers: Collecting Interstate Child Support",success,2,0
+2082,2082,OCSE,"IM-05-05","New Federal Bankruptcy Law Contains Child Support Provisions",success,3,0
+2083,2083,OCSE,"IM-05-03","Optional Checklist for an Exemption of Prior Approval for IT Acquisitions",success,2,0
+2084,2084,OCSE,"IM-05-04","Use of Enterprise Software in Automated Human Services Information Systems",success,1,0
+2085,2085,OCSE,"IM-05-02","Master Contracts For State IT Products or Services",success,1,0
+2086,2086,OCSE,"IM-04-04","Story Behind the Numbers: Who Owes the Child Support Debt?",success,2,0
+2087,2087,OCSE,"IM-03-06","Reactivating the FPLS External Locate Function for Department of Defense to Veri",success,2,0
+2088,2088,OCSE,"IM-03-04","State Best Practices - FPLS Data: Automation, Employer Database, Employer New Hi",success,4,0
+2089,2089,OCSE,"IM-03-03","Quick Guide to Working with the Military as an Employer - 2003",success,1,0
+2090,2090,OCSE,"IM-02-08","State Best Practices - FPLS Data: Quarterly Wage and Unemployment Insurance",success,2,0
+2091,2091,OCSE,"IM-02-05","Employment Verification for Federal Agencies and the Military",success,1,0
+2092,2092,OCSE,"IM-02-04","Brown Bag Training - What's Your Security IQ?",success,4,0
+2093,2093,OCSE,"IM-02-03","State Best Practices - FPLS Data: Quarterly Wage, Data Match and Asset Seizure, ",success,4,0
+2094,2094,OCSE,"IM-02-01","Income Withholding from Federal Employees Working on Indian Reservations",success,1,0
+2095,2095,OCSE,"IM-01-07","Final Rules for SCHIP and Medicaid Presumptive Eligibility",success,4,0
+2096,2096,OCSE,"IM-01-08","Techniques for One-State and Limited Services Interstate Case Processing",success,2,0
+2097,2097,OCSE,"IM-01-06","Techniques for Effective Income Withholding - 2001",success,2,0
+2098,2098,OCSE,"IM-01-04","OCSE Web Page for Financial Institution Data Match",success,1,0
+2099,2099,OCSE,"IM-00-10","Guidance on the Prohibition of National Origin Discrimination",success,2,1
+2100,2100,OCSE,"IM-00-11","Tips, Techniques, and Technology for using FPLS Data",success,1,0
+2101,2101,OCSE,"IM-00-04","Impact on Welfare Recidivism of PRWORA Child Support Arrears Distribution Policy",success,1,0
+2102,2102,OCSE,"IM-99-01","Use of the Federal Parent Locator Service for Child Welfare Services",success,1,0
+2103,2103,OCSE,"IM-98-03","Financial Support for Children from Benefits Paid by Veterans Affairs",success,2,0
+2104,2104,OCSE,"IM-98-01","Directory of Interstate Central Registries",success,1,1
+2105,2105,OCSE,"IM-97-07","Technical Amendments Legislation Pertaining to Medical Child Support Orders",success,1,0
+2106,2106,OCSE,"IM-97-03","Accreditation of Genetic Testing Labs",success,1,0
+2107,2107,OCSE,"IM-96-04","Child Support Recovery Act of 1992",success,1,0
+2108,2108,OCSE,"IM-96-03","Enlistment Policy for Men Who Acknowledge Paternity",success,1,0
+2109,2109,OCSE,"IM-96-01","Tools to Assist Child Support Enforcement Agencies with Issues Involving Militar",success,1,0
+2110,2110,OCSE,"IM-95-03","Full Faith and Credit for Child Support Orders Act",success,2,0
+2111,2111,OCSE,"IM-93-06","Administrative Determination of Paternity",success,1,0
+2112,2112,OCSE,"IM-93-02","State Monitoring of Program Standards Implementation",success,1,0
+2113,2113,OCSE,"IM-92-09","State Advancements in Paternity Establishment",success,1,0
+2114,2114,OCSE,"IM-89-08","Employers' Wage Withholding Guide for Small Business",success,1,0
+2115,2115,OCSE,"ACF-OCSS-PIQ-25-01","Policies to Promote Safety and Economic Stability for Survivors of Domestic Viol",success,8,0
+2116,2116,OCSE,"PIQ-23-01","Responding to Specific Measures Requests from Hague Convention Countries",success,2,0
+2117,2117,OCSE,"PIQ-22-01","Processing Incoming Cases under the 2007 Hague Child Support Convention",success,2,0
+2118,2118,OCSE,"PIQ-21-01","Translation in Outgoing International Cases",success,1,0
+2119,2119,OCSE,"PIQT-21-01","Tribal Contract Provisions",success,3,0
+2120,2120,OCSE,"PIQ-20-01","Using the Intergovernmental Forms for Case Processing",success,2,0
+2121,2121,OCSE,"PIQ-19-01","State Medicaid Agency Incentive Payments for Assigned Medical Support Collection",success,2,1
+2122,2122,OCSE,"PIQT-19-01","Allowable Costs for Tribal Child Support Programs",success,3,0
+2123,2123,OCSE,"PIQ-18-03","Federal Tax Refund Offset, Administrative Offset, and Passport Denial for Tribes",success,3,0
+2124,2124,OCSE,"PIQ-18-01","Electronic Documents and Tribunals under UIFSA Section 316",success,1,0
+2125,2125,OCSE,"PIQ-12-02","Partnering with other programs, including outreach, referral, and case managemen",success,2,0
+2126,2126,OCSE,"PIQ-12-01","Administrative Offset of Attorney Fees Under the Equal Access to Justice Act",success,1,0
+2127,2127,OCSE,"PIQ-10-01","Federal Financial Participation and Non-IV-D Activities",success,2,0
+2128,2128,OCSE,"PIQ-09-02","Use of Electronic Signatures on Applications for IV-D Services",success,1,0
+2129,2129,OCSE,"PIQ-09-01","Garnishment of Federal Payments for Child Support Obligations",success,2,0
+2130,2130,OCSE,"PIQ-08-01","Inclusion of Self-Insurers in the Federal Insurance Match",success,1,0
+2131,2131,OCSE,"PIQ-07-04","Enforcing Child Support when the Obligor is in Bankruptcy",success,1,0
+2132,2132,OCSE,"PIQ-07-02","FFP for State Systems Related to Tribal IV-D Programs: Cases for Federal Tax Ref",success,1,0
+2133,2133,OCSE,"PIQ-07-02/PIQT-07-02","FFP for State Automated Systems Costs for Service Agreements; Submitting Tribal ",success,1,0
+2134,2134,OCSE,"PIQ-07-03","Disclosures of Child Support Enforcement Information to State IV-B & IV-E Child ",success,1,0
+2135,2135,OCSE,"PIQT-07-01","Moving from a Start-up to a Comprehensive Tribal IV-D Program",success,1,0
+2136,2136,OCSE,"PIQ-07-01","Federal Income Tax Refund Offset Program to Recoup Medical or Birthing Expenses ",success,1,0
+2137,2137,OCSE,"PIQ-06-02","Guidance for Sending the National Medical Support Notice to the Defense Manpower",success,1,0
+2138,2138,OCSE,"PIQ-05-06","Non-Recurring, Short Term Cash Benefit TANF Cases and Closing such Cases that we",success,1,0
+2139,2139,OCSE,"PIQ-05-05","Sending National Medical Support Notice to Defense Management Data Center",success,1,0
+2140,2140,OCSE,"PIQT-05-04","State IV-D Agencies' Use of the Federal Income Withholding Form on Tribal Employ",success,1,0
+2141,2141,OCSE,"PIQ-05-03","FFP Costs of Carrying Out Expedited Administrative Processes under Section 466(a",success,1,0
+2142,2142,OCSE,"PIQ-05-02","Case Initiation of Previously Closed IV-D Cases",success,1,0
+2143,2143,OCSE,"PIQ-05-01","Reduction of the Unreimbursed Assistance Balance when Permanently-Assigned Arrea",success,1,0
+2144,2144,OCSE,"PIQT-05-02","Applicability of 45 CFR Part 303 to Tribal IV-D Programs, Jurisdiction, and Coop",success,1,0
+2145,2145,OCSE,"PIQT-05-03","Use of IV-D Funding to Pay for Private Attorney Fees for Establishment and Modif",success,1,0
+2146,2146,OCSE,"PIQT-04-01","Direct Income Withholding when Employers are Subject to a Tribe's Jurisdiction",success,1,0
+2147,2147,OCSE,"PIQ-04-02","Electronic Disbursement of Child Support Payments",success,1,0
+2148,2148,OCSE,"PIQ-04-03","Medical Support Enforcement under the IV-D Program and Privacy Protections under",success,1,0
+2149,2149,OCSE,"PIQ-03-10","Electronic Payment Withdrawal as an Alternative to Income Withholding",success,1,0
+2150,2150,OCSE,"PIQ-03-09","Case Closure of Child-Only Medicaid Cases",success,1,0
+2151,2151,OCSE,"PIQ-03-08","Medical Support in Child Support Orders - Definition of Reasonable Cost",success,1,0
+2152,2152,OCSE,"PIQ-03-07","Hold Period for Joint, Non-IV-A Tax Refund Offsets",success,1,0
+2153,2153,OCSE,"PIQ-03-06","Noncustodial Parents in the Witness Protection Program",success,1,0
+2154,2154,OCSE,"PIQ-03-05","Private Collection Agencies - Agent of a Child and Third Party Address for Corre",success,1,0
+2155,2155,OCSE,"PIQ-03-01","Paternity Disestablishment",success,1,0
+2156,2156,OCSE,"PIQ-03-04","Foreign Currency Child Support Payments",success,1,0
+2157,2157,OCSE,"PIQ-03-02","Recoupment of a Child Support Overpayment, Guidance 2003",success,1,0
+2158,2158,OCSE,"PIQ-03-03","Issuing and Complying with the Federal Income Withholding",success,1,0
+2159,2159,OCSE,"PIQ-02-03","Medical Support Enforcement Policy Clarifications",success,1,0
+2160,2160,OCSE,"PIQ-02-02","Requests by Custodial Parents for a Change of Address for the Disbursement of Su",success,1,0
+2161,2161,OCSE,"PIQ-02-01","Recoupment of a Child Support Overpayment, Guidance 2002",success,1,0
+2162,2162,OCSE,"PIQ-01-04","Selling of Child Support Arrears",success,2,0
+2163,2163,OCSE,"PIQ-01-06","Thresholds for Federal Income Tax Refund Offset",success,1,0
+2164,2164,OCSE,"PIQ-01-05","SSA Requests for Information from State Case Registries",success,1,0
+2165,2165,OCSE,"PIQ 01-02","Locate Requirements After the Expanded Federal Parent Locator Service",success,1,0
+2166,2166,OCSE,"PIQ-01-01","Use of the Federal Order/Notice to Withhold Income for Child Support",success,1,0
+2167,2167,OCSE,"PIQ-00-03","State IV-D Program Flexibility with Respect to Low Income Obligors",success,2,0
+2168,2168,OCSE,"PIQ-99-06","Direct Imposition of Liens and Levies Across State Lines",success,1,0
+2169,2169,OCSE,"PIQ-99-05","Social Security Numbers on License Applications and Other Documents",success,1,0
+2170,2170,OCSE,"PIQ-99-03","Policy Supporting Two Parent Families/Compromise of Arrearages",success,1,0
+2171,2171,OCSE,"PIQ-99-04","Direct Unemployment Compensation Intercepts",success,1,0
+2172,2172,OCSE,"PIQ-99-02","Order/Notice to Withhold Income For Child Support",success,1,0
+2173,2173,OCSE,"PIQ-99-01","Direct Application for Title IV-D Services from International Residents",success,1,0
+2174,2174,OCSE,"","e-NMSN - Answers to Employers' Questions",success,1,0
+2175,2175,OCSE,"","How does a federal tax refund offset work?",success,1,0
+2176,2176,OCSE,"","What is the role of the federal Office of Child Support Services?",success,1,0
+2177,2177,OCSE,"","How does the Passport Denial Program work?",success,1,0
+2178,2178,OCSE,"","What Employers Should Know When Working with Tribes",success,2,0
+2179,2179,OCSE,"","Income Withholding and Medical Support for Federal Workers’ Compensation – Answe",success,2,0
+2180,2180,OCSE,"","Income Withholding - Answers to Employers' Questions",success,6,0
+2181,2181,OCSE,"","Bonus/Lump Sum Reporting – Answers to Employers’ Questions",success,3,0
+2182,2182,OCSE,"","Electronic Income Withholding Orders (e-IWO) - Answers to Employers’ Questions",success,1,0
+2183,2183,OCSE,"","Thrift Savings Plan Questions & Answers For OCSS",success,3,0
+2184,2184,OCSE,"","What steps should I take if the State Department has denied my passport because ",success,1,0
+2185,2185,OCSE,"","Will I have extra costs if my agency has to work on my case with another state o",success,1,0
+2186,2186,OCSE,"","What does the child support program do?",success,1,0
+2187,2187,OCSE,"","How is the amount of my child support order set?",success,1,0
+2188,2188,OCSE,"","New Hire Reporting - Answers to Employer Questions",success,1,2
+2189,2189,OCSE,"","What is the difference between a judicial and an administrative modification?",success,1,0
+2190,2190,OCSE,"","How is a child support order changed?",success,2,0
+2191,2191,OCSE,"","Can I request a change to my order without going through the child support offic",success,1,0
+2192,2192,OCSE,"","If I ask to have my order changed, will the amount decrease?",success,1,0
+2193,2193,OCSE,"","What if I have more than one child support order?",success,1,0
+2194,2194,OCSE,"","If either parent loses a job or is earning more money, will child support automa",success,1,0
+2195,2195,OCSE,"","As the noncustodial parent, what happens if I have remarried and part of the inc",success,1,0
+2196,2196,OCSE,"","How does the Federal Tax Refund Offset Program handle interstate cases?",success,1,0
+2197,2197,OCSE,"","What can I do to make sure my child support order amount is fair?",success,1,0
+2198,2198,OCSE,"","How do I sign up for child support services?",success,1,0
+2199,2199,OCSE,"","My income has changed, can my order be revised?",success,1,0
+2200,2200,OCSE,"","When is a child support case eligible for the Federal Tax Refund Offset Program?",success,1,0
+2201,2201,OCSE,"","How can I contact my local child support office?",success,1,0
+2202,2202,OCSE,"","Can I establish paternity even though the father of my child lives in another st",success,1,0
+2203,2203,OCSE,"","When the noncustodial parent is not paying, who can help me collect money?",success,1,0
+2204,2204,OCSE,"","How much do the child support services cost?",success,1,0
+2205,2205,OCSE,"","Is there a limit to the amount of money that can be taken from my paycheck for c",success,1,0
+2206,2206,OCSE,"","How can I access payment information on my child support account?",success,1,0
+2207,2207,OCSE,"","What is income withholding?",success,1,0
+2208,2208,OCSE,"","Who do I contact if I know the location of a non-paying parent?",success,1,0
+2209,2209,OCSE,"","What documents do I need to bring to the child support office?",success,1,0
+2210,2210,OCSE,"","My child is no longer a minor. Will the state child support agency still submit ",success,1,0
+2211,2211,OCSE,"","How can I get help with parenting time or enforcing visitation so I can see my c",success,1,0
+2212,2212,OCSE,"","Is there an application fee?",success,1,0
+2213,2213,OCSE,"","Income Withholding and Medical Support for Department of Veterans Affairs Benefi",success,3,1
+2214,2214,OCSE,"","Income Withholding and Medical Support for Social Security Beneficiaries – Answe",success,1,0
+2215,2215,OCSE,"","Medical Support - Answers to Employers' Questions",success,2,0
+2216,2216,OCSE,"","Remitting Payments - Answers to Employers’ Questions",success,4,0
+2217,2217,OCSE,"","If I have a tribal child support order and I am moving off of my reservation, wi",success,1,0
+2218,2218,OCSE,"","Income Withholding and Medical Support for Federal Retirees - Answers for State ",success,2,0
+2219,2219,OCSE,"","Federal Collection and Passport Denial Technical Guide",success,2,0
+2220,2220,OCSE,"","Overview of the OCSS IV&V Assessment",success,2,0
+2221,2221,OCSE,"","Interstate Case Reconciliation Case ID Matrix",success,2,0
+2222,2222,OCSE,"","Interstate Case Reconciliation Reason Codes",success,2,0
+2223,2223,OCSE,"","MSFIDM State Cost Reimbursement Table",success,2,0
+2224,2224,OCSE,"","A Guide to the National Directory of New Hires",success,2,0
+2225,2225,OCSE,"","Thrift Savings Plan Quick Guide for Child Support Agencies",success,2,0
+2226,2226,OCSE,"","Reporting Employee Terminations for Private Employers and Federal Agencies",success,1,0
+2227,2227,OCSE,"","IRG State and Tribal Administrator Guide",success,2,0
+2228,2228,OCSE,"","IRG State and Tribal Child Support User Guide",success,2,0
+2229,2229,OCSE,"","NDNH Research Request Form",success,2,0
+2230,2230,OCSE,"","NDNH Guide for Data Submission",success,5,0
+2231,2231,OCSE,"","Operational APD Instructions and Template",success,2,0
+2232,2232,OCSE,"","Organization Multiple FEIN Templates",success,5,0
+2233,2233,OCSE,"","IRG State Profile Questions",success,2,0
+2234,2234,OCSE,"","IRG Tribal Profile Questions",success,2,0
+2235,2235,OCSE,"","e-NMSN Software Interface Specification",success,8,0
+2236,2236,OCSE,"","Federal Case Registry Interface Guidance Document",success,20,0
+2237,2237,OCSE,"","IRG Download Record Layout",success,2,0
+2238,2238,OCSE,"","Federal Case Registry Data Election Guide",success,2,0
+2239,2239,OCSE,"","Essentials for Attorneys in Child Support Enforcement",success,18,0
+2240,2240,OCSE,"","Insurance Match Implementation Guide",success,2,0
+2241,2241,OCSE,"","FAST Levy Software Interface Specification",success,2,0
+2242,2242,OCSE,"","Multistate Financial Institution Data Match Specifications Handbook",success,2,0
+2243,2243,OCSE,"","APD 101/201 Presentation",success,2,0
+2244,2244,OCSE,"","A Guide to Processing the National Interstate Case Reconciliation",success,2,0
+2245,2245,OCSE,"","Model Tribal System Documentation",success,4,0
+2246,2246,OCSE,"","Automated Systems for Child Support Enforcement: A Guide for States",success,3,0
+2247,2247,OCSE,"","Tribal APD Template",success,2,0
+2248,2248,OCSE,"","System-to-System Interface Option for States and Employers",success,2,0
+2249,2249,OCSE,"","Personal Computer Hardware Specifications",success,2,0
+2250,2250,OCSE,"","Income Withholding for Support and the State Disbursement Unit",success,2,0
+2251,2251,OCSE,"","Finding the Right Security Control Assessor",success,2,0
+2252,2252,OCSE,"","Child and Spousal Support for Courts and Attorneys",success,1,0
+2253,2253,OCSE,"","Debt Inquiry Service System Interface Specifications",success,2,0
+2254,2254,OCSE,"","Roundtable on Domestic Violence",success,2,0
+2255,2255,OCSE,"IM-13-01","A Caseworker's Guide to Processing Cases with Israel",success,2,0
+2256,2256,OCSE,"","A Guidebook for a Common Methodology for Determining NDNH-Attributable Child Sup",success,2,0
+2257,2257,OCSE,"","No-Programming Option for Employers",success,2,0
+2258,2258,OCSE,"","IV&V Assessment Options",success,2,0
+2259,2259,OCSE,"","Statutory and Regulatory Authority for Income Withholding Allocation",success,1,0
+2260,2260,OCSE,"","Online Social Security Number Verification Tool",success,1,1
+2261,2261,OCSE,"","Employees Called for Active Duty",success,1,0
+2262,2262,OCSE,"","Procurement and Contracts Presentation",success,2,0
+2263,2263,OCSE,"","CSENet Interface Guidance Document",success,18,0
+2264,2264,OCSE,"","State Systems APD Guide",success,2,0
+2265,2265,OCSE,"","Automated Systems For Child Support Enforcement: A Guide For Enhancing Case Clos",success,2,0
+2266,2266,OCSE,"","Arrears Reconciliation Calculator",success,3,0
+2267,2267,OCSE,"","Cost Benefit Analysis Illustrated",success,2,0
+2268,2268,OCSE,"","Feasibility, Alternatives, and Cost Benefit Analysis Guide",success,2,0
+2269,2269,OCSE,"TDCL-19-02","Open Comment Period – Tribal Direct Funding Request: 45 CFR 309 Plan",success,2,0
+2270,2270,OCSE,"TDCL-16-01","Tribal Access to the FPLS",success,2,0
+2271,2271,OCSE,"PIQ-11-01","Spousal Support Only Cases",success,1,0
+2272,2272,OCSE,"","The Personal Responsibility and Work Opportunity Reconciliation Act of 1996",success,1,0
+2273,2273,ORR,"25-15","FY 2025 Refugee Support Services Formula Allocations",success,2,0
+2274,2274,ORR,"25-14","Replacement Award for Preferred Communities Program",no_documents,0,0
+2275,2275,ORR,"25-13","Reduction of the Refugee Cash Assistance and Refugee Medical Assistance Eligibil",success,1,0
+2276,2276,ORR,"25-12","Arkansas Replacement Designees",no_documents,0,0
+2277,2277,ORR,"25-11","CMS Guidance on Adhering to Early and Periodic Screening, Diagnostic, and Treatm",failed,0,2
+2278,2278,ORR,"25-10","Youth Mentoring Refugee Support Services Set-Aside: FY 2025 Allocation",success,1,0
+2279,2279,ORR,"25-09","Services to Older Refugees Refugee Support Services Set-Aside: FY 2025 Allocatio",success,1,0
+2280,2280,ORR,"25-08","Refugee School Impact Refugee Support Services Set-Aside: FY 2025 Allocation",success,1,0
+2281,2281,ORR,"25-07","Refugee Health Promotion Refugee Support Services Set-Aside: FY 2025 Allocation",success,2,0
+2282,2282,ORR,"25-06","Examples of Dual Enrollment Involving ORR-Funded Refugee Programs",no_documents,0,0
+2283,2283,ORR,"25-05","Refugee Support Services: Extension of Obligation and Liquidation Deadlines for ",no_documents,0,0
+2284,2284,ORR,"25-04","Refugee Cash and Medical Assistance (CMA): FY 2025 Obligation Deadline Extended ",success,1,0
+2285,2285,ORR,"25-03","Verification of Release Cards for Unaccompanied Children Released from ORR Custo",success,1,0
+2286,2286,ORR,"25-02","ORR-Funded Program: Support for Trauma-Affected Refugees (STAR)",no_documents,0,0
+2287,2287,ORR,"25-01","Examples and Resources to Advance Health ORR Refugee Programs",no_urls,0,0
+2288,2288,ORR,"24-14","FY 2024 Refugee Support Services Formula Allocations",no_documents,0,0
+2289,2289,ORR,"24-13","Refugee Health Promotion Refugee Support Services Set-Aside: FY24 Funding- Secon",success,2,0
+2290,2290,ORR,"24-12","Refugee School Impact Refugee Support Services Set-Aside: FY24 Funding- Second A",success,1,0
+2291,2291,ORR,"24-11","Emergency Preparedness Training for Resettled Refugee Communities",failed,0,1
+2292,2292,ORR,"24-10","ORR’s Unaccompanied Children Program Regional Structure",no_documents,0,0
+2293,2293,ORR,"24-09","Revised State Plan Template for Grants to States and Replacement Designees for R",no_documents,0,0
+2294,2294,ORR,"24-08","Refugee Health Promotion Refugee Support Services Set-Aside:  FY 2024 Funding (P",success,1,0
+2295,2295,ORR,"24-07","Youth Mentoring Refugee Support Services Set-Aside:  FY 2024 Funding (PDF)",success,1,0
+2296,2296,ORR,"24-06","Services to Older Refugees Refugee Support Services Set-Aside:  FY 2024 Funding ",success,1,0
+2297,2297,ORR,"24-05","Refugee School Impact Refugee Support Services Set-Aside:  FY 2024 Funding (PDF)",success,1,0
+2298,2298,ORR,"24-04","Timely Placement of Unaccompanied Children into the Unaccompanied Refugee Minors",success,1,0
+2299,2299,ORR,"24-03","Refugee Data Submission System for Formula Funds Allocations and Service Analysi",success,1,0
+2300,2300,ORR,"24-02","Refugee Technical Assistance Grantee (PDF)",success,1,0
+2301,2301,ORR,"24-01","Eligibility for Refugee Resettlement Program benefits and services: Parolees fro",success,2,0
+2302,2302,ORR,"23-39","Response to a Potential Government Shutdown (PDF)",success,1,0
+2303,2303,ORR,"23-38","Afghan Refugee Support Services: FY 2023 Third Allocation (PDF)",success,1,0
+2304,2304,ORR,"23-37","Ukrainian Refugee Support Services: FY 2023 Third Allocation (PDF)",success,1,0
+2305,2305,ORR,"23-36","Reminder: Immigration-Related Legal Assistance Allowable Under ORR ASA Funding (",success,1,0
+2306,2306,ORR,"23-35","Private Sponsorship and Intersection with the ORR-Funded Refugee Resettlement Pr",success,1,0
+2307,2307,ORR,"23-34","Refugee Cash and Medical Assistance (CMA): FY 2023 and FY 2024 Deadlines Extende",success,1,0
+2308,2308,ORR,"23-33","ORR-Funded Behavioral Health Support Resources for Afghan Arrivals (PDF)",success,1,0
+2309,2309,ORR,"23-32","Enhanced ORR-HUD Collaboration on Affordable Housing Access (PDF)",success,1,0
+2310,2310,ORR,"23-31","Cash and Medical Assistance Program: Quarterly Report on Expenditures and Obliga",success,1,0
+2311,2311,ORR,"23-30","Medicaid and Children’s Health Insurance Plan Updates and Recommendations (PDF)",success,1,0
+2312,2312,ORR,"23-29","Ukrainian Refugee Support Services: FY 2023 Second Allocation (PDF)",success,1,0
+2313,2313,ORR,"23-28","Afghan Refugee Health Promotion Supplement: FY 2023 Second Allocation (PDF)",success,1,0
+2314,2314,ORR,"23-27","Afghan Refugee School Impact: Support to Schools Funding (PDF)",success,1,0
+2315,2315,ORR,"23-26","Afghan Refugee Support Services: FY 2023 Second Allocation (PDF)",success,1,0
+2316,2316,ORR,"23-25","Refugee Support Services:  Extension of Obligation and Liquidations Deadlines fo",success,1,0
+2317,2317,ORR,"23-24","Refugee Support Services: Supplemental Federal Financial Report (SF-425) Instruc",success,1,0
+2318,2318,ORR,"23-23","Refugee Health Promotion Refugee Support Services Set-Aside: FY 2023 Supplementa",success,1,0
+2319,2319,ORR,"23-22","Refugee School Impact Refugee Support Services Set-Aside: FY 2023 Supplemental F",success,1,0
+2320,2320,ORR,"23-21","FY 2023 Refugee Support Services Formula Allocations (PDF)",success,1,0
+2321,2321,ORR,"23-20","Afghan Refugee Support Services Supplement: FY 2023 Legal Assistance Allocation",success,1,0
+2322,2322,ORR,"23-19","Continued Eligibility for the Unaccompanied Refugee Minors Program for Unaccompa",success,1,0
+2323,2323,ORR,"23-18","National Youth Leadership Council for Refugees and Newcomers",no_urls,0,0
+2324,2324,ORR,"23-17","ORR-Funded Program: Services to Afghan Survivors Impacted by Combat (PDF)",success,1,0
+2325,2325,ORR,"23-16","Survivors of Torture Program for Nicaraguan Former Political Prisoners (PDF)",success,1,0
+2326,2326,ORR,"23-15","Immigration Legal Services for Afghan Arrivals (PDF)",success,1,0
+2327,2327,ORR,"23-14","Revisions to the Refugee Arrivals Data System for Formula Funds Allocations (ORR",success,1,0
+2328,2328,ORR,"23-13","Parole Process for Cubans, Haitians, Nicaraguans, and Venezuelans (PDF)",success,1,0
+2329,2329,ORR,"23-12","ORR-Funded Behavioral Health Support Program for Afghan Arrivals",success,1,0
+2330,2330,ORR,"23-11","Ukrainian Refugee Support Services: FY 2023 First Allocation (PDF)",success,1,0
+2331,2331,ORR,"23-10","Afghan Refugee Health Promotion Supplement: FY 2023 (PDF)",success,1,0
+2332,2332,ORR,"23-09","Afghan Refugee Support Services: FY 2023 First Allocation (PDF)",success,1,0
+2333,2333,ORR,"23-08","Clarification on the Domestic Medical Screening Program",success,2,0
+2334,2334,ORR,"23-07","New USCIS Process for Venezuelans (PDF)",success,1,0
+2335,2335,ORR,"23-06","Ukrainian Refugee School Impact Supplement: FY 2023 (PDF)",success,1,0
+2336,2336,ORR,"23-05","Ukrainian Refugee Health Promotion Supplement: FY 2023 (PDF)",success,1,0
+2337,2337,ORR,"23-04","Refugee School Impact Refugee Support Services Set-Aside: FY 2023 Funding (PDF)",success,1,0
+2338,2338,ORR,"23-03","Youth Mentoring Refugee Support Services Set-Aside: FY 2023 Funding (PDF)",success,1,0
+2339,2339,ORR,"23-02","Services to Older Refugees Refugee Support Services Set-Aside: FY 2023 Funding (",success,1,0
+2340,2340,ORR,"23-01","Refugee Health Promotion Refugee Support Services Set-Aside: FY 2023 Funding (PD",success,1,0
+2341,2341,ORR,"22-24","ORR-5 Individuals with No Alien Number: Data Submission Guidance",no_documents,0,0
+2342,2342,ORR,"22-23","Afghan Refugee Support Services Supplement: FY 2022 Fourth Allocation (PDF)",success,1,0
+2343,2343,ORR,"22-22","Immigration Legal Services for Unaccompanied Children Enrolled in the Unaccompan",success,1,0
+2344,2344,ORR,"22-21","Ukrainian Refugee Support Services Supplement: FY 2022 Allocation (PDF)",success,1,0
+2345,2345,ORR,"22-20","Clarification Related to Ukrainian Humanitarian Parolees’ Eligibility for RCA an",success,1,0
+2346,2346,ORR,"22-19","FY 2022 Refugee Support Services Formula Allocations (PDF)",success,1,0
+2347,2347,ORR,"22-18","Afghan Refugee School Impact: Support to Schools Supplement (PDF)",success,1,0
+2348,2348,ORR,"22-17","Transition of the Alabama Refugee Resettlement Program (PDF)",success,1,0
+2349,2349,ORR,"22-16","Afghan Services to Older Refugees Supplemental: FY 2022 (PDF)",success,1,0
+2350,2350,ORR,"22-15","Afghan Youth Mentoring Supplemental: FY 2022 (PDF)",success,1,0
+2351,2351,ORR,"22-14","Afghan Refugee Health Promotion: FY 2022 Second Supplement (PDF)",success,1,0
+2352,2352,ORR,"22-13","Afghan Refugee School Impact: FY 2022 Second Supplement (PDF)",success,1,0
+2353,2353,ORR,"22-12","Expansion of the Refugee Cash Assistance and Refugee Medical Assistance Eligibil",success,1,0
+2354,2354,ORR,"22-11","Afghan Refugee Support Services Supplement: FY 2022 Third Allocation: Legal Assi",success,1,0
+2355,2355,ORR,"22-10","Afghan Refugee Support Services Supplement: FY 2022 Second Allocation (PDF)",success,1,0
+2356,2356,ORR,"22-09","State Fiscal Year 2021 Arrival and Service Data Collection Process (PDF)",success,1,0
+2357,2357,ORR,"22-08","Refugee Mental Health Initiative within the Refugee Health Promotion Refugee Sup",success,1,0
+2358,2358,ORR,"22-07","Services to Older Refugees Refugee Support Services Set-Aside: FY 2022 Funding (",success,1,0
+2359,2359,ORR,"22-06","Refugee School Impact Refugee Support Services Set-Aside: FY 2022 Funding (PDF)",success,1,0
+2360,2360,ORR,"22-05","Afghan Health Promotion Supplement: FY 2022 Quarter 1 (PDF)",success,1,0
+2361,2361,ORR,"22-04","Afghan Refugee School Impact Supplement: FY 2022 Quarter 1 (PDF)",success,1,0
+2362,2362,ORR,"22-03","Afghan Refugee Support Services Supplement: FY 2022 Quarter 1 (PDF)",success,1,0
+2363,2363,ORR,"22-02","Replacement Designee Selections for Fiscal Year 2022 (PDF)",success,1,0
+2364,2364,ORR,"22-01","Increase in Public/Private Partnership (PPP) Refugee Cash Assistance (RCA) Month",success,1,0
+2365,2365,ORR,"21-18","Eligibility Status of Certain Afghan Parolees (PDF)",success,1,0
+2366,2366,ORR,"21-17","FY 2021 RSS Afghan Special Immigrant Visa Holders and Special Immigrant (SI/SQ) ",success,1,0
+2367,2367,ORR,"21-16","Clarification Related to Afghan SQ/SI Parolees Eligibility for RCA/RMA (PDF)",success,1,0
+2368,2368,ORR,"21-15","Afghan Arrivals Being Processed within the United States (PDF)",success,1,0
+2369,2369,ORR,"21-14","Updates to RADS Functionality (PDF)",success,1,0
+2370,2370,ORR,"21-13","Revisions to the Refugee Data Submission System for Formula Funds Allocations (O",success,1,0
+2371,2371,ORR,"21-12","FY 2021 Refugee Health Promotion Refugee Support Services Set-Aside (PDF)",success,1,0
+2372,2372,ORR,"21-11","FY 2021 Youth Mentoring Refugee Support Services Set-Aside (PDF)",success,1,0
+2373,2373,ORR,"21-10","FY 2021 Refugee Support Services Formula Allocations (PDF)",success,1,0
+2374,2374,ORR,"21-09","State Plan Template for Grants to States and Replacement Designees for Refugee R",success,1,0
+2375,2375,ORR,"21-08","COVID-19 Vaccinations and the Initial Domestic Medical Screening (PDF)",success,1,0
+2376,2376,ORR,"21-07","FY 2021 Replacement Designee Competition (PDF)",success,1,0
+2377,2377,ORR,"21-06","Transition of the North Dakota Refugee Resettlement Program (PDF)",success,1,0
+2378,2378,ORR,"21-05","COVID-19 Vaccinations and the Role of ORR Grantees",no_urls,0,0
+2379,2379,ORR,"21-04","Inquiries for the Refugee Policy Unit (PDF)",success,1,0
+2380,2380,ORR,"21-03","ORR Grants May Be Used as a Match for CNCS Programs (PDF)",success,1,0
+2381,2381,ORR,"21-02","State Arrival and Service Data Collection Process for Fiscal Year 2020 (PDF)",success,1,0
+2382,2382,ORR,"21-01","Wilson-Fish TANF Coordination Program Grantees (PDF)",success,1,0
+2383,2383,ORR,"20-12","FY 2021 Refugee School Impact — Refugee Support Services Set-Aside (PDF)",success,1,0
+2384,2384,ORR,"20-11","FY 2021 Services to Older Refugees — Refugee Support Services Set-Aside (PDF)",success,1,0
+2385,2385,ORR,"20-10","FY 2020 Revised Refugee Support Services Formula Allocations (PDF)",success,1,0
+2386,2386,ORR,"20-09","FY 2020 Youth Mentoring Set-Aside (PDF)",success,1,0
+2387,2387,ORR,"20-08","FY 2020 - 2021 Refugee Health Promotion Support Services Set-Aside (PDF)",success,1,0
+2388,2388,ORR,"20-07","FY 2020 Refugee Support Services COVID-19 Supplemental Allocation (PDF)",success,1,0
+2389,2389,ORR,"20-06","FY 2020 Refugee Support Services Formula Allocations (PDF)",success,1,0
+2390,2390,ORR,"20-05","Changes to the Categorization of Refugee Resettlement Programs (PDF)",success,1,0
+2391,2391,ORR,"20-04","ORR Populations, Public Charge, and U.S. Supreme Court Ruling of January 27, 202",success,1,0
+2392,2392,ORR,"20-03","Fiscal Year 2020 Refugee School Impact Support Services Set-Aside",failed,0,1
+2393,2393,ORR,"20-02","Fiscal Year 2020 Services to Older Refugees Support Services Set-Aside",no_documents,0,0
+2394,2394,ORR,"20-01","State Arrival and Service Data Process for FY 2019",failed,0,1
+2395,2395,ORR,"19-06","DHS Final Rule on Public Charge Does Not Affect ORR Populations",no_documents,0,0
+2396,2396,ORR,"19-05","FY 2019 Refugee Support Services Formula Allocation",failed,0,1
+2397,2397,ORR,"19-04","FY 2019 Youth Mentoring Set-Aside",failed,0,1
+2398,2398,ORR,"19-03","Changes to Categorization of Refugee Resettlement Programs",no_documents,0,0
+2399,2399,ORR,"19-02","State Arrival and Service Data Collection Process for Fiscal Year 2018",failed,0,1
+2400,2400,ORR,"19-01","Refugee Technical Assistance Grantee",no_documents,0,0
+2401,2401,ORR,"18-08","Fiscal Year 2019 Services to Older Refugees Support Services Set-Aside",failed,0,1
+2402,2402,ORR,"18-07","Fiscal Year 2019 Refugee School Impact Support Services Set-Aside",failed,0,1
+2403,2403,ORR,"18-06","FY 2018 Youth Mentoring Set-Aside",failed,0,1
+2404,2404,ORR,"18-05","FY 2018 Refugee Social Services Formula Allocations",no_documents,0,0
+2405,2405,ORR,"18-04","Public Charge NPRM and ORR Populations",no_documents,0,0
+2406,2406,ORR,"18-03","Missouri Replacement Designees",no_documents,0,0
+2407,2407,ORR,"18-02","Fiscal Year 2018 Services to Older Refugees Social Services Set-Aside",failed,0,1
+2408,2408,ORR,"18-01","Fiscal Year 2018 Refugee School Impact Social Services Set-Aside",failed,0,1
+2409,2409,ORR,"17-09","Fiscal Year 2017 Targeted Assistance Formula Allocations",no_documents,0,0
+2410,2410,ORR,"17-08","Expanded Data Match Process for Fiscal Year 2018",failed,0,1
+2411,2411,ORR,"17-07","FY 2017 Refugee Social Services Formula Allocations",no_documents,0,0
+2412,2412,ORR,"17-06","Monitoring Initiative",no_documents,0,0
+2413,2413,ORR,"17-05","Discontinuation of Cuban/Haitian Social Services Set Aside Program",no_documents,0,0
+2414,2414,ORR,"17-04","Maine Replacement Designee",no_documents,0,0
+2415,2415,ORR,"17-03","Texas Replacement Designees",no_documents,0,0
+2416,2416,ORR,"17-02","Human Trafficking Awareness Day 2017",no_documents,0,0
+2417,2417,ORR,"17-01","Data Submission Procedures for FY 2017 Social Services and Targeted Assistance G",failed,0,1
+2418,2418,ORR,"16-11","Additional Fiscal Year 2016 Funding",no_documents,0,0
+2419,2419,ORR,"16-10","Fiscal Year 2016 Targeted Assistance Formula Allocations",no_documents,0,0
+2420,2420,ORR,"16-09","Cuban/Haitian Social Services Set-Aside Fiscal Year 2017",no_documents,0,0
+2421,2421,ORR,"16-08","Services To Older Refugees Social Services Set-Aside Fiscal Year 2017",no_documents,0,0
+2422,2422,ORR,"16-07","FY 2016 Refugee School Impact Social Services Set-Aside",failed,0,1
+2423,2423,ORR,"16-06","FY 2016 Social Services Formula Allocations",success,1,0
+2424,2424,ORR,"16-05","Fiscal Year 2017 Planning",no_documents,0,0
+2425,2425,ORR,"16-04","ORR Monitoring Initiative",no_documents,0,0
+2426,2426,ORR,"16-03","Refugee Technical Assistance Grantees",failed,0,1
+2427,2427,ORR,"16-02","Resettlement of Syrian Refugees",no_documents,0,0
+2428,2428,ORR,"16-01","Categories of Guidance and Informational Documents Released by ORR",no_documents,0,0
+2429,2429,ORR,"PL 25-04","Changes to ORR Refugee Support Services Recipients Beginning in FY2026",no_documents,0,0
+2430,2430,ORR,"PL 25-03","ORR and PRM Quarterly Consultation Requirements",success,1,0
+2431,2431,ORR,"PL 25-02","Dual Enrollment Involving ORR-Funded Refugee Programs",no_documents,0,0
+2432,2432,ORR,"PL 25-01","FY 2025 Waivers and Flexibilities for Capacity Management",success,2,0
+2433,2433,ORR,"PL 24-03","Use of ORR CMA and RSS Funding for Housing Assistance, Food Assistance, and Othe",success,3,0
+2434,2434,ORR,"PL 24-02","Grant Recipient Requirements and Considerations for ORR Programming and Services",no_urls,0,0
+2435,2435,ORR,"PL 24-01","Continued services for humanitarian parolees from Ukraine with a pending re-paro",success,1,0
+2436,2436,ORR,"PL 23-07","Waiver for RMA Coverage for Full Time Students",success,1,0
+2437,2437,ORR,"PL 23-06","Continuation of ORR Services for Certain Afghans Who Have Filed for Re-Parole, A",success,1,0
+2438,2438,ORR,"PL 23-05","ORR Authorized Legal Assistance Using AUSAA Funds",success,1,0
+2439,2439,ORR,"PL 23-04","Expanding Income Disregards for RCA",success,1,0
+2440,2440,ORR,"PL 23-03","Afghan Extended Case Management and Extended Community Orientation Allowable Und",success,1,0
+2441,2441,ORR,"PL 23-02","Waiver for Shift in RCA Time Eligibility Period",success,1,0
+2442,2442,ORR,"PL 23-01","Waivers and Flexibilities for Capacity Management",success,1,0
+2443,2443,ORR,"PL 22-16","Continued Flexibilities through December 31, 2022",success,1,0
+2444,2444,ORR,"PL 22-15","Refugee Support Services Funded by the Additional Ukraine Supplemental Appropria",success,1,0
+2445,2445,ORR,"PL 22-14","Serving LGBTQI+ ORR-Eligible Populations",no_urls,0,0
+2446,2446,ORR,"PL 22-13","Ukrainian Humanitarian Parolees Eligible for ORR Benefits and Services",no_documents,0,0
+2447,2447,ORR,"PL 22-12","ARSI Support to Schools Initiative",success,1,0
+2448,2448,ORR,"PL 22-11","Immigration-Related Legal Assistance Allowable Under ORR ASA Funding",success,1,0
+2449,2449,ORR,"PL 22-10","Afghan Populations Eligible for ASA-Funded ORR Services",success,1,0
+2450,2450,ORR,"PL 22-09","Youth Mentoring Program",success,1,0
+2451,2451,ORR,"PL 22-08","Services to Older Refugee Program",success,1,0
+2452,2452,ORR,"PL 22-07","Refugee School Impact Program",success,1,0
+2453,2453,ORR,"PL 22-06","Refugee Mental Health Initiative within the Refugee Health Promotion Program",success,1,0
+2454,2454,ORR,"PL 22-05","ORR Funds and Flexibilities During Emergencies and Disasters",success,1,0
+2455,2455,ORR,"PL 22-04","Virtual Refugee Service Delivery and Elements of Program Administration",success,1,0
+2456,2456,ORR,"PL 22-03","Refugee Support Services Funded by the Afghanistan Supplemental Appropriation",success,1,0
+2457,2457,ORR,"PL 22-02","Additional ORR-Eligible Statuses and Categories and Acceptable Documentation Req",success,1,0
+2458,2458,ORR,"PL 22-01","Afghan Humanitarian Parolees and Unaccompanied Afghan Minors Eligible for ORR Be",success,1,0
+2459,2459,ORR,"PL 21-08","Continued Flexibilities Related to COVID-19, through September 30, 2022",success,1,0
+2460,2460,ORR,"PL 21-07","Amendment to ORR Policy Letter 16-01: Additional Form of Documentation for Iraqi",no_urls,0,0
+2461,2461,ORR,"PL 21-06","Family Self-Sufficiency Plan Requirements to Promote Self-Sufficiency and Integr",success,1,0
+2462,2462,ORR,"PL 21-05","Continued Assistance for ORR Populations Affected by COVID-19, through September",success,1,0
+2463,2463,ORR,"PL 21-04","Guidance for Public-Private Refugee Cash Assistance Programs",success,1,0
+2464,2464,ORR,"PL 21-03","Replacement Designees: Authorization, Role, Responsibilities, and Status Changes",success,1,0
+2465,2465,ORR,"PL 21-02","COVID-19 Assistance for Unaccompanied Refugee Minor Youth",success,1,0
+2466,2466,ORR,"PL 21-01","Continued Assistance for ORR Populations Affected by COVID-19",success,1,0
+2467,2467,ORR,"PL 20-06","Extended Assistance for ORR Populations Affected by COVID-19",success,1,0
+2468,2468,ORR,"PL 20-05","Refugee Health Promotion Program Transitions to Refugee Support Services Set-Asi",success,1,0
+2469,2469,ORR,"PL 20-04","Assistance for ORR Populations Affected by COVID-19",success,1,0
+2470,2470,ORR,"PL 20-03","COVID-19 Extended Assistance for ORR Populations",success,1,0
+2471,2471,ORR,"PL 20-02","Limitations on Collection of ORR Client Information for Refugee Programs",no_documents,0,0
+2472,2472,ORR,"PL 20-01","Approval of Use of Refugee Support Services Funds for English Language Training",success,1,0
+2473,2473,ORR,"PL 19-07","Family Self-Sufficiency Plan Requirements",no_documents,0,0
+2474,2474,ORR,"PL 19-06","Eligibility for ORR Services for Cuban and Haitian Entrants Without Work Authori",no_documents,0,0
+2475,2475,ORR,"PL 19-05","Medical Costs Incurred During Transit",no_documents,0,0
+2476,2476,ORR,"PL 19-04","Privately-Administered Refugee Medical Assistance through a Medical Replacement ",no_documents,0,0
+2477,2477,ORR,"PL 19-03","Services for Older Refugees Program",no_documents,0,0
+2478,2478,ORR,"PL 19-02","Youth Mentoring Program",no_documents,0,0
+2479,2479,ORR,"PL 19-01","Refugee School Impact Program",no_documents,0,0
+2480,2480,ORR,"PL 18-04","Refugee Support Services",no_documents,0,0
+2481,2481,ORR,"PL 18-03","Replacement Designees",no_urls,0,0
+2482,2482,ORR,"PL 18-02","Medical Copays and Out-of-Pocket Costs in the URM Program",no_documents,0,0
+2483,2483,ORR,"PL 18-01","Federal Lobbying Restrictions",no_documents,0,0
+2484,2484,ORR,"PL 17-03","ORR Populations Displaced or Affected by Hurricanes Harvey and Irma",no_documents,0,0
+2485,2485,ORR,"PL 17-02","Data Sharing",no_documents,0,0
+2486,2486,ORR,"PL 17-01","Cuban Entrants Remain Eligible for ORR Benefits and Services",no_documents,0,0
+2487,2487,ORR,"PL 16-08","SNAP Work Requirements and Participation in Office of Refugee Resettlement Train",no_documents,0,0
+2488,2488,ORR,"PL 16-07","Guidance on Refugee Social Services Funding",no_urls,0,0
+2489,2489,ORR,"PL 16-06","ORR Repatriation Program Compliance with the Windsor and Obergefell Decisions",no_documents,0,0
+2490,2490,ORR,"PL 16-05","The Role of Refugee Health Coordinators",no_documents,0,0
+2491,2491,ORR,"PL 16-04","ACA Reporting Requirements for RMA",no_documents,0,0
+2492,2492,ORR,"PL 16-03","Restrictive Language on I-94s issued to Certain Haitians",no_documents,0,0
+2493,2493,ORR,"PL 16-02","Extension of the Waiver of RMA Financial Eligibility Standards",no_documents,0,0
+2494,2494,ORR,"PL 16-01","Documentation Requirements for The Refugee Resettlement Program",no_documents,0,0
+2495,2495,ORR,"","PL 23-06 FAQ",success,1,0
+2496,2496,ORR,"","PI 16-01 FAQ",no_documents,0,0
+2497,2497,ORR,"","PI 16-01 Documentation Guide - Status and Documentation Requirements for the ORR",no_documents,0,0
+2498,2498,ORR,"15-12","Data Submission Procedures for FY 2016 Social Services and Targeted Assistance G",no_documents,0,0
+2499,2499,ORR,"15-11","FY 2015 Targeted Assistance Formula Allocations",no_documents,0,0
+2500,2500,ORR,"15-10","FY 2016 — Services to Elderly Refugees - Social Services Set-Aside",no_documents,0,0
+2501,2501,ORR,"15-09","FY 2016 — Cuban Haitian Social Services Set-Aside",no_documents,0,0
+2502,2502,ORR,"15-08","Female Genital Mutilation and Cutting (FGM/C)",success,2,0
+2503,2503,ORR,"15-06","LGBT Resources and Information",no_urls,0,0
+2504,2504,ORR,"15-05","Financial Capability Awareness: Information, Resources and Partnership Opportuni",no_documents,0,0
+2505,2505,ORR,"15-04","FY 2015 Social Services Formula Allocations",no_documents,0,0
+2506,2506,ORR,"15-02","Medical Assistance in the Unaccompanied Refugee Minors Program",no_documents,0,0
+2507,2507,ORR,"15-01","In-Country Refugee/Parole Program for Children in El Salvador, Guatemala, and Ho",no_documents,0,0
+2508,2508,ORR,"14-07","Domestic Violence Awareness: Opportunities for Prevention and Action",no_urls,0,0
+2509,2509,ORR,"14-06","FY2014 Targeted Assistance Formula Allocations",success,1,0
+2510,2510,ORR,"14-05","Data Submission Procedures for FY 2015 Social Services and Targeted Assistance G",no_documents,0,0
+2511,2511,ORR,"14-04","FY 2014 Refugee Social Services Formula Allocations",no_documents,0,0
+2512,2512,ORR,"14-03","Guidance for FY-14 ORR-1 Same-Sex Couple Benefits",no_urls,0,0
+2513,2513,ORR,"14-02","Employment Eligibility Requirements for Asylees, Refugees, and other Populations",no_documents,0,0
+2514,2514,ORR,"13-10","Expansion of Medicaid Eligibility under the Affordable Care Act and Compliance w",no_documents,0,0
+2515,2515,ORR,"13-09","The Affordable Care Act, Waiver of Financial Eligibility Standards for ORR Refug",no_documents,0,0
+2516,2516,ORR,"13-08","Updated Report Forms for Unaccompanied Refugee Minor Program and New Information",no_documents,0,0
+2517,2517,ORR,"13-07","Data Submission Procedures for FY14 Social Services and Targeted Assistance",no_documents,0,0
+2518,2518,ORR,"13-06","FY 2013 Targeted Assistance Formula Allocations",failed,0,1
+2519,2519,ORR,"13-05","FY 2013 Social Services Formula Allocations",failed,0,1
+2520,2520,ORR,"13-04","ORR Collaboration with the Department of Labor",no_documents,0,0
+2521,2521,ORR,"13-03","FY 14 - ORR-1 and State Plan Submissions",failed,0,1
+2522,2522,ORR,"13-02","Office of Refugee Resettlement (ORR) Regional Offices",no_documents,0,0
+2523,2523,ORR,"13-01","Data Submission Procedures for FY 2013",no_documents,0,0
+2524,2524,ORR,"2025-12-13 00:00:00","Guidance on Reporting and Estimating Administrative Costs For the Refugee Cash a",no_documents,0,0
+2525,2525,ORR,"2025-12-12 00:00:00","Targeted Assistance Formula Allocations",no_documents,0,0
+2526,2526,ORR,"2025-12-11 00:00:00","Social Services Formula Allocations",success,1,0
+2527,2527,ORR,"2025-12-10 00:00:00","Formula Allocation Notification Change",no_documents,0,0
+2528,2528,ORR,"2025-12-09 00:00:00","Revised Medical Screening Guidelines for Newly Arriving Refugee",success,2,1
+2529,2529,ORR,"2025-12-06 00:00:00","Authorized resettlement areas for eligible repatriated U.S. Citizens",no_documents,0,0
+2530,2530,ORR,"2025-12-05 00:00:00","Attendance at the 2012 National Consultation",no_documents,0,0
+2531,2531,ORR,"2025-12-04 00:00:00","Legal Assistance for Victims of Trafficking, Potential Victims, and Certain Fami",no_documents,0,0
+2532,2532,ORR,"2025-12-03 00:00:00","ORR Annual Survey of Refugees",no_documents,0,0
+2533,2533,ORR,"2025-12-02 00:00:00","Reorganization of Office of Refugee Resettlement (ORR)",no_documents,0,0
+2534,2534,ORR,"2025-12-01 00:00:00","Data Submission Procedures for FY12 Social Services and Targeted Assistance",no_documents,0,0
+2535,2535,ORR,"2025-11-06 00:00:00","Notice of Final FY2011 Formula Allocations to States for Refugee Social Services",no_documents,0,0
+2536,2536,ORR,"2025-11-05 00:00:00","Attendance at the 2011 Office of Refugee Resettlement Consultation",no_documents,0,0
+2537,2537,ORR,"2025-11-04 00:00:00","Disregard Tax Returns When Determining Eligibility for Cash and Medical Assistan",no_documents,0,0
+2538,2538,ORR,"2025-11-03 00:00:00","Data Submission Procedures for FY 2011 Social Services and Targeted Assistance G",no_documents,0,0
+2539,2539,ORR,"2025-11-01 00:00:00","Refugees, Health Reform and Other Health & Mental Health Resources",no_documents,0,0
+2540,2540,ORR,"2025-10-10 00:00:00","Renewal of Information Collection Forms ORR-3 and ORR-4 for Unaccompanied Refuge",failed,0,4
+2541,2541,ORR,"2025-10-09 00:00:00","Office of Refugee Resettlement Guiding Principles",no_documents,0,0
+2542,2542,ORR,"2025-10-07 00:00:00","Attendance at ORR’s 2010 National Consultation, June 7 — 8, 2010",no_documents,0,0
+2543,2543,ORR,"2025-10-06 00:00:00","Refugee Children of Non-Biological Family Units",no_documents,0,0
+2544,2544,ORR,"2025-10-05 00:00:00","Requesting Assistance for Child Victims of Human Trafficking",failed,0,4
+2545,2545,ORR,"2025-10-04 00:00:00","Submission of ORR-1 Cash and Medical Assistance (CMA) Program Estimates Through ",failed,0,9
+2546,2546,ORR,"2025-10-03 00:00:00","“Cuban and Haitian Entrants”: Eligibility for ORR-Funded Benefits and Services",failed,0,1
+2547,2547,ORR,"2025-10-02 00:00:00","Afghan and Iraqi Special Immigrants Are Now Eligible for ORR Benefits and Servic",failed,0,1
+2548,2548,ORR,"2025-10-01 00:00:00","Data Submission Procedures for FY 2010 Refugee Social Services (Including Second",no_documents,0,0
+2549,2549,ORR,"2025-09-30 00:00:00","H1N1 Influenza and Pandemic Flu Preparedness and Response",failed,0,1
+2550,2550,ORR,"2025-09-27 00:00:00","Updated SL 09-14: Guidance on Requests for Approval of 45 CFR 400.155(h) "Other ",no_documents,0,0
+2551,2551,ORR,"2025-09-26 00:00:00","Notice of Final FY 2009 Formula Allocations to States for Refugee Social Service",no_documents,0,0

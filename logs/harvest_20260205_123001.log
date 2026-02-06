@@ -1,0 +1,263 @@
+2026-02-05 12:30:01,379 [INFO] ACF Guidance Harvester starting
+2026-02-05 12:30:01,379 [INFO]   Input:   C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\input\Sub-Regulatory Inventory for Programs_12112025.xlsx.xlsx
+2026-02-05 12:30:01,379 [INFO]   Output:  C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\output
+2026-02-05 12:30:01,380 [INFO]   Reports: C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\reports
+2026-02-05 12:30:01,380 [INFO]   Log:     C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\logs\harvest_20260205_123001.log
+2026-02-05 12:30:01,380 [INFO] Loading Excel workbook...
+2026-02-05 12:30:02,183 [INFO]   Found 3383 data rows in sheet 'ALL'
+2026-02-05 12:30:02,183 [INFO]   Processing rows 2551 to 3383 (833 rows)
+2026-02-05 12:30:02,184 [INFO] Row 2552: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-25
+2026-02-05 12:30:03,603 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-25 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-25
+2026-02-05 12:30:05,668 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-25 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-25
+2026-02-05 12:30:09,728 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-25 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-25
+2026-02-05 12:30:09,729 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-25
+2026-02-05 12:30:10,576 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232539/https://acf.gov/orr/policy-guidance/state-letter-09-25
+2026-02-05 12:30:15,640 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:30:19,204 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:30:19,205 [INFO] Row 2553: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-24
+2026-02-05 12:30:20,269 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-24 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-24
+2026-02-05 12:30:22,329 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-24 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-24
+2026-02-05 12:30:26,385 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-24 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-24
+2026-02-05 12:30:26,385 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-24
+2026-02-05 12:30:26,749 [INFO] Row 2554: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-22
+2026-02-05 12:30:27,851 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-22 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-22
+2026-02-05 12:30:29,907 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-22 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-22
+2026-02-05 12:30:33,971 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-22 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-22
+2026-02-05 12:30:33,972 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-22
+2026-02-05 12:30:35,220 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231131/https://acf.gov/orr/policy-guidance/state-letter-09-22
+2026-02-05 12:30:39,516 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:30:43,711 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:30:43,713 [INFO] Row 2555: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-21
+2026-02-05 12:30:44,773 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-21 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-21
+2026-02-05 12:30:46,834 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-21 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-21
+2026-02-05 12:30:50,889 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-21 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-21
+2026-02-05 12:30:50,890 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-21
+2026-02-05 12:30:51,175 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232522/https://acf.gov/orr/policy-guidance/state-letter-09-21
+2026-02-05 12:30:55,079 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:30:58,130 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:30:58,131 [INFO] Row 2556: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-19
+2026-02-05 12:30:59,190 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-19 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-19
+2026-02-05 12:31:01,257 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-19 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-19
+2026-02-05 12:31:05,320 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-19 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-19
+2026-02-05 12:31:05,321 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-19
+2026-02-05 12:31:08,106 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231734/https://acf.gov/orr/policy-guidance/state-letter-09-19
+2026-02-05 12:31:13,707 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:31:16,914 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:31:16,916 [INFO] Row 2557: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-18
+2026-02-05 12:31:17,973 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-18 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-18
+2026-02-05 12:31:20,034 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-18 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-18
+2026-02-05 12:31:24,090 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-18 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-18
+2026-02-05 12:31:24,090 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-18
+2026-02-05 12:31:24,571 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230413/https://acf.gov/orr/policy-guidance/state-letter-09-18
+2026-02-05 12:31:28,404 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:31:31,638 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:31:31,639 [INFO] Row 2558: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-17
+2026-02-05 12:31:32,698 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-17 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-17
+2026-02-05 12:31:34,759 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-17 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-17
+2026-02-05 12:31:38,822 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-17 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-17
+2026-02-05 12:31:38,822 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-17
+2026-02-05 12:31:39,105 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231502/https://acf.gov/orr/policy-guidance/state-letter-09-17
+2026-02-05 12:31:43,016 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:31:46,290 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:31:46,293 [INFO] Row 2559: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-15
+2026-02-05 12:31:47,352 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-15 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-15
+2026-02-05 12:31:49,413 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-15 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-15
+2026-02-05 12:31:53,475 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-15 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-15
+2026-02-05 12:31:53,475 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-15
+2026-02-05 12:31:58,555 [INFO] Row 2560: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-14
+2026-02-05 12:31:59,611 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-14 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-14
+2026-02-05 12:32:01,668 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-14 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-14
+2026-02-05 12:32:05,726 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-14 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-14
+2026-02-05 12:32:05,727 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-14
+2026-02-05 12:32:06,021 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232351/https://acf.gov/orr/policy-guidance/state-letter-09-14
+2026-02-05 12:32:09,989 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:32:14,300 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:32:14,302 [INFO] Row 2561: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-13
+2026-02-05 12:32:15,360 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-13 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-13
+2026-02-05 12:32:17,415 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-13 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-13
+2026-02-05 12:32:21,479 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-13 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-13
+2026-02-05 12:32:21,479 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-13
+2026-02-05 12:32:21,759 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232209/https://acf.gov/orr/policy-guidance/state-letter-09-13
+2026-02-05 12:32:25,236 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:32:27,684 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:32:27,686 [INFO] Row 2562: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-11
+2026-02-05 12:32:28,744 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-11 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-11
+2026-02-05 12:32:30,802 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-11 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-11
+2026-02-05 12:32:34,860 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-11 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-11
+2026-02-05 12:32:34,860 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-11
+2026-02-05 12:32:38,522 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231234/https://acf.gov/orr/policy-guidance/state-letter-09-11
+2026-02-05 12:32:42,256 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:32:45,075 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:32:45,076 [INFO] Row 2563: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-09
+2026-02-05 12:32:46,131 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-09 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-09
+2026-02-05 12:32:48,233 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-09 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-09
+2026-02-05 12:32:52,329 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-09 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-09
+2026-02-05 12:32:52,329 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-09
+2026-02-05 12:32:57,406 [INFO] Row 2564: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-06
+2026-02-05 12:32:58,462 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-06 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-06
+2026-02-05 12:33:00,520 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-06 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-06
+2026-02-05 12:33:04,581 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-06 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-06
+2026-02-05 12:33:04,581 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-06
+2026-02-05 12:33:04,850 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230309/https://acf.gov/orr/policy-guidance/state-letter-09-06
+2026-02-05 12:33:08,694 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:33:11,433 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:33:11,435 [INFO] Row 2565: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-04
+2026-02-05 12:33:12,494 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-04 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-04
+2026-02-05 12:33:14,551 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-04 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-04
+2026-02-05 12:33:18,614 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-04 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-04
+2026-02-05 12:33:18,615 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-04
+2026-02-05 12:33:18,963 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231634/https://acf.gov/orr/policy-guidance/state-letter-09-04
+2026-02-05 12:33:22,583 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:33:25,517 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:33:25,519 [INFO] Row 2566: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-03
+2026-02-05 12:33:26,576 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-03 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-03
+2026-02-05 12:33:28,631 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-03 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-03
+2026-02-05 12:33:32,695 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-03 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-03
+2026-02-05 12:33:32,695 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-03
+2026-02-05 12:33:37,776 [INFO] Row 2567: Visiting https://acf.gov/orr/policy-guidance/state-letter-09-02
+2026-02-05 12:33:38,832 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-09-02 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-02
+2026-02-05 12:33:40,894 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-09-02 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-02
+2026-02-05 12:33:44,955 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-09-02 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-09-02
+2026-02-05 12:33:44,956 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-09-02
+2026-02-05 12:33:45,157 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231753/https://acf.gov/orr/policy-guidance/state-letter-09-02
+2026-02-05 12:33:49,857 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:33:53,596 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:33:53,598 [INFO] Row 2568: Visiting https://acf.gov/orr/policy-guidance/state-letter-08-01
+2026-02-05 12:33:54,654 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-08-01 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-01
+2026-02-05 12:33:56,717 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-08-01 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-01
+2026-02-05 12:34:00,777 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-08-01 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-01
+2026-02-05 12:34:00,777 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-08-01
+2026-02-05 12:34:00,984 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231605/https://acf.gov/orr/policy-guidance/state-letter-08-01
+2026-02-05 12:34:06,664 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:34:11,100 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:34:11,101 [INFO] Row 2569: Visiting https://acf.gov/orr/policy-guidance/state-letter-08-02
+2026-02-05 12:34:12,162 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-08-02 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-02
+2026-02-05 12:34:14,220 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-08-02 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-02
+2026-02-05 12:34:18,274 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-08-02 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-02
+2026-02-05 12:34:18,274 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-08-02
+2026-02-05 12:34:23,352 [INFO] Row 2570: Visiting https://acf.gov/orr/policy-guidance/state-letter-08-04
+2026-02-05 12:34:24,412 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-08-04 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-04
+2026-02-05 12:34:26,479 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-08-04 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-04
+2026-02-05 12:34:30,539 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-08-04 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-04
+2026-02-05 12:34:30,539 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-08-04
+2026-02-05 12:34:30,742 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232117/https://acf.gov/orr/policy-guidance/state-letter-08-04
+2026-02-05 12:34:35,865 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:34:40,772 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:34:40,773 [INFO] Row 2571: Visiting https://acf.gov/orr/policy-guidance/state-letter-08-05
+2026-02-05 12:34:41,829 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-08-05 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-05
+2026-02-05 12:34:43,884 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-08-05 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-05
+2026-02-05 12:34:47,939 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-08-05 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-05
+2026-02-05 12:34:47,939 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-08-05
+2026-02-05 12:34:49,491 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231643/https://acf.gov/orr/policy-guidance/state-letter-08-05
+2026-02-05 12:34:54,486 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:34:58,700 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:34:58,701 [INFO] Row 2572: Visiting https://acf.gov/orr/policy-guidance/state-letter-08-06
+2026-02-05 12:34:59,790 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-08-06 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-06
+2026-02-05 12:35:01,857 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-08-06 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-06
+2026-02-05 12:35:05,913 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-08-06 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-06
+2026-02-05 12:35:05,913 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-08-06
+2026-02-05 12:35:07,717 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232657/https://acf.gov/orr/policy-guidance/state-letter-08-06
+2026-02-05 12:35:12,930 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:35:17,344 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:35:17,346 [INFO] Row 2573: Visiting https://acf.gov/orr/policy-guidance/state-letter-08-07
+2026-02-05 12:35:18,401 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-08-07 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-07
+2026-02-05 12:35:20,461 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-08-07 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-07
+2026-02-05 12:35:24,521 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-08-07 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-07
+2026-02-05 12:35:24,522 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-08-07
+2026-02-05 12:35:24,806 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231553/https://acf.gov/orr/policy-guidance/state-letter-08-07
+2026-02-05 12:35:28,961 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:35:33,034 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:35:33,036 [INFO] Row 2574: Visiting https://acf.gov/orr/policy-guidance/state-letter-08-08
+2026-02-05 12:35:34,095 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-08-08 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-08
+2026-02-05 12:35:36,151 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-08-08 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-08
+2026-02-05 12:35:40,209 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-08-08 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-08
+2026-02-05 12:35:40,210 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-08-08
+2026-02-05 12:35:43,850 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231740/https://acf.gov/orr/policy-guidance/state-letter-08-08
+2026-02-05 12:35:48,034 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:35:51,186 [WARNING]   Retry 1/3 for http://web.archive.org/web/20251231231740/https://web.archive.org/web/20140621213528/http://www.cdc.gov/ncidod/dq/refugee/rh_guide/domestic.htm (waiting 2s): 404 Client Error: NOT FOUND for url: http://web.archive.org/web/20251231231740/https://web.archive.org/web/20140621213528/http://www.cdc.gov/ncidod/dq/refugee/rh_guide/domestic.htm
+2026-02-05 12:35:53,284 [WARNING]   Retry 2/3 for http://web.archive.org/web/20251231231740/https://web.archive.org/web/20140621213528/http://www.cdc.gov/ncidod/dq/refugee/rh_guide/domestic.htm (waiting 4s): 404 Client Error: NOT FOUND for url: http://web.archive.org/web/20251231231740/https://web.archive.org/web/20140621213528/http://www.cdc.gov/ncidod/dq/refugee/rh_guide/domestic.htm
+2026-02-05 12:35:57,387 [ERROR]   Failed after 3 attempts: http://web.archive.org/web/20251231231740/https://web.archive.org/web/20140621213528/http://www.cdc.gov/ncidod/dq/refugee/rh_guide/domestic.htm — 404 Client Error: NOT FOUND for url: http://web.archive.org/web/20251231231740/https://web.archive.org/web/20140621213528/http://www.cdc.gov/ncidod/dq/refugee/rh_guide/domestic.htm
+2026-02-05 12:36:00,422 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:36:00,424 [INFO] Row 2575: Visiting https://acf.gov/orr/policy-guidance/state-letter-08-09
+2026-02-05 12:36:01,495 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-08-09 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-09
+2026-02-05 12:36:03,555 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-08-09 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-09
+2026-02-05 12:36:07,611 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-08-09 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-09
+2026-02-05 12:36:07,611 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-08-09
+2026-02-05 12:36:12,713 [INFO] Row 2576: Visiting https://acf.gov/orr/policy-guidance/state-letter-08-10
+2026-02-05 12:36:13,771 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-08-10 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-10
+2026-02-05 12:36:15,831 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-08-10 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-10
+2026-02-05 12:36:19,891 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-08-10 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-10
+2026-02-05 12:36:19,891 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-08-10
+2026-02-05 12:36:24,973 [INFO] Row 2577: Visiting https://acf.gov/orr/policy-guidance/state-letter-08-11
+2026-02-05 12:36:26,031 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-08-11 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-11
+2026-02-05 12:36:28,108 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-08-11 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-11
+2026-02-05 12:36:32,168 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-08-11 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-11
+2026-02-05 12:36:32,169 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-08-11
+2026-02-05 12:36:32,439 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230737/https://acf.gov/orr/policy-guidance/state-letter-08-11
+2026-02-05 12:36:37,669 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:36:43,022 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:36:43,024 [INFO] Row 2578: Visiting https://acf.gov/orr/policy-guidance/state-letter-08-12
+2026-02-05 12:36:44,105 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-08-12 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-12
+2026-02-05 12:36:46,169 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-08-12 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-12
+2026-02-05 12:36:50,225 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-08-12 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-08-12
+2026-02-05 12:36:50,225 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-08-12
+2026-02-05 12:36:55,314 [INFO] Row 2579: Visiting https://acf.gov/orr/policy-guidance/state-letter-07-01
+2026-02-05 12:36:56,375 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-07-01 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-01
+2026-02-05 12:36:58,441 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-07-01 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-01
+2026-02-05 12:37:02,500 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-07-01 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-01
+2026-02-05 12:37:02,501 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-07-01
+2026-02-05 12:37:02,821 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232957/https://acf.gov/orr/policy-guidance/state-letter-07-01
+2026-02-05 12:37:08,034 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:37:12,509 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:37:12,510 [INFO] Row 2580: Visiting https://acf.gov/orr/policy-guidance/state-letter-07-02
+2026-02-05 12:37:13,583 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-07-02 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-02
+2026-02-05 12:37:15,644 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-07-02 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-02
+2026-02-05 12:37:19,701 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-07-02 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-02
+2026-02-05 12:37:19,702 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-07-02
+2026-02-05 12:37:24,792 [INFO] Row 2581: Visiting https://acf.gov/orr/policy-guidance/state-letter-07-03
+2026-02-05 12:37:25,853 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-07-03 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-03
+2026-02-05 12:37:27,916 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-07-03 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-03
+2026-02-05 12:37:31,972 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-07-03 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-03
+2026-02-05 12:37:31,972 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-07-03
+2026-02-05 12:37:32,279 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232021/https://acf.gov/orr/policy-guidance/state-letter-07-03
+2026-02-05 12:37:37,338 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:37:41,466 [WARNING]   Retry 1/3 for http://web.archive.org/web/20251231232021/https://web.archive.org/web/20140621213646/http://www.usdoj.gov/ndic/pubs3/3920/index.htm (waiting 2s): 404 Client Error: NOT FOUND for url: http://web.archive.org/web/20251231232021/https://web.archive.org/web/20140621213646/http://www.usdoj.gov/ndic/pubs3/3920/index.htm
+2026-02-05 12:37:43,578 [WARNING]   Retry 2/3 for http://web.archive.org/web/20251231232021/https://web.archive.org/web/20140621213646/http://www.usdoj.gov/ndic/pubs3/3920/index.htm (waiting 4s): 404 Client Error: NOT FOUND for url: http://web.archive.org/web/20251231232021/https://web.archive.org/web/20140621213646/http://www.usdoj.gov/ndic/pubs3/3920/index.htm
+2026-02-05 12:37:47,701 [ERROR]   Failed after 3 attempts: http://web.archive.org/web/20251231232021/https://web.archive.org/web/20140621213646/http://www.usdoj.gov/ndic/pubs3/3920/index.htm — 404 Client Error: NOT FOUND for url: http://web.archive.org/web/20251231232021/https://web.archive.org/web/20140621213646/http://www.usdoj.gov/ndic/pubs3/3920/index.htm
+2026-02-05 12:37:51,712 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:37:51,713 [INFO] Row 2582: Visiting https://acf.gov/orr/policy-guidance/state-letter-07-04
+2026-02-05 12:37:52,767 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-07-04 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-04
+2026-02-05 12:37:54,823 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-07-04 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-04
+2026-02-05 12:37:58,884 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-07-04 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-04
+2026-02-05 12:37:58,885 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-07-04
+2026-02-05 12:38:03,986 [INFO] Row 2583: Visiting https://acf.gov/orr/policy-guidance/state-letter-07-06
+2026-02-05 12:38:05,042 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-07-06 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-06
+2026-02-05 12:38:07,104 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-07-06 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-06
+2026-02-05 12:38:11,162 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-07-06 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-06
+2026-02-05 12:38:11,162 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-07-06
+2026-02-05 12:38:11,335 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230904/https://acf.gov/orr/policy-guidance/state-letter-07-06
+2026-02-05 12:38:16,382 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:38:22,274 [INFO]     [OK] Downloaded: stateletter0706.pdf (400,939 bytes)
+2026-02-05 12:38:26,619 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:38:26,621 [INFO] Row 2584: Visiting https://acf.gov/orr/policy-guidance/state-letter-07-07
+2026-02-05 12:38:27,684 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-07-07 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-07
+2026-02-05 12:38:29,740 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-07-07 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-07
+2026-02-05 12:38:33,801 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-07-07 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-07
+2026-02-05 12:38:33,801 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-07-07
+2026-02-05 12:38:34,004 [INFO] Row 2585: Visiting https://acf.gov/orr/policy-guidance/state-letter-07-08
+2026-02-05 12:38:35,060 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-07-08 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-08
+2026-02-05 12:38:37,117 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-07-08 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-08
+2026-02-05 12:38:41,183 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-07-08 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-08
+2026-02-05 12:38:41,183 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-07-08
+2026-02-05 12:38:46,281 [INFO] Row 2586: Visiting https://acf.gov/orr/policy-guidance/state-letter-07-09
+2026-02-05 12:38:47,339 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-07-09 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-09
+2026-02-05 12:38:49,394 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-07-09 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-09
+2026-02-05 12:38:53,452 [ERROR]   Failed after 3 attempts: https://acf.gov/orr/policy-guidance/state-letter-07-09 — 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-09
+2026-02-05 12:38:53,452 [INFO]   Trying Wayback Machine for https://acf.gov/orr/policy-guidance/state-letter-07-09
+2026-02-05 12:38:54,193 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231936/https://acf.gov/orr/policy-guidance/state-letter-07-09
+2026-02-05 12:38:58,993 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:39:05,992 [INFO]     [OK] Downloaded: sf-424-family.html (31,201 bytes)
+2026-02-05 12:39:09,468 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:39:09,470 [INFO] Row 2587: Visiting https://acf.gov/orr/policy-guidance/state-letter-07-10
+2026-02-05 12:39:10,529 [WARNING]   Retry 1/3 for https://acf.gov/orr/policy-guidance/state-letter-07-10 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-10
+2026-02-05 12:39:12,587 [WARNING]   Retry 2/3 for https://acf.gov/orr/policy-guidance/state-letter-07-10 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/orr/policy-guidance/state-letter-07-10

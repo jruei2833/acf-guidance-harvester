@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "phase1": {
+      "recovered": 140,
+      "still_failed": 0,
+      "total": 140
+    },
+    "phase2": {
+      "recovered": 119,
+      "still_failed": 0,
+      "total": 119
+    }
+  },
+  "duration": 0.404276
+}

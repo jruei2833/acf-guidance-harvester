@@ -1,0 +1,295 @@
+{
+  "run_timestamp": "20260205_123446",
+  "duration_seconds": 66.500734,
+  "row_range": {
+    "start": 20,
+    "end": 25
+  },
+  "stats": {
+    "success": 6,
+    "failed": 0,
+    "no_urls": 0,
+    "no_documents": 0,
+    "skipped": 0,
+    "dry_run": 0,
+    "total_files": 6
+  },
+  "results": [
+    {
+      "excel_row": 21,
+      "office": "CB",
+      "issue_date": "1981-08-19 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-81-08",
+      "title": "",
+      "page_count": "2",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-81-08",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0021",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8108.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/pi8108.pdf",
+          "size_bytes": 95906,
+          "sha256": "d56f7f146462efbaad1a393b7734e2b8a64013e92f33bafd10fbcb8023232cd8",
+          "content_type": "application/pdf",
+          "link_text": "PI-81-08.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [
+        {
+          "url": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "error": "download_failed"
+        }
+      ],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-81-08",
+          "final_url": "https://acf.gov/cb/policy-guidance/pi-81-08",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:33:40.201472"
+    },
+    {
+      "excel_row": 22,
+      "office": "CB",
+      "issue_date": "1982-01-11 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-82-01",
+      "title": "",
+      "page_count": "2",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-82-01",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0022",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8201.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/pi8201.pdf",
+          "size_bytes": 93913,
+          "sha256": "0f329e38683cd9ac762f21b039fc50fdde6b9ce2bd47c08555785f369722091f",
+          "content_type": "application/pdf",
+          "link_text": "PI-82-01.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [
+        {
+          "url": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "error": "download_failed"
+        }
+      ],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-82-01",
+          "final_url": "https://acf.gov/cb/policy-guidance/pi-82-01",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:33:51.463205"
+    },
+    {
+      "excel_row": 23,
+      "office": "CB",
+      "issue_date": "1982-02-04 00:00:00",
+      "doc_type": "Information Memorandum (IM)",
+      "doc_number": "IM-82-02",
+      "title": "",
+      "page_count": "4",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/im-82-02",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0023",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "im8202.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/im8202.pdf",
+          "size_bytes": 43648,
+          "sha256": "c6aa3b63353ed56b15be4cd2a293efd5eacc0d0f2fc93adadcbee9c62572b5e0",
+          "content_type": "application/pdf",
+          "link_text": "im-82-02.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [
+        {
+          "url": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "error": "download_failed"
+        }
+      ],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/im-82-02",
+          "final_url": "https://acf.gov/cb/policy-guidance/im-82-02",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:34:02.379404"
+    },
+    {
+      "excel_row": 24,
+      "office": "CB",
+      "issue_date": "1982-04-16 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-82-04",
+      "title": "",
+      "page_count": "5",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-82-04",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0024",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8204.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/pi8204.pdf",
+          "size_bytes": 107245,
+          "sha256": "184ea73d90c13a69e50610e87db7597b16d97d5edd7f0e46771388ad706ba77d",
+          "content_type": "application/pdf",
+          "link_text": "PI-82-04.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [
+        {
+          "url": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "error": "download_failed"
+        }
+      ],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-82-04",
+          "final_url": "https://acf.gov/cb/policy-guidance/pi-82-04",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:34:13.400688"
+    },
+    {
+      "excel_row": 25,
+      "office": "CB",
+      "issue_date": "1982-05-25 00:00:00",
+      "doc_type": "Information Memorandum (IM)",
+      "doc_number": "IM-82-06",
+      "title": "",
+      "page_count": "8",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/im-82-06",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0025",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "im8206.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/im8206.pdf",
+          "size_bytes": 40932,
+          "sha256": "146fb65ed1f57ad5becc7e32d84f36bc3f467191892fe363e9b386be2af157e2",
+          "content_type": "application/pdf",
+          "link_text": "im-82-06.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [
+        {
+          "url": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "error": "download_failed"
+        }
+      ],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/im-82-06",
+          "final_url": "https://acf.gov/cb/policy-guidance/im-82-06",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:34:24.465113"
+    },
+    {
+      "excel_row": 26,
+      "office": "CB",
+      "issue_date": "1982-06-03 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-82-06",
+      "title": "",
+      "page_count": "43",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-82-06",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0026",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8206.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/pi8206.pdf",
+          "size_bytes": 461964,
+          "sha256": "8b05ef5b1eacb7d2d73ea94f2d98fbc5d054b6b261b6799bc3a774cd3c5b9034",
+          "content_type": "application/pdf",
+          "link_text": "PI-82-06.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [
+        {
+          "url": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "error": "download_failed"
+        }
+      ],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-82-06",
+          "final_url": "https://acf.gov/cb/policy-guidance/pi-82-06",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:34:35.557956"
+    }
+  ]
+}

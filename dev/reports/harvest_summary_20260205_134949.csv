@@ -1,0 +1,851 @@
+row,folder,office,doc_number,title,status,files_count,errors_count
+2,0002,CB,"AT-79-12","",success,1,0
+3,0003,CB,"AT-80-01","",success,1,0
+4,0004,CB,"AT-80-02","",success,1,0
+5,0005,CB,"AT-80-03","",success,1,0
+6,0006,CB,"AT-80-04","",success,1,0
+7,0007,CB,"AT-80-05","",success,1,0
+8,0008,CB,"AT-81-01","",no_documents,0,0
+9,0009,CB,"PI-80-01","",success,1,0
+10,0010,CB,"PI-80-02","",success,1,0
+11,0011,CB,"PI-80-03","",success,1,0
+12,0012,CB,"IM-81-01","",success,1,0
+13,0013,CB,"PI-81-01","",success,1,0
+14,0014,CB,"IM-81-02","",success,1,0
+15,0015,CB,"PI-81-02","",success,1,0
+16,0016,CB,"IM-81-03","",success,1,0
+17,0017,CB,"PI-81-06","",success,1,0
+18,0018,CB,"AT-81-16","",success,1,0
+19,0019,CB,"PI-81-05","",success,1,0
+20,0020,CB,"PI-81-07","",success,1,0
+21,0021,CB,"PI-81-08","",success,1,0
+22,0022,CB,"PI-82-01","",success,1,0
+23,0023,CB,"IM-82-02","",success,1,0
+24,0024,CB,"PI-82-04","",success,1,0
+25,0025,CB,"IM-82-06","",success,1,0
+26,0026,CB,"PI-82-06","",success,1,0
+27,0027,CB,"PI-82-07","",success,1,0
+28,0028,CB,"PI-83-02","",success,1,0
+29,0029,CB,"IM-83-08","",success,1,0
+30,0030,CB,"PI-83-04","",success,1,0
+31,0031,CB,"IM-83-04","",success,1,0
+32,0032,CB,"PI-83-03","",success,1,0
+33,0033,CB,"IM-83-14","",success,1,0
+34,0034,CB,"PI-83-06","",success,1,0
+35,0035,CB,"PI-83-07","",success,1,0
+36,0036,CB,"PI-83-08","",success,1,0
+37,0037,CB,"PI-84-02","",success,1,0
+38,0038,CB,"IM-84-02","",success,1,0
+39,0039,CB,"PI-84-05","",success,1,0
+40,0040,CB,"IM-84-09","",success,1,0
+41,0041,CB,"PI-84-06","",success,1,0
+42,0042,CB,"PI-84-04","",success,1,0
+43,0043,CB,"IM-84-21","",success,1,0
+44,0044,CB,"IM-84-22","",success,1,0
+45,0045,CB,"IM-84-27","",success,1,0
+46,0046,CB,"IM-84-29","",success,1,0
+47,0047,CB,"IM-84-31","",success,1,0
+48,0048,CB,"PI-85-01","",success,1,0
+49,0049,CB,"IM-85-02","",success,1,0
+50,0050,CB,"IM-85-04","",success,1,0
+51,0051,CB,"PI-85-02","",success,1,0
+52,0052,CB,"IM-85-10","",success,1,0
+53,0053,CB,"PI-85-03","",success,1,0
+54,0054,CB,"IM-85-11","",success,1,0
+55,0055,CB,"AT-85-04","",success,1,0
+56,0056,CB,"IM-85-15","",success,1,0
+57,0057,CB,"PI-85-07","",success,1,0
+58,0058,CB,"IM-85-24","",success,1,0
+59,0059,CB,"IM-85-25","",success,1,0
+60,0060,CB,"IM-85-34","",success,1,0
+61,0061,CB,"IM-85-36","",success,1,0
+62,0062,CB,"IM-86-09","",success,1,0
+63,0063,CB,"PI-86-01","",success,1,0
+64,0064,CB,"IM-86-19","",success,1,0
+65,0065,CB,"IM-86-24","",success,1,0
+66,0066,CB,"IM-86-26","",success,1,0
+67,0067,CB,"PI-86-03","",success,1,0
+68,0068,CB,"IM-86-31","",success,1,0
+69,0069,CB,"IM-87-04","",success,1,0
+70,0070,CB,"PI-87-01","",success,1,0
+71,0071,CB,"IM-87-06","",success,1,0
+72,0072,CB,"IM-87-07","",success,1,0
+73,0073,CB,"IM-87-08","",success,1,0
+74,0074,CB,"IM-87-09","",success,1,0
+75,0075,CB,"IM-87-11","",success,1,0
+76,0076,CB,"IM-87-15","",success,1,0
+77,0077,CB,"IM-87-28","",success,1,0
+78,0078,CB,"IM-87-31","",success,1,0
+79,0079,CB,"PI-87-06","",success,1,0
+80,0080,CB,"IM-88-01","",success,1,0
+81,0081,CB,"IM-88-02","",success,1,0
+82,0082,CB,"IM-88-12","",success,1,0
+83,0083,CB,"IM-88-13","",success,1,0
+84,0084,CB,"IM-88-15","",success,1,0
+85,0085,CB,"IM-88-22","",success,1,0
+86,0086,CB,"PI-88-07","",success,1,0
+87,0087,CB,"IM-88-28","",success,1,0
+88,0088,CB,"IM-88-24","",success,1,0
+89,0089,CB,"IM-88-32","",success,1,0
+90,0090,CB,"PI-88-08","",success,1,0
+91,0091,CB,"IM-89-02","",success,1,0
+92,0092,CB,"IM-89-03","",success,1,0
+93,0093,CB,"IM-89-08","",success,1,0
+94,0094,CB,"IM-89-09","",success,1,0
+95,0095,CB,"PI-89-05","",success,1,0
+96,0096,CB,"PI-89-07","",success,1,0
+97,0097,CB,"PI-89-09","",success,1,0
+98,0098,CB,"INF-89-01","",success,1,0
+99,0099,CB,"IM-89-23","",success,1,0
+100,0100,CB,"PI-90-01","",success,1,0
+101,0101,CB,"IM-90-07","",success,1,0
+102,0102,CB,"IM-90-08","",success,1,0
+103,0103,CB,"PI-90-09","",success,1,0
+104,0104,CB,"IM-90-17","",success,1,0
+105,0105,CB,"IM-90-11","",success,1,0
+106,0106,CB,"IM-90-18","",success,1,0
+107,0107,CB,"PI-90-16","",success,1,0
+108,0108,CB,"IM-90-26","",success,1,0
+109,0109,CB,"IM-90-27","",success,1,0
+110,0110,CB,"IM-90-28","",success,1,0
+111,0111,CB,"IM-91-11","",success,1,0
+112,0112,CB,"IM-91-15","",success,1,0
+113,0113,CB,"IM-91-19","",success,1,0
+114,0114,CB,"IM-91-25","",success,1,0
+115,0115,CB,"AT-91-33","",success,1,0
+116,0116,CB,"AT-92-05","",success,1,0
+117,0117,CB,"IM-92-04","",success,1,0
+118,0118,CB,"PI-92-03","",success,1,0
+119,0119,CB,"PI-92-07","",success,1,0
+120,0120,CB,"PI-92-06","",success,1,0
+121,0121,CB,"IM-92-16","",success,1,0
+122,0122,CB,"PI-92-11","",success,1,0
+123,0123,CB,"OISM-IM-93-01","",success,1,0
+124,0124,CB,"PI-92-13","",success,1,0
+125,0125,CB,"AT-93-03","",success,1,0
+126,0126,CB,"PI-93-01","",success,1,0
+127,0127,CB,"IM-93-04","",success,1,0
+128,0128,CB,"PI-93-02","",success,1,0
+129,0129,CB,"PI-93-09","",success,1,0
+130,0130,CB,"PI-93-10","",success,1,0
+131,0131,CB,"PI-93-13","",success,1,0
+132,0132,CB,"IM-93-19","",success,1,0
+133,0133,CB,"IM-93-20","",success,1,0
+134,0134,CB,"IM-93-22","",success,1,0
+135,0135,CB,"OISM-ACF-IM-93-4","",success,1,0
+136,0136,CB,"PI-93-16","",success,1,0
+137,0137,CB,"IM-93-27","",success,1,0
+138,0138,CB,"PI-94-04","",success,1,0
+139,0139,CB,"PI-94-03","",success,1,0
+140,0140,CB,"PI-94-01","",success,1,0
+141,0141,CB,"IM-94-10","",success,1,0
+142,0142,CB,"PI-94-12","",success,1,0
+143,0143,CB,"AT-94-05","",success,1,0
+144,0144,CB,"IM-94-17","",success,1,0
+145,0145,CB,"PI-94-15","",success,1,0
+146,0146,CB,"IM-94-19","",success,1,0
+147,0147,CB,"IM-94-22","",success,1,0
+148,0148,CB,"IM-94-23","",success,1,0
+149,0149,CB,"IM-95-05","",success,1,0
+150,0150,CB,"AT-95-01","",success,1,0
+151,0151,CB,"IM-95-11","",success,1,0
+152,0152,CB,"IM-95-12","",success,1,0
+153,0153,CB,"PI-95-10","",success,1,0
+154,0154,CB,"PI-95-11","",success,1,0
+155,0155,CB,"PI-95-09","",success,1,0
+156,0156,CB,"IM-95-28","",success,1,0
+157,0157,CB,"PI-95-12","",success,1,0
+158,0158,CB,"IM-95-32","",success,1,0
+159,0159,CB,"PI-95-23","",success,1,0
+160,0160,CB,"IM-96-01","",success,1,0
+161,0161,CB,"IM-96-02","",success,1,0
+162,0162,CB,"PI-96-01","",success,1,0
+163,0163,CB,"IM-96-09","",success,1,0
+164,0164,CB,"PI-96-05","",success,1,0
+165,0165,CB,"PI-96-06","",success,1,0
+166,0166,CB,"PI-96-07","",success,1,0
+167,0167,CB,"PI-96-11","",success,1,0
+168,0168,CB,"IM-96-16","",success,1,0
+169,0169,CB,"PI-96-15","",success,1,0
+170,0170,CB,"IM-96-24","",success,1,0
+171,0171,CB,"IM-96-27","",success,1,0
+172,0172,CB,"IM-96-29","",success,1,0
+173,0173,CB,"IM-97-02","",success,1,0
+174,0174,CB,"PI-NCCAN-97-01","",success,1,0
+175,0175,CB,"PI-97-01","",success,1,0
+176,0176,CB,"IM-97-03","",success,1,0
+177,0177,CB,"PI-97-02","",success,1,0
+178,0178,CB,"PI-97-03","",success,1,0
+179,0179,CB,"IM-97-04","",success,1,0
+180,0180,CB,"IM-97-05","",success,1,0
+181,0181,CB,"PI-97-04","",success,1,0
+182,0182,CB,"IM-97-07","",success,1,0
+183,0183,CB,"IM-97-08","",success,1,0
+184,0184,CB,"PI-97-05","",success,1,0
+185,0185,CB,"IM-97-09","",success,1,0
+186,0186,CB,"PI-98-01","",success,1,0
+187,0187,CB,"PI-98-02","",success,1,0
+188,0188,CB,"IM-98-01","",success,1,0
+189,0189,CB,"IM-98-02","",success,1,0
+190,0190,CB,"PI-98-03","",success,1,0
+191,0191,CB,"PI-98-05","",success,1,0
+192,0192,CB,"PI-98-07","",success,1,0
+193,0193,CB,"IM-98-03","",success,1,0
+194,0194,CB,"PI-98-06","",success,1,0
+195,0195,CB,"PI-98-10","",success,1,0
+196,0196,CB,"PI-98-11","Adoption and Foster Care Analysis and Reporting System Penalties",success,1,0
+197,0197,CB,"PI-98-12","",success,1,0
+198,0198,CB,"PI-98-13","",success,1,0
+199,0199,CB,"PI-98-14","",success,1,0
+200,0200,CB,"AT-98-05","",success,1,0
+201,0201,CB,"PI-98-15","",success,1,0
+202,0202,CB,"IM-98-04","",success,1,0
+203,0203,CB,"IM-98-05","",success,1,0
+204,0204,CB,"IM-99-01","",success,1,0
+205,0205,CB,"IM-99-02","",success,1,0
+206,0206,CB,"IM-99-03","",success,1,0
+207,0207,CB,"PI-99-01","",success,1,0
+208,0208,CB,"PI-99-02","",success,1,0
+209,0209,CB,"PI-99-04","",success,1,0
+210,0210,CB,"PI-99-05","",success,1,0
+211,0211,CB,"PI-99-07","",success,1,0
+212,0212,CB,"PI-99-09","",success,1,0
+213,0213,CB,"IM-00-01","",success,1,0
+214,0214,CB,"PI-00-01","",success,1,0
+215,0215,CB,"IM-00-02","",success,1,0
+216,0216,CB,"AT-OSSP-00-01","FEDERAL/STATE INFORMATION TECHNOLOGY POLICY— Department of Health and Human Serv",success,1,0
+217,0217,CB,"IM-00-03","",success,1,0
+218,0218,CB,"IM-00-04","",success,1,0
+219,0219,CB,"PI-00-03","",success,1,0
+220,0220,CB,"IM-00-07","",success,1,0
+221,0221,CB,"PI-00-04","",success,1,0
+222,0222,CB,"IM-00-09","",success,1,0
+223,0223,CB,"IM-00-11","",success,1,0
+224,0224,CB,"PI-01-02","",success,1,0
+225,0225,CB,"PI-01-03","",success,1,0
+226,0226,CB,"IM-01-01","",success,1,0
+227,0227,CB,"IM-01-03","",success,1,0
+228,0228,CB,"PI-01-05","",success,1,0
+229,0229,CB,"PI-01-06","",success,1,0
+230,0230,CB,"","Child Welfare Policy Manual",no_documents,0,0
+231,0231,CB,"PI-01-07","",success,1,0
+232,0232,CB,"IM-01-04","",success,1,0
+233,0233,CB,"IM-01-05","",success,1,0
+234,0234,CB,"IM-01-06","",success,1,0
+235,0235,CB,"IM-01-07","",success,1,0
+236,0236,CB,"PI-01-08","",success,1,0
+237,0237,CB,"IM-01-09","",success,1,0
+238,0238,CB,"IM-01-08","",success,1,0
+239,0239,CB,"PI-01-09","",success,1,0
+240,0240,CB,"IM-01-10","",success,1,0
+241,0241,CB,"IM-01-11","",success,1,0
+242,0242,CB,"PI-02-01","",success,1,0
+243,0243,CB,"IM-02-01","",success,1,0
+244,0244,CB,"IM-02-04","",success,1,0
+245,0245,CB,"IM-02-03","",success,1,0
+246,0246,CB,"PI-02-03","",success,1,0
+247,0247,CB,"IM-02-05","",success,1,0
+248,0248,CB,"PI-02-04","",success,1,0
+249,0249,CB,"IM-02-02","",success,1,0
+250,0250,CB,"PI-02-05","",success,1,0
+251,0251,CB,"IM-02-06","Title IV-E Child Welfare Demonstration Projects Requests for Extensions – Proced",success,1,0
+252,0252,CB,"IM-02-07","",success,1,0
+253,0253,CB,"PI-02-06","",success,1,0
+254,0254,CB,"PI-02-07","",success,1,0
+255,0255,CB,"PI-02-08","",success,1,0
+256,0256,CB,"PI-02-09","",success,1,0
+257,0257,CB,"PI-03-03","",success,1,0
+258,0258,CB,"IM-03-01","",success,1,0
+259,0259,CB,"PI-03-04","",success,1,0
+260,0260,CB,"PI-03-01","",success,1,0
+261,0261,CB,"PI-03-02","",success,1,0
+262,0262,CB,"IM-03-02","",success,1,0
+263,0263,CB,"PI-03-05","",success,1,0
+264,0264,CB,"IM-03-03","",success,1,0
+265,0265,CB,"PI-03-06","",success,1,0
+266,0266,CB,"IM-03-04","",success,1,0
+267,0267,CB,"PI-03-07","",success,1,0
+268,0268,CB,"IM-03-05","",success,1,0
+269,0269,CB,"IM-03-06","",success,1,0
+270,0270,CB,"PI-03-08","",success,1,0
+271,0271,CB,"PI-04-01","",success,1,0
+272,0272,CB,"PI-04-02","",success,1,0
+273,0273,CB,"IM-04-01","",success,1,0
+274,0274,CB,"IM-04-04","",success,1,0
+275,0275,CB,"IM-04-02","",success,1,0
+276,0276,CB,"IM-04-03","",success,1,0
+277,0277,CB,"PI-04-03","",success,1,0
+278,0278,CB,"PI-04-04","",success,1,0
+279,0279,CB,"PI-04-05","",success,1,0
+280,0280,CB,"IM-04-06","",success,1,0
+281,0281,CB,"IM-04-07","",success,1,0
+282,0282,CB,"IM-04-08","",success,1,0
+283,0283,CB,"Child and Family Services Review Technical Bulletin #1","Child and Family Services Review Technical Bulletin #1",success,1,0
+284,0284,CB,"IM-05-01","",success,1,0
+285,0285,CB,"PI-05-03","",success,1,0
+286,0286,CB,"PI-05-01","",success,1,0
+287,0287,CB,"PI-05-05","",success,1,0
+288,0288,CB,"PI-05-04","",success,1,0
+289,0289,CB,"ACF-CMS-FNS IM 05-04","",success,1,0
+290,0290,CB,"IM-05-02","",success,1,0
+291,0291,CB,"IM-05-04","",success,1,0
+292,0292,CB,"IM-05-05","",success,1,0
+293,0293,CB,"IM-05-10","",success,1,0
+294,0294,CB,"IM-05-06","",success,1,0
+295,0295,CB,"IM-05-07","",success,1,0
+296,0296,CB,"IM-05-08","",success,1,0
+297,0297,CB,"IM-05-09","",success,1,0
+298,0298,CB,"PI-05-06","",success,1,0
+299,0299,CB,"IM-06-01","",success,1,0
+300,0300,CB,"PI-06-01","",success,1,0
+301,0301,CB,"PI-06-02","",success,1,0
+302,0302,CB,"PI-06-03","",success,1,0
+303,0303,CB,"PI-06-04","",success,1,0
+304,0304,CB,"IM-06-02","",success,1,0
+305,0305,CB,"PI-06-05","",success,1,0
+306,0306,CB,"IM-06-03","",success,1,0
+307,0307,CB,"PI-06-06","",success,1,0
+308,0308,CB,"IM-06-04","",success,1,0
+309,0309,CB,"IM-06-05","",success,1,0
+310,0310,CB,"PI-06-07","",success,1,0
+311,0311,CB,"IM-07-01","",success,1,0
+312,0312,CB,"PI-07-02","",success,1,0
+313,0313,CB,"IM-07-02","",success,1,0
+314,0314,CB,"PI-07-04","",success,1,0
+315,0315,CB,"PI-07-03","",success,1,0
+316,0316,CB,"PI-07-05","",success,1,0
+317,0317,CB,"PI-07-06","",success,1,0
+318,0318,CB,"PI-07-07","",success,1,0
+319,0319,CB,"IM-07-03","",success,1,0
+320,0320,CB,"IM-07-04","",success,1,0
+321,0321,CB,"PI-07-10","",success,1,0
+322,0322,CB,"PI-07-08","",success,1,0
+323,0323,CB,"PI-07-09","",success,1,0
+324,0324,CB,"IM-07-05","",success,1,0
+325,0325,CB,"IM-07-06","",success,1,0
+326,0326,CB,"IM-07-08","",success,1,0
+327,0327,CB,"IM-07-09","",success,1,0
+328,0328,CB,"PI-08-01","",success,1,0
+329,0329,CB,"IM-08-01","",success,1,0
+330,0330,CB,"PI-08-02","",success,1,0
+331,0331,CB,"PI-08-03","",success,1,0
+332,0332,CB,"PI-08-04","",success,1,0
+333,0333,CB,"IM-08-02","",success,1,0
+334,0334,CB,"PI-08-05","",success,1,0
+335,0335,CB,"IM-08-03","",success,1,0
+336,0336,CB,"PI-08-06","",success,1,0
+337,0337,CB,"CMS-ACF IM-08-01","",success,1,0
+338,0338,CB,"PI-08-07","",success,1,0
+339,0339,CB,"PI-09-01","",success,1,0
+340,0340,CB,"PI-09-02","",success,1,0
+341,0341,CB,"IM-09-01","",success,1,0
+342,0342,CB,"PI-09-03","",success,1,0
+343,0343,CB,"PI-09-04","",success,1,0
+344,0344,CB,"PI-09-05","",success,1,0
+345,0345,CB,"PI-09-07","",success,1,0
+346,0346,CB,"PI-09-06","",success,1,0
+347,0347,CB,"IM-09-02","",success,1,0
+348,0348,CB,"PI-09-09","",success,1,0
+349,0349,CB,"PI-09-10","",success,1,0
+350,0350,CB,"IM-09-03","",success,1,0
+351,0351,CB,"PI-09-11","",success,1,0
+352,0352,CB,"PI-09-08","",success,2,0
+353,0353,CB,"PI-10-01","",success,1,0
+354,0354,CB,"IM-10-01","",success,1,0
+355,0355,CB,"PI-10-02","",success,1,0
+356,0356,CB,"PI-10-03","",success,1,0
+357,0357,CB,"PI-10-04","",success,1,0
+358,0358,CB,"PI-10-05","",success,1,0
+359,0359,CB,"PI-10-06","",success,1,0
+360,0360,CB,"PI-10-07","",success,1,0
+361,0361,CB,"PI-10-08","",success,1,0
+362,0362,CB,"PI-10-09","",success,1,0
+363,0363,CB,"PI-10-10","",success,1,0
+364,0364,CB,"PI-10-11","",success,2,0
+365,0365,CB,"PI-10-12","",success,1,0
+366,0366,CB,"IM-10-02","",success,1,0
+367,0367,CB,"ACF-CMS-FNS IM-11-18","",success,1,0
+368,0368,CB,"PI-10-13","",success,1,0
+369,0369,CB,"PI-10-14","",success,2,0
+370,0370,CB,"PI-11-01","",success,1,0
+371,0371,CB,"IM-11-01","",success,1,0
+372,0372,CB,"PI-11-02","",success,1,0
+373,0373,CB,"IM-11-02","",success,1,0
+374,0374,CB,"PI-11-03","",success,1,0
+375,0375,CB,"PI-11-04","",success,1,0
+376,0376,CB,"PI-11-05","",success,1,0
+377,0377,CB,"PI-11-06","",success,1,0
+378,0378,CB,"PI-11-07","",success,1,0
+379,0379,CB,"IM-11-04","",success,1,0
+380,0380,CB,"PI-11-08","",success,1,0
+381,0381,CB,"IM-11-05","",success,1,0
+382,0382,CB,"IM-11-06","",success,1,0
+383,0383,CB,"PI-11-09","",success,2,0
+384,0384,CB,"IM-12-01","",success,1,0
+385,0385,CB,"PI-12-01","",success,1,0
+386,0386,CB,"PI-12-02","",success,1,0
+387,0387,CB,"IM-12-02","",success,1,0
+388,0388,CB,"PI-12-03","",success,1,0
+389,0389,CB,"PI-12-04","",success,1,0
+390,0390,CB,"IM-12-03","",success,1,0
+391,0391,CB,"PI-12-06","",success,4,0
+392,0392,CB,"PI-12-05","",success,4,0
+393,0393,CB,"IM-12-04","",success,1,0
+394,0394,CB,"PI-12-07","",success,1,0
+395,0395,CB,"IM-12-05","",success,1,0
+396,0396,CB,"CFSR Technical Bulletin #1 Implementation Training","CFSR Technical Bulletin #1 Implementation Training",success,1,0
+397,0397,CB,"IM-12-06","",success,1,0
+398,0398,CB,"IM-12-07","",success,1,0
+399,0399,CB,"IM-12-08","",success,1,0
+400,0400,CB,"PI-13-01","",success,1,0
+401,0401,CB,"PI-13-02","",success,1,0
+402,0402,CB,"PI-13-04","",success,16,0
+403,0403,CB,"PI-13-03","",success,14,0
+404,0404,CB,"PI-13-05","",success,2,0
+405,0405,CB,"IM-13-01","",success,2,0
+406,0406,CB,"ACF-OA-PI-13-01","",success,2,0
+407,0407,CB,"","Am I eligible for a scholarship for post-secondary education (college, trade sch",no_documents,0,0
+408,0408,CB,"","At what age can a child be left home alone?",no_documents,0,0
+409,0409,CB,"","How can I find my birth parents or birth relatives?",no_documents,0,0
+410,0410,CB,"","How can I learn about grants funded by the Children’s Bureau? How can I apply fo",no_documents,0,0
+411,0411,CB,"","How can I locate specific products and information about discretionary grants de",no_documents,0,0
+412,0412,CB,"","How do I adopt a child from a foreign country?",success,3,0
+413,0413,CB,"","How do I adopt a child living in another state? How do I adopt across state line",no_documents,0,0
+414,0414,CB,"","I am thinking about adopting through a private domestic agency but am concerned ",failed,0,1
+415,0415,CB,"","I don’t like the way child protective services (CPS) handled my case. What can I",no_documents,0,0
+416,0416,CB,"","I want to adopt a child from foster care. Am I eligible for adoption assistance ",no_documents,0,0
+417,0417,CB,"","I want to adopt. What are the requirements? How do I find a reputable adoption a",no_documents,0,0
+418,0418,CB,"","What are the adoption laws in my state? How do I find out about my state laws go",no_documents,0,0
+419,0419,CB,"","What are the requirements to adopt a child from foster care?",no_documents,0,0
+420,0420,CB,"","What are the signs or symptoms of child abuse or neglect?",failed,0,1
+421,0421,CB,"","What is an adoption home study? What type of information is included in it?",no_documents,0,0
+422,0422,CB,"","What is child abuse and neglect? How does my state define child abuse and neglec",success,1,0
+423,0423,CB,"","What should I do if I suspect child abuse and/or neglect?",no_documents,0,0
+424,0424,CB,"IM-13-02","",success,1,0
+425,0425,CB,"PI-13-06","",success,4,0
+426,0426,CB,"PI-14-01","",success,1,0
+427,0427,CB,"IM-14-01","",success,1,0
+428,0428,CB,"PI-14-02","",success,1,0
+429,0429,CB,"PI-14-04","",success,22,0
+430,0430,CB,"PI-14-03","",success,22,0
+431,0431,CB,"PI-14-05","",success,1,0
+432,0432,CB,"IM-14-02","",success,1,0
+433,0433,CB,"","Can I make an anonymous report of abuse?",no_documents,0,0
+434,0434,CB,"","What is Child Abuse Prevention Month? When is it?",no_documents,0,0
+435,0435,CB,"","What is National Adoption Month? When is it?",no_documents,0,0
+436,0436,CB,"IM-14-03","",success,1,0
+437,0437,CB,"IM-14-04","",success,1,0
+438,0438,CB,"FYSB-IM-14-01","",success,1,0
+439,0439,CB,"PI-14-06","",success,2,0
+440,0440,CB,"IM-15-01","",success,1,0
+441,0441,CB,"IM-15-02","",success,1,0
+442,0442,CB,"PI-15-01","",success,1,0
+443,0443,CB,"PI-15-02","",success,1,0
+444,0444,CB,"PI-15-03","",success,20,0
+445,0445,CB,"PI-15-04","",success,15,0
+446,0446,CB,"IM-15-03","",success,1,0
+447,0447,CB,"PI-15-06","",success,1,0
+448,0448,CB,"PI-15-05","",success,1,0
+449,0449,CB,"PI-15-07","",success,5,0
+450,0450,CB,"IM-15-04","",success,1,0
+451,0451,CB,"IM-15-05","",success,1,0
+452,0452,CB,"PI-15-08","",success,4,0
+453,0453,CB,"IM-15-06","",success,1,0
+454,0454,CB,"IM-15-07","",success,1,0
+455,0455,CB,"IM-15-08","",success,1,0
+456,0456,CB,"PI-15-09","Revised form for reporting financial information on the title IV-E Foster Care, ",success,3,0
+457,0457,CB,"PI-15-10","Basis for allotment of grants to tribes under title IV- B, subparts 1 and 2 of t",success,5,0
+458,0458,CB,"PI-16-01","Availability of Fiscal Year (FY) 2016 Children's Justice Act Grants to States Un",success,1,0
+459,0459,CB,"PI-16-02","Availability of Federal Fiscal Year 2016 funds under the Community-Based Grants ",success,1,0
+460,0460,CB,"IM-16-01","Notice of Supplemental Proposed Rulemaking for collecting and reporting addition",success,1,0
+461,0461,CB,"PI-16-03","Summary of the actions required for states to complete and submit the second APS",success,22,0
+462,0462,CB,"PI-16-04","Summary of the actions required for tribes to complete and submit the second APS",success,17,0
+463,0463,CB,"IM-16-02","CCWIS final rule authorized under Title IV -E of the Social Security Act",success,1,0
+464,0464,CB,"","How do I find out if my name is on the State Child Abuse and Neglect Registry? H",no_documents,0,0
+465,0465,CB,"","How many children are adopted in the United States?",success,1,0
+466,0466,CB,"","I am concerned that current legislation does not protect the rights of families ",no_documents,0,0
+467,0467,CB,"","I am currently raising my grandchildren/relatives. Do I qualify for any financia",no_documents,0,0
+468,0468,CB,"IM-16-03","Executive’s Guide to CCWIS",success,2,0
+469,0469,CB,"IM-16-04","CCWIS Notice of Intent Checklist Template",success,3,0
+470,0470,CB,"IM-16-05","New Legislation - Public Law 114-198, the Comprehensive Addiction and Recovery A",success,1,0
+471,0471,CB,"IM-16-06","CCWIS Overview for State and Tribal IT Staff",success,2,0
+472,0472,CB,"PI-16-05","Instructions for State Courts Applying for Court Improvement Program (CIP) Funds",success,4,0
+473,0473,CB,"IM-16-07","Advance Planning Document (APD) Checklist for Automated Functions (optional)",success,3,0
+474,0474,CB,"IM-17-01","Adoption and Foster Care Analysis and Reporting System (AFCARS) final rule",success,1,0
+475,0475,CB,"PI-17-01","National Youth in Transition Database (NYTD) Reviews",success,3,0
+476,0476,CB,"IM-17-02","High Quality Legal Representation for All Parties in Child Welfare Proceedings",success,1,0
+477,0477,CB,"PI-17-02","Guidance on amendments made to the Child Abuse Prevention and Treatment Act (CAP",success,3,0
+478,0478,CB,"PI-17-04","Summary of the actions required to complete and submit the APSR and the CFS-101,",success,16,0
+479,0479,CB,"PI-17-05","Summary of the actions required in completion and submission of (1) the third AP",success,23,0
+480,0480,CB,"PI-17-06","Availability of Federal Fiscal Year (FFY) 2017 funds under the Community-Based G",success,1,0
+481,0481,CB,"IM-17-04","Title IV-E Child Welfare Demonstration Project Requests for Extensions – Procedu",success,1,0
+482,0482,CB,"IM-17-05","Title IV-E Adoption Assistance “Applicable Child” Eligibility Criteria",success,1,0
+483,0483,CB,"CCWIS Technical Bulletin #2","Data Sharing Between CCWIS and Child Welfare Contributing Agencies",success,1,0
+484,0484,CB,"","Guide to the NYTD Review Transmittal Letter",success,1,0
+485,0485,CB,"PI-18-01","Summary of the actions required in completion and submission of (1) the fourth A",success,19,0
+486,0486,CB,"PI-18-02","Summary of the actions required to complete and submit the APSR and the CFS-101,",success,18,0
+487,0487,CB,"PI-18-04","Availability of Federal Fiscal Year (FFY) 2018 funds under the Community-Based G",success,1,0
+488,0488,CB,"PI-18-03","Availability of Fiscal Year (FY) 2018 Children's Justice Act Grants to States Un",success,1,0
+489,0489,CB,"IM-18-01","Adoption and Foster Care Analysis and Reporting System (AFCARS) Advance Notice o",success,1,0
+490,0490,CB,"IM-18-02","NEW LEGISLATION – Public Law 115-123, the Family First Prevention Services Act w",success,1,0
+491,0491,CB,"PI-18-05","Fiscal Year 2018 Funding Available for Developing, Enhancing or Evaluating Kinsh",success,2,0
+492,0492,CB,"PI-18-06","Additional information and instructions for the Annual Progress and Services Rep",success,2,0
+493,0493,CB,"","How many children are abused and neglected each year?",no_documents,0,0
+494,0494,CB,"PI-18-07","Public Law 115-123, the Family First Prevention Services Act",success,6,0
+495,0495,CB,"PI-18-08","Change in Expenditure Period Length for Children’s Justice Act Grant Funds",success,1,0
+496,0496,CB,"IM-18-03","Adoption and Foster Care Analysis and Reporting System (AFCARS) Final Rule regar",success,1,0
+497,0497,CB,"CCWIS Technical Bulletin #4","Advance Planning Document Guidance for Agile Projects",success,1,0
+498,0498,CB,"IM-18-04","FY 2018 funding for state title IV-E/IV-B agencies to develop an electronic inte",success,1,0
+499,0499,CB,"IM-18-05","Strengthening Families Through Primary Prevention of Child Maltreatment and Unne",success,1,0
+500,0500,CB,"CCWIS Technical Bulletin #5","CCWIS Cost Allocation",success,1,0
+501,0501,CB,"Technical Bulletin #6: Data Quality Plan","Comprehensive Child Welfare Information System (CCWIS)",success,1,0
+502,0502,CB,"","Notice of biennial publication of allotment percentages for States under the Tit",success,1,0
+503,0503,CB,"PI-18-10","Tribal Title IV-E Agency Requirements for Electing Title IV-E Prevention and Fam",success,5,0
+504,0504,CB,"PI-18-11","Requirements for Participating in the Title IV-E Kinship Navigator Program",success,2,0
+505,0505,CB,"PI-18-12","Approval of a revised form for reporting financial data on the title IV-E Foster",success,2,0
+506,0506,CB,"PI-18-09","State Requirements for Electing Title IV-E Prevention and Family Services and Pr",success,6,0
+507,0507,CB,"","Letter to Update Child Welfare Directors on the Title IV-E Prevention Services C",success,1,0
+508,0508,CB,"PI-19-01","Federal Fiscal Year 2019 Title IV-B, subpart 2 Funding Available for Developing,",success,3,0
+509,0509,CB,"","Tribal Federal Medical Assistance Percentage Look-Up Table for FY 2019",success,1,0
+510,0510,CB,"","Tribal Federal Medical Assistance Percentage Reference Table for FYs 2018-2019",success,1,0
+511,0511,CB,"IM-19-01","National Model Foster Family Home Licensing Standards",success,1,0
+512,0512,CB,"PI-19-02","Summary of the actions required in completion and submission of (1) the Child an",success,27,0
+513,0513,CB,"","Children’s Bureau Tribal Consultation Response: Tribal Consultation for the Titl",success,1,0
+514,0514,CB,"","CCWIS Status at the End of Transition Period (July 31, 2018)",success,1,0
+515,0515,CB,"PI-19-03","Availability of Fiscal Year (FY) 2019 Children's Justice Act Grants to States Un",success,1,0
+516,0516,CB,"PI-19-04","Summary of actions required to complete and submit the (1) Final Report for FYs ",success,27,0
+517,0517,CB,"PI-19-05","Availability of fiscal year (FY) 2019 funds under the Community-Based Grants for",success,1,0
+518,0518,CB,"IM-19-02","Notice of Proposed Rulemaking (NPRM) on revised AFCARS data elements",success,1,0
+519,0519,CB,"","Questions and Answers – AFCARS NPRM",success,1,0
+520,0520,CB,"","Checklist for 2021 Annual Progress and Services Review Reports (APSRs) Due June ",success,1,0
+521,0521,CB,"","How do I report photos and videos of child maltreatment and/or child sexual abus",no_documents,0,0
+522,0522,CB,"","What is child sex trafficking/child labor trafficking? How do I report it?",success,1,0
+523,0523,CB,"","I am concerned for a friend in my school/neighborhood who may be abused. How do ",no_documents,0,0
+524,0524,CB,"","I need legal representation, but I do not have the financial means to pay legal ",failed,0,1
+525,0525,CB,"","Is there a link between parental drug use and the prevalence of child maltreatme",no_documents,0,0
+526,0526,CB,"","My child is being bullied and/or abused in school and the school administration ",failed,0,3
+527,0527,CB,"","What advocacy groups and organizations are available for families involved in th",failed,0,1
+528,0528,CB,"PI-19-06","Transitional Payments for the Title IV-E Prevention and Family Services and Prog",success,2,0
+529,0529,CB,"IM-19-03","Engaging, empowering, and utilizing family and youth voice in all aspects of chi",success,1,0
+530,0530,CB,"","CFSR Round 3 Statewide Data Indicator Data Dictionary 2019",success,1,0
+531,0531,CB,"","Instructions to Run Data Quality (DQ) Checks and Observed Performance Syntax for",success,1,0
+532,0532,CB,"","CFSR Technical Bulletin #10",success,1,0
+533,0533,CB,"IM-19-04","Evaluation Plan Development Tip Sheet",success,1,0
+534,0534,CB,"","Tribal Federal Medical Assistance Percentage Look-Up Table for FY 2020",success,1,0
+535,0535,CB,"","Tribal Federal Medical Assistance Percentage Reference Table for FY 2020",success,1,0
+536,0536,CB,"","Title IV-E Foster Care Eligibility Reviews 2020 Schedule",success,1,0
+537,0537,CB,"","NCANDS Child File Codebook",success,1,0
+538,0538,CB,"","NCANDS Agency File Codebook",success,1,0
+539,0539,CB,"PI-19-07","Transitional Payments for the Title IV-E Kinship Navigator Programs",success,2,0
+540,0540,CB,"PI-20-01","Supplemental Disaster Relief Funding available under Title IV-B, Subpart 1 of th",success,2,0
+541,0541,CB,"","Tribal Federal Medical Assistance Percentage Look-Up Table for FY 2021",success,1,0
+542,0542,CB,"","Tribal Federal Medical Assistance Percentage Reference Table for FY 2021",success,1,0
+543,0543,CB,"IM-20-01","NEW LEGISLATION – Public Law (P.L.) 116-94 Family First Transition Act",success,1,0
+544,0544,CB,"PI-20-02","Summary of the actions required for submission of states' Annual Progress and Se",success,18,0
+545,0545,CB,"IM-20-02","Family time and visitation for children and youth in out-of-home care",success,1,0
+546,0546,CB,"PI-20-03","Summary of the actions required for submission of tribes’ Annual Progress and Se",success,18,0
+547,0547,CB,"IM-20-03","Strengthening Technology Support for Recruitment, Approval, and Retention of Fos",success,1,0
+548,0548,CB,"","CFSR Technical Bulletin #11",success,1,0
+549,0549,CB,"IM-20-04","Information on the updated method to calculate state and tribal funding under th",success,1,0
+550,0550,CB,"","CFSR Round 3 Statewide Data Indicator Data Dictionary 2020",success,1,0
+551,0551,CB,"PI-20-04","Family First Prevention Services Act Transition Grants",success,1,0
+552,0552,CB,"PI-20-05","Federal Fiscal Year 2020 Title IV-B, subpart 2 Funding Available to Develop and ",success,1,0
+553,0553,CB,"PI-20-06","Availability of Fiscal Year (FY) 2020 Children's Justice Act Grants to States Un",success,1,0
+554,0554,CB,"","The FFPSA Title IV-E Prevention Program Implementation Updates",success,1,0
+555,0555,CB,"PI-20-07","Availability of fiscal year (FY) 2020 funds under the Community-Based Grants for",success,1,0
+556,0556,CB,"","HHS Division Updates on COVID-19",success,1,0
+557,0557,CB,"","Guidance on Flexible Convening of Court Hearings During COVID-19",success,1,0
+558,0558,CB,"","A Joint Statement on Child Welfare Courts During a Public Health Crisis: Access ",success,1,0
+559,0559,CB,"PI-20-09","Approval of a revised form for reporting financial data on the title IV-E Foster",success,3,0
+560,0560,CB,"","Updates to Formula Grant Opportunities Related to COVID-19 Pandemic",success,1,0
+561,0561,CB,"IM-20-05","NEW LEGISLATION – Public Law (P.L.) 116-127, Section 6008 of the Families First ",success,1,0
+562,0562,CB,"","Postponement of Title IV-E Foster Care Eligibility Reviews and National Youth in",success,1,0
+563,0563,CB,"","Use of Court Improvement Programs to Assist Dependency Courts in Response to COV",success,1,0
+564,0564,CB,"","Guidance Regarding Fingerprint and Caseworker Visit Requirements During COVID-19",success,1,0
+565,0565,CB,"PI-20-08","Family First Transition Act Funding Certainty Grants",success,1,0
+566,0566,CB,"","Guidance About Seeking Personal Protective Equipment for Child Welfare Workers",success,1,0
+567,0567,CB,"","Letter From the Children’s Bureau Regarding the Use of Federal Funds for Cell Ph",success,1,0
+568,0568,CB,"","Letter to Governors Regarding Personal Protective Equipment for Child Welfare Wo",success,1,0
+569,0569,CB,"","Children’s Bureau Letter Regarding Existing Title IV-E Flexibility",success,1,0
+570,0570,CB,"IM-20-06","Foster Care as a Support to Families",success,1,0
+571,0571,CB,"PI-20-10","Stafford Act Flexibility for Certain Title IV-E Requirements Related to Extended",success,1,0
+572,0572,CB,"IM-20-07","2020 Final Rule on Revised AFCARS Data Elements",success,1,0
+573,0573,CB,"","Children’s Bureau Guidance Regarding Extended Foster Care During the COVID-19 Pa",success,1,0
+574,0574,CB,"","Joint Letter to Family Support, Maternal and Child Health, and Early Childhood P",success,1,0
+575,0575,CB,"","Letter from Jerry Milner: CFSR PIP Measurement - Non-Overlapping Evaluation Peri",success,1,0
+576,0576,CB,"PI-20-11","Supplemental funding under Title IV-B, Subpart 1 of the Act to prevent, prepare ",success,2,0
+577,0577,CB,"","Letter Addresses Concerns Regarding Terminating Parental Rights Due to Service D",success,1,0
+578,0578,CB,"","CFSR Technical Bulletin #12",success,1,0
+579,0579,CB,"","AFCARS 2.1 Questions and Answers",success,2,0
+580,0580,CB,"","CFSP/APSR Reporting Schedule for States and Tribes",success,1,0
+581,0581,CB,"","Letter to Child Welfare Leaders Regarding Roundtable Discussions With Youth In o",success,1,0
+582,0582,CB,"","Letter to Child Welfare Leaders About Title IV-E Prevention Program Flexibilitie",success,1,0
+583,0583,CB,"","AFCARS Technical Bulletin #20 - Questions and Answers",success,1,0
+584,0584,CB,"","Ensuring the Continuation of Critical Court Hearings During Covid-19",success,1,0
+585,0585,CB,"","Letter From the Children’s Bureau Regarding the Foster Youth to Independence Ini",success,1,0
+586,0586,CB,"PI-20-12","Instructions for State Courts on Submitting New Five-Year Strategic Plan for FY ",success,3,0
+587,0587,CB,"PI-20-13","Summary of requirements for the State Annual Progress and Services Report to the",success,21,0
+588,0588,CB,"PI-20-14","Summary of requirements for the Tribal Annual Progress and Services Report to th",success,21,0
+589,0589,CB,"IM-20-08","Use of Title IV-E Programmatic Options to Improve Support to Relative Caregivers",success,1,0
+590,0590,CB,"IM-21-01","Achieving Permanency for the Well-being of Children and Youth",success,1,0
+591,0591,CB,"IM-21-02","Civil Legal Advocacy to Promote Child and Family Well-being, Address the Social ",success,1,0
+592,0592,CB,"IM-21-05","New Legislation Affecting Child Welfare Services: Division X and Section 305 of ",success,1,0
+593,0593,CB,"IM-21-06","Utilizing Title IV-E Funding to Support High-Quality Legal Representation and Pr",success,1,0
+594,0594,CB,"","Tribal Federal Medical Assistance Percentage Look-Up Table for FY 2022",success,1,0
+595,0595,CB,"","Tribal Federal Medical Assistance Percentage Reference Table for FYs 2021-2022",success,1,0
+596,0596,CB,"PI-21-02","Changes to the Court Improvement Program and Updated Instructions on Submitting ",success,1,0
+597,0597,CB,"PI-21-01","Availability of Fiscal Year 2021 Children's Justice Act Grants to States",success,1,0
+598,0598,CB,"PI-21-03","Fiscal Year 2021 Funds for the Community-Based Child Abuse Prevention Program",success,1,0
+599,0599,CB,"PI-21-04","Guidance and instruction related to the Supporting Foster Youth and Families thr",success,1,0
+600,0600,CB,"PI-21-05","Temporary Flexibilities for Participating in the Title IV-E Kinship Navigator Pr",success,1,0
+601,0601,CB,"","CCWIS Technical Bulletin #7",success,19,0
+602,0602,CB,"PI-21-06","Fiscal Year 2021 Title IV-B, Subpart 2 Funding for Kinship Navigator Programs",success,1,0
+603,0603,CB,"","Letter to Child Welfare Directors about the economic impact of the Covid-19 pand",success,1,0
+604,0604,CB,"","Appendix 3 -Disaster Relief Flexibilities to Reduce Burden for Financial Assista",success,1,0
+605,0605,CB,"","CFSR Round 3 Statewide Data Indicators Workbook",success,1,0
+606,0606,CB,"PI-21-08","Renewed Form for Title IV-E Programs Quarterly Financial Report",success,3,0
+607,0607,CB,"","What is National Foster Care Month? When is it?",no_documents,0,0
+608,0608,CB,"","How do I become a foster parent?",no_documents,0,0
+609,0609,CB,"","My former spouse won’t let me visit with my children. What recourse do I have?",failed,0,2
+610,0610,CB,"","What does it mean to be a legal guardian? Where can I find information?",failed,0,1
+611,0611,CB,"","Where can I get information and financial help to open a foster or group home?",no_documents,0,0
+612,0612,CB,"","What available supports and resources are in place for youth transitioning from ",success,1,0
+613,0613,CB,"","I'm having problems with foster care services in my state. What should I do?",no_documents,0,0
+614,0614,CB,"","I have been trying to get custody of my child, but I cannot afford to continue b",no_documents,0,0
+615,0615,CB,"","How do I change my current child custody/visitation arrangement?",no_documents,0,0
+616,0616,CB,"","I lost my parental rights. How can I get my children back?",failed,0,1
+617,0617,CB,"","I am concerned that my ex-wife's new husband/stepson is molesting my child; we s",failed,0,1
+618,0618,CB,"","Where can I find answers about federal and tribal child welfare laws and policie",no_documents,0,0
+619,0619,CB,"","I’m not allowed to visit with my grandchildren. What can I do?",success,1,2
+620,0620,CB,"PI-21-09","Definition of “Short-Term Support” under the Temporary Pandemic Flexibilities of",success,1,0
+621,0621,CB,"","CCWIS Design Requirements and Self Assessment Tool",success,2,0
+622,0622,CB,"","Joint Letter to States Regarding Financial Assistance to Youth in or Formerly in",success,1,0
+623,0623,CB,"","CCWIS Technical Bulletin #8",success,1,0
+624,0624,CB,"","Propuestas de Selección de Sitios",no_documents,0,0
+625,0625,CB,"PI-22-02","Actions Required for 2022 Tribal Submissions of APSR Updates; and Parts I, II, a",success,20,0
+626,0626,CB,"PI-22-01","Actions Required for 2022 State Submissions of APSR Updates; CAPTA State Plan Up",success,21,0
+627,0627,CB,"PI-22-03","Instructions for State Courts on Applying for State Court Improvement Program (C",success,4,0
+628,0628,CB,"PI-22-04","Availability of Fiscal Year (FY) 2022 Children's Justice Act Grants to States Un",success,1,0
+629,0629,CB,"PI-22-05","Availability of fiscal year (FY) 2022 funds under the Community-Based Grants for",success,1,0
+630,0630,CB,"","Tribal Federal Medical Assistance Percentage Look-Up Table for FY 2023",success,1,0
+631,0631,CB,"","Tribal Federal Medical Assistance Percentage Reference Table for FY 2023",success,1,0
+632,0632,CB,"PI-22-06","Federal Fiscal Year 2022 Title IV-B, subpart 2 Funding Available to Develop and ",success,1,0
+633,0633,CB,"","State-Led CFSR Requirements and Benefits",success,2,0
+634,0634,CB,"IM-22-02","Tribal Readiness Assessment Tool for Title IV-E (ACYF-CB-IM-22-02)",success,2,0
+635,0635,CB,"","Court Improvement Program",no_documents,0,0
+636,0636,CB,"","Appendix A: State-Led Case Review Criteria",success,2,0
+637,0637,CB,"","CFSR Technical Bulletin #13A",success,1,0
+638,0638,CB,"","AFCARS 2020 Compliance and Penalties",success,2,0
+639,0639,CB,"","Case Elimination Guidance",success,2,0
+640,0640,CB,"","CCWIS Technical Bulletin #9",success,1,0
+641,0641,CB,"","CFSR Process as Defined by Regulation (45 CFR 1355.31-37)",success,2,0
+642,0642,CB,"","Joint Letter Regarding the Assignment of Rights to Child Support for Children in",success,1,0
+643,0643,CB,"","Hoja Informativa para Oficiales Elegidos",success,1,0
+644,0644,CB,"","Data Dictionary - Statewide Data Indicators",success,2,0
+645,0645,CB,"","Reviewer Brief — Calculating 15 Out of 22 Months for the Purpose of Meeting Term",success,2,0
+646,0646,CB,"","Talking Points — Application of OSRI to Cases Open as Both In-Home Services and ",success,2,0
+647,0647,CB,"","Round 4 Guide for Writing “No” Narratives and Rationale Statements",success,2,0
+648,0648,CB,"ACF-IM-22-01","Responding to Human Trafficking among Children and Youth in Foster Care and Miss",success,1,0
+649,0649,CB,"","AFCARS 2020 New Technical Bulletins and Intro to NCWDMS",success,1,0
+650,0650,CB,"IM-23-01","New Legislation — Public Law (P.L.) 117-328, §5131 of Division FF of the Consoli",success,1,0
+651,0651,CB,"PI-23-01","Program Instruction for the June 30, 2023 State submission of: (1) the fourth An",success,18,0
+652,0652,CB,"PI-23-02","Program Instruction for Tribes on the June 30, 2023 of the fourth Annual Progres",success,18,0
+653,0653,CB,"PI-23-03","Instructions for State Courts on Applying for State Court Improvement Program (C",success,6,0
+654,0654,CB,"IM-23-02","Notice of Proposed Rulemaking (NPRM) on Separate Licensing Standards for Relativ",success,1,0
+655,0655,CB,"PI-23-04","Availability of Fiscal Year (FY) 2023 Children's Justice Act Grants to States Un",success,1,0
+656,0656,CB,"IM-23-03","Comprehensive Child Welfare Information System (CCWIS) and Software Bills of Mat",success,1,0
+657,0657,CB,"","Validation Technical Training Video",success,1,0
+658,0658,CB,"PI-23-05","Availability of fiscal year (FY) 2023 funds under the Community-Based Grants for",success,1,0
+659,0659,CB,"PI-23-06","Title IV-E Foster Care Eligibility Reviews and Monitoring of Certain Provisions ",success,3,0
+660,0660,CB,"","Instructions for Completing the Title IV-E Foster Care Eligibility Review Instru",success,2,0
+661,0661,CB,"","Title IV-E Foster Care Eligibility Review Guide",success,2,0
+662,0662,CB,"","Title IV-E Foster Care Eligibility Review Instrument",success,2,0
+663,0663,CB,"PI-23-07","Federal Fiscal Year 2023 Title IV-B, Subpart 2 Funding Available to Develop and ",success,2,0
+664,0664,CB,"","XML Concepts Technical Training Video",success,1,0
+665,0665,CB,"","Tribal Federal Medical Assistance Percentage Look-Up Table for FY 2024",success,1,0
+666,0666,CB,"","Tribal Federal Medical Assistance Percentage Reference Table for FY 2024",success,1,0
+667,0667,CB,"IM-23-04","Changes to Medicaid eligibility for youth/young adults age 18 who transition out",success,1,0
+668,0668,CB,"PI-23-08","TITLE IV-E PLAN AMENDMENT– Public Law (P.L.) 117-348 – The Trafficking Victims P",success,1,0
+669,0669,CB,"IM-23-05","End date for the flexibilities extended in response to the COVID-19 pandemic und",success,1,0
+670,0670,CB,"","CFSR Round 4 Program Improvement Plan Template",success,1,0
+671,0671,CB,"","Is this grant project for a specific region?",no_documents,0,0
+672,0672,CB,"","Is there a suggested page length for the Project Narrative?",failed,0,1
+673,0673,CB,"","Is this funding opportunity open to public and state institutions of higher educ",no_documents,0,0
+674,0674,CB,"","How do I apply for this funding opportunity?",success,2,0
+675,0675,CB,"PI-23-09","Supplemental Disaster Relief Funding available under Title IV-B, Subpart 1 of th",success,2,0
+676,0676,CB,"","Can our organization serve as the fiscal agent to a nonprofit partner agency tha",no_documents,0,0
+677,0677,CB,"","Is the award ceiling $1,000,000 over 36 months or $1,000,000 per year for 36 mon",no_documents,0,0
+678,0678,CB,"","We have some preliminary questions about the NOFO. Can we set up a call to discu",no_documents,0,0
+679,0679,CB,"","Is the 15-percent evaluation requirement calculated from the total project budge",no_documents,0,0
+680,0680,CB,"","If You Build It They Will Come: Lessons Learned Through the Implementation of Te",success,1,0
+681,0681,CB,"","Would it be possible to receive copies of successful past proposals to review?",no_documents,0,0
+682,0682,CB,"","Can you tell me how many applicants have submitted letters of intent?",no_documents,0,0
+683,0683,CB,"","How are complex needs defined?",no_documents,0,0
+684,0684,CB,"","Are interventions limited to serving children, or can they also serve foster par",no_documents,0,0
+685,0685,CB,"","Do interventions need to be evidence based?",no_documents,0,0
+686,0686,CB,"","How do I submit a letter of intent?",no_documents,0,0
+687,0687,CB,"","Title IV-E Foster Care Eligibility Reviews Schedules",success,3,0
+688,0688,CB,"","NYTD FAQ - 2. Data Elements",no_documents,0,0
+689,0689,CB,"","State Legal-Judicial Specialist",success,1,0
+690,0690,CB,"","Letter Regarding Reminders to State and Tribal Title IV-E agencies about the Soc",failed,0,1
+691,0691,CB,"","CCWIS Technical Bulletin #10",success,1,0
+692,0692,CB,"IM 23-06","Notice of Proposed Rulemaking (NPRM) on Foster Care Legal Representation",success,1,0
+693,0693,CB,"IM-23-07","Final Rule on Separate Licensing Standards for Relative or Kinship Foster Family",success,1,0
+694,0694,CB,"","Technical Bulletin #21 — XML File Structure and Encryption",success,5,0
+695,0695,CB,"PI-23-10","Title IV-E Plan Amendment–Separate Licensing Standards for Relative or Kinship F",success,3,0
+696,0696,CB,"IM-23-09","Interagency Collaboration between Child Welfare and Educational Agencies to Supp",success,1,0
+697,0697,CB,"IM-23-10","Automated Child Welfare Information System Options for Tribal Title IV-E Agencie",success,1,0
+698,0698,CB,"PI-24-01","Guidelines for conducting time-limited information technology demonstration proj",success,1,0
+699,0699,CB,"","Tribal Federal Medical Assistance Percentage Reference Table for FY 2025",success,1,0
+700,0700,CB,"","Tribal Federal Medical Assistance Percentage Look-Up Table for FY 2025",success,1,0
+701,0701,CB,"PI-24-02","Summary of the actions required in completion and submission of (1) the Child an",success,22,0
+702,0702,CB,"PI-24-03","Guidance to tribes on actions required to complete and submit the (1) Final Repo",success,22,0
+703,0703,CB,"IM-24-02","Notice of Proposed Rulemaking (NPRM) on Adoption and Foster Care Analysis and Re",success,1,0
+704,0704,CB,"PI-24-04","Instructions for State Courts on Applying for State Court Improvement Program (C",success,6,0
+705,0705,CB,"PI-24-05","Availability of Fiscal Year (FY) 2024 Funds Under the Community-Based Grants for",success,1,0
+706,0706,CB,"PI-24-06","Availability of Fiscal Year (FY) 2024 Children's Justice Act Grants to States Un",success,1,0
+707,0707,CB,"","2024 National Center for Community-Based Child Abuse Prevention Notice of Fundin",no_documents,0,0
+708,0708,CB,"","2024 Tribal Court Improvement Program Notice of Funding Opportunity Frequently A",no_documents,0,0
+709,0709,CB,"IM-24-05","Final Rule on Foster Care Legal Representation",success,1,0
+710,0710,CB,"PI-24-07","State Requirements for Electing Title IV-E Prevention and Family Services and Pr",success,7,0
+711,0711,CB,"IM-24-06","Title IV-E Adoption Assistance “Applicable Child” Eligibility Criteria",success,1,1
+712,0712,CB,"","Dear Colleague Letter on Addressing the Complex Needs of Dually Involved Youth",success,1,0
+713,0713,CB,"PI-24-08","Federal Fiscal Year 2024 Title IV-B, Subpart 2 Funding Available to Develop and ",success,3,0
+714,0714,CB,"","Technical Update #2: Downloading Your NYTD Compliance Status",success,1,0
+715,0715,CB,"","Technical Update #1: Uploading Your Files to the NYTD Application",success,1,0
+716,0716,CB,"","Technical Bulletin #23 — Compliance and Penalties",success,2,0
+717,0717,CB,"","Technical Bulletin #22 — Reporting Population & Data Extraction",success,1,0
+718,0718,CB,"","Technical Bulletin #20 — Data Elements for Out-of-Home Care and Adoption and Gua",success,1,0
+719,0719,CB,"1. Reporting Requirements & Reporting Populations","NYTD FAQ - 1. Reporting Requirements & Reporting Populations",no_documents,0,0
+720,0720,CB,"","NYTD FAQ - 3. Youth Outcome Survey",no_documents,0,0
+721,0721,CB,"","NYTD FAQ - 4. System Requirements (SACWIS)",no_documents,0,0
+722,0722,CB,"","NYTD FAQ - 5. Compliance Standards & Penalties for Noncompliance",no_documents,0,0
+723,0723,CB,"","NYTD FAQ - 6. Sampling",no_documents,0,0
+724,0724,CB,"","NYTD FAQ - 7. Implementation Costs & Funding",no_documents,0,0
+725,0725,CB,"","NYTD FAQ - 8. Miscellaneous",no_documents,0,0
+726,0726,CB,"NYTD Technical Assistance Brief #16","NYTD Reporting Populations and Cohort Schedule",success,1,0
+727,0727,CB,"PI-24-09","Approval of a revised form for reporting financial data on the title IV-E Foster",success,3,0
+728,0728,CB,"IM-24-07","Changes to the Personal Responsibility and Work Opportunity Reconciliation Act o",success,1,0
+729,0729,CB,"IM-24-08","Updated Nonregulatory Guidance from the U.S. Departments of Education and Health",success,1,0
+730,0730,CB,"DCL 24-03","Dear Colleague Letter on Best Practices for Adhering to Early and Periodic Scree",success,1,1
+731,0731,CB,"IM-24-09","Final Rule on the Adoption and Foster Care Analysis and Reporting System",success,1,0
+732,0732,CB,"IM-24-10","Title IV-E Plan Pre-Print for Foster Care, Adoption Assistance, Guardianship Ass",success,3,0
+733,0733,CB,"PI-24-11","Tribal Title IV-E Agency Requirements for Electing Title IV-E Prevention and Fam",success,1,0
+734,0734,CB,"PI-24-10","State Requirements for Electing Title IV-E Prevention and Family Services and Pr",success,7,0
+735,0735,CB,"IM-25-01","Protecting the Rights of Qualified Individuals with Disabilities: Technical Assi",success,1,0
+736,0736,CB,"IM-25-03","Notice of court ordered nationwide stay of the Designated Placements Final Rule",success,1,0
+737,0737,CB,"PI-25-03","Availability of Fiscal Year 2025 Children's Justice Act Grants to States Under t",success,1,0
+738,0738,CB,"PI-25-02","Guidance to tribes on the Submission of the first APSR to the 2025-2029 CFSP, CF",success,15,0
+739,0739,CB,"PI-25-01","Submission of the first APSR to the 2025-2029 CFSP, CAPTA State Plan update, and",success,17,0
+740,0740,CB,"PI-25-04","Availability of Fiscal Year 2025 Funds Under the Community-Based Grants for the ",success,1,0
+741,0741,CB,"PI-25-05","Federal Fiscal Year 2025 Title IV-B, Subpart 2 Funding Available to Develop and ",success,3,0
+742,0742,CB,"","Tribal Federal Medical Assistance Percentage Look-Up Table for FY 2026",success,1,0
+743,0743,CB,"","Tribal Federal Medical Assistance Percentage Reference Table for FY 2026",success,1,0
+744,0744,CB,"PI-25-06","Instructions for State Courts on Applying for State Court Improvement Program Fu",success,6,0
+745,0745,CB,"IM-25-04","Public Law 118-258 - The Supporting America’s Children and Families Act",success,1,0
+746,0746,CB,"IM-25-05","Update on Implementing Provisions of Public Law (Pub. L.) 118-258, The Supportin",success,1,0
+747,0747,CB,"","Revised Technical Bulletin #1",success,2,0
+748,0748,CB,"","Technical Bulletin #2: Title IV-E Prevention Program Data Submission Timelines",success,1,0
+749,0749,CB,"","I need help with my adopted child. What resources are available to me in my stat",no_documents,0,0
+750,0750,CB,"","TB #1: File Structure",success,3,0
+751,0751,CB,"","TB #2: Compliance Standards",success,2,0
+752,0752,CB,"","TB #3: Data Quality Advisories",success,2,0
+753,0753,CB,"","TB #4: System User Roles and Responsibilities",success,2,0
+754,0754,CB,"","TB #5: Cohort Management and Sampling",success,2,0
+755,0755,CB,"","TU #1: NYTD File Upload",success,1,0
+756,0756,CB,"","TU#2: NYTD Compliance Status",success,1,0
+757,0757,CB,"","Tips for Administering the NYTD Survey",success,1,0
+758,0758,CB,"","Tips for Building a Social Media Presence",success,1,0
+759,0759,CB,"","Tips for Engaging 17-Year-Olds in the NYTD Survey",success,1,0
+760,0760,CB,"","Tips for Hiring and Building Rapport With Young People With Lived Experience",success,1,0
+761,0761,CB,"","Tips for Using Social Media to Locate and Engage Young People in the NYTD Survey",success,1,0
+762,0762,CB,"","Tips for Using Technology to Locate and Engage 19- and 21-Year-Olds in the NYTD ",success,1,0
+763,0763,CB,"","Tips for Using and Supplementing NYTD Data Snapshots",success,1,0
+764,0764,ECD,"","Teli Synthesis",success,1,0
+765,0765,ECD,"","TELI Collaborative Success",success,1,0
+766,0766,ECD,"ACF-ECD-THV-IM-25-01","Supporting Food Security and Access to Indigenous Foods for Children and Familie",success,1,0
+767,0767,ECD,"ACF-ECD-THV-IM-25-02","Use of Federal Early Childhood Program Funds to Improve Housing Related Supports",success,1,0
+768,0768,ECD,"ACF-ECD-THV-IM-24-01","Opportunities for the Tribal Maternal, Infant, and Early Childhood Home Visiting",success,1,0
+769,0769,ECD,"","Tribal MIECHV Implementation Plan Guidance and Form 1",success,1,0
+770,0770,ECD,"","Tribal Home Visiting Emergency Response to COVID-19 Guidance for Tribal Home Vis",no_documents,0,0
+771,0771,ECD,"","Tribal MIECHV Homelessness Letter",success,1,0
+772,0772,ECD,"","ED and HHS MIECHV Part C Guidance",success,1,0
+773,0773,ECD,"","Letter to Tribal Leaders (STAC)",success,1,0
+774,0774,ECD,"","Tribal Policy Statement",success,1,0
+775,0775,ECD,"","Tribal MIECHV Implementation Plan Guidance and Form 1",success,1,0
+776,0776,ECD,"","Tribal MIECHV Implementation Plan Guidance and Form 1",success,1,0
+777,0777,ECD,"","Tribal MIECHV Performance Measurement System",success,1,0
+778,0778,ECD,"","Tribal MIECHV Performance Measurement System",success,1,0
+779,0779,ECD,"","Tribal MIECHV Homelessness Letter",success,1,0
+780,0780,ECD,"","Tribal HV Implementation Plan Guidance Cohort 3",success,1,0
+781,0781,ECD,"","Tribal HV Implementation Plan Guidance",success,1,0
+782,0782,ECD,"","Tribal Home Visiting Implementation Plan Guidance",success,1,0
+783,0783,ECD,"","Tribal Home Visiting Implementation Plan Guidance Cohort 3",success,1,0
+784,0784,ECD,"","Guidance for Submitting a Needs Assessment and Plan",success,1,0
+785,0785,ECD,"","Dear Colleague Letter For Tribal Leaders",success,1,0
+786,0786,ECD,"","HRSA-ACF Letter to State MIECHV Grantees",success,1,0
+787,0787,ECD,"","Tribal Early Childhood Facilities Combined Application Guide",success,1,1
+788,0788,ECD,"","Early Care and Education Workforce Salary Scale Playbook: Implementation Guide",success,1,0
+789,0789,ECD,"","Meeting the Needs of Families with Young Children Experiencing and At Risk of Ho",success,1,0
+790,0790,ECD,"","Homeless Families with Young Children FY2016-FY2018 Child Care and Development F",success,1,0
+791,0791,ECD,"","interagency Policy Board Report to the Secretaries",success,1,0
+792,0792,ECD,"","Expulsion and Suspension Resource Guide",success,1,0
+793,0793,ECD,"","Expulsion and Suspension Resource Guide",success,1,0
+794,0794,ECD,"","Early Childhood Homelessness Guidance Document",success,1,0
+795,0795,ECD,"","Joint Guidance Brief on Early Learning and Use of Technology",success,1,0
+796,0796,ECD,"","ECE Crosswalk",success,1,0
+797,0797,ECD,"","Final HHS USDA Joint Monitoring Guidance Document",success,1,0
+798,0798,ECD,"","Joint Policy Statement Release",success,1,0
+799,0799,ECD,"","SAC Joint Statement",success,1,0
+800,0800,ECD,"","Access to Early Childhood Development Services for Homeless Families with Young ",success,1,0
+801,0801,ECD,"","Guidance Document on Early Childhood Career Pathways",success,1,0
+802,0802,ECD,"","Policy Statement on Family Engagement",success,1,0
+803,0803,ECD,"","Intervention Implementation Guide",success,1,0
+804,0804,ECD,"","Implementing Parenting Interventions in Early Care and Education Settings: A Gui",success,1,0
+805,0805,ECD,"","Guidance Document on Expulsion and Suspension Policies in early Childhood Settin",success,1,0
+806,0806,ECD,"","Summary of the Strong Start for America's Children Act",success,1,0
+807,0807,ECD,"","Strong Start for America's Children of 2013 House Bill",success,1,0
+808,0808,ECD,"","Strong Start for America's Children Senate Bill",success,1,0
+809,0809,OCC,"CCDF-ACF-IM-2011-01","Emergency Preparedness and Response Planning for Child Care; CCDF Plan (ARCHIVED",success,1,0
+810,0810,OCC,"ACF-OCC-CCDF-IM-25-04","Expanding Educational Freedom and Opportunities for Families",success,1,0
+811,0811,OCC,"ACF-OCC-CCDF-IM-25-03","American Relief Act (ARA) CCDF Discretionary Supplemental Funds",success,1,0
+812,0812,OCC,"ACF-OCC-CCDF-IM-25-02","Implementation of CCDF through a Tribal Consortium",no_documents,0,0
+813,0813,OCC,"ACF-OCC-CCDF-IM-25-01","Tribal CCDF Lead Agency Flexibilities for CCDF Parental Activity Requirements",no_documents,0,0
+814,0814,OCC,"ACF-OCC-CCDF-IM-24-02","Use of Federal Early Childhood Funds to Improve Housing in Tribal Workforce",success,1,0
+815,0815,OCC,"ACF- ECD-OCC-IM-24-09","Engaging Families and Early Educators with Direct Experience in Child Care and E",success,1,0
+816,0816,OCC,"ACF-OCC-CCDF-IM-24-01","Using CCDF to Promote Mental Health and Well-being",no_documents,0,0
+817,0817,OCC,"CCDF-ACF-IM-2022-02","Using CCDF to Improve Compensation for the Child Care Workforce",success,1,0
+818,0818,OCC,"CCDF-ACF-IM-2022-01","Use of Tribal Child Care and Development Fund Resources to Support Early Childho",success,1,0
+819,0819,OCC,"CCDF-ACF-IM-2021-04","ARP Act Increased Mandatory and Matching Funds",success,1,0
+820,0820,OCC,"CCDF-ACF-IM-2021-03","ARP Act CCDF Discretionary Supplemental Funds",success,1,0
+821,0821,OCC,"CCDF-ACF-IM-2021-02","ARP Act Child Care Stabilization Grants",no_documents,0,0
+822,0822,OCC,"CCDF-ACF-IM-2021-01","CCDF Discretionary Funds Appropriated in the CRRSA Act (Pub. L. 116-260), signed",success,1,0
+823,0823,OCC,"IM-ACF-OA-2020-01","ACF grant flexibilities in conducting human service activities related to or aff",success,1,0
+824,0824,OCC,"CCDF-ACF-IM-2020-01","CCDF Discretionary Funds Appropriated in the CARES Act (Public Law 116-136) pass",success,1,0
+825,0825,OCC,"CCDF-ACF-IM-2019-01","CCDF Policy Opportunities for Supporting Populations Impacted by Opioid Misuse a",success,5,1
+826,0826,OCC,"CCDF-ACF-IM-2018-03","Increase in Child Care and Development Fund (CCDF) Discretionary Funds in the Co",success,1,0
+827,0827,OCC,"ACF-ACF-IM-18-01","Integrating Approaches that Prioritize and Enhance Father Engagement",success,1,0
+828,0828,OCC,"CCDF-ACF-IM-2018-02","Child Care Consumer Education Website Requirements and Resources",success,1,0
+829,0829,OCC,"CCDF-ACF-IM-2018-01","Transmittal of Federal Emergency Management Agency (FEMA) Disaster Assistance Gu",success,1,0
+830,0830,OCC,"CCDF-ACF-IM-2017-01","Statewide Disaster Plan (or Disaster Plan for a Tribe’s service area) for Child ",success,5,0
+831,0831,OCC,"CCDF-ACF-IM-2017-02","Flexibility in Spending CCDF Funds in Response to Federal or State Declared Emer",success,1,0
+832,0832,OCC,"CCDF-ACF-IM-2016-04","Supporting Parents in Job Training and Education Programs with Child Care Assist",success,1,0
+833,0833,OCC,"CCDF-ACF-IM-2016-02","Child Care Reauthorization and Opportunities for TANF and CCDF",success,2,0
+834,0834,OCC,"CCDF-ACF-IM-2016-01","Developmental and Behavioral Screenings",success,6,3
+835,0835,OCC,"CCDF-ACF-IM-2015-02","Building the Supply of High-Quality Child Care",failed,0,1
+836,0836,OCC,"CCDF-ACF-IM-2015-01","Children's Social-Emotional and Behavioral Health",success,2,0
+837,0837,OCC,"ACF-IM-HS-15-03","Policy and Program Guidance for the Early Head Start-Child Care (EHS-CCP) Partne",success,2,0
+838,0838,OCC,"","Refugee Resettlement and Child Care Partnerships: Partnering to Increase Refugee",failed,0,1
+839,0839,OCC,"CCDF-ACF-IM-2012-02","Crib Standards Information Memorandum",success,2,0
+840,0840,OCC,"CCDF-ACF-IM-2012-01","Head Start, Child Care, and Public Libraries: Partnerships to Support Young Chil",failed,0,1
+841,0841,OCC,"CCDF-ACF-IM-2011-06","Policies and Practices that Promote Continuity of Child Care Services and Enhanc",success,4,1
+842,0842,OCC,"CCDF-ACF-IM-2011-05","Background Checks, Health and Safety Requirements, CCDF Plan (Archived: contains",success,3,1
+843,0843,OCC,"CCDF-ACF-IM-2011-04","Early Childhood Education, Financial Stability, and Asset Building Strategies fo",success,2,0
+844,0844,OCC,"CCDF-ACF-IM-2011-03","Fiscal Year 2011 CCDF Allocations and Targeted Funds for Tribes (ARCHIVED)",success,1,0
+845,0845,OCC,"","Child Welfare and Child Care Partnerships: Partnering with Families Involved in ",success,2,0
+846,0846,OCC,"CCDF-ACF-IM-2010-02","Helping Victims of Domestic Violence and Their Children",success,2,0
+847,0847,OCC,"CCDF-ACF-IM-2010-01","Transmittal of Federal Emergency Management Agency (FEMA) Disaster Assistance Fa",success,1,0
+848,0848,OCC,"CCDF-ACF-IM-09-01","American Recovery and Reinvestment Act (ARRA) of 2009: Key Areas of Flexibility ",success,1,0
+849,0849,OCC,"ACYF-IM-CC-05-03","Flexibility in Spending CCDF Funds in Response to Federal or State Declared Emer",success,1,0
+850,0850,OCC,"ACYF-IM-CC-05-02","Tribal Data Tracker Software",success,1,0
+851,0851,OCC,"ACYF-IM-CC-03-01","Disregard of Monetary Allowances for Certain Children of Vietnam War Veterans",success,2,0

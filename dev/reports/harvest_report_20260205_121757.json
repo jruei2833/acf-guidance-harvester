@@ -1,0 +1,468 @@
+{
+  "run_timestamp": "20260205_121757",
+  "duration_seconds": 244.46136,
+  "row_range": {
+    "start": 1,
+    "end": 10
+  },
+  "stats": {
+    "success": 8,
+    "failed": 2,
+    "no_urls": 0,
+    "no_documents": 0,
+    "skipped": 0,
+    "dry_run": 0,
+    "total_files": 15
+  },
+  "results": [
+    {
+      "excel_row": 2,
+      "office": "CB",
+      "issue_date": "1979-03-07 00:00:00",
+      "doc_type": "Action Transmittal (AT)",
+      "doc_number": "AT-79-12",
+      "title": "",
+      "page_count": "35",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/79-12",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0002",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "at7912.pdf",
+          "source_url": "http://web.archive.org/web/20251231232331/https://acf.gov/sites/default/files/documents/cb/at7912.pdf",
+          "size_bytes": 308463,
+          "sha256": "4cfe07ca07004625b0cdc037c95e3614a92f090425616bd9f51cef9af466003b",
+          "content_type": "application/pdf",
+          "link_text": "at-79-12.pdf",
+          "download_type": "scraped"
+        },
+        {
+          "filename": "index.html",
+          "source_url": "http://web.archive.org/web/20251231232331/https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "size_bytes": 150802,
+          "sha256": "46601bcc3d32d136649ded1b22896677333ae0ca4ae401bd171a8da529aef215",
+          "content_type": "text/html; charset=UTF-8",
+          "link_text": "HHS Vulnerability Disclosure Policy",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/79-12",
+          "final_url": "http://web.archive.org/web/20251231232331/https://acf.gov/cb/policy-guidance/79-12",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:13:52.872965"
+    },
+    {
+      "excel_row": 3,
+      "office": "CB",
+      "issue_date": "1980-02-26 00:00:00",
+      "doc_type": "Action Transmittal (AT)",
+      "doc_number": "AT-80-01",
+      "title": "",
+      "page_count": "4",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/80-01",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0003",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "at8001.pdf",
+          "source_url": "http://web.archive.org/web/20251231230401/https://acf.gov/sites/default/files/documents/cb/at8001.pdf",
+          "size_bytes": 26981,
+          "sha256": "c51df24796bf280c562f6537130eb3a656163c4797ef597c6d185911a7721cf7",
+          "content_type": "application/pdf",
+          "link_text": "at-80-01.pdf",
+          "download_type": "scraped"
+        },
+        {
+          "filename": "index.html",
+          "source_url": "http://web.archive.org/web/20251231230401/https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "size_bytes": 150802,
+          "sha256": "46601bcc3d32d136649ded1b22896677333ae0ca4ae401bd171a8da529aef215",
+          "content_type": "text/html; charset=UTF-8",
+          "link_text": "HHS Vulnerability Disclosure Policy",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/80-01",
+          "final_url": "http://web.archive.org/web/20251231230401/https://acf.gov/cb/policy-guidance/80-01",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:14:29.623400"
+    },
+    {
+      "excel_row": 4,
+      "office": "CB",
+      "issue_date": "1980-04-04 00:00:00",
+      "doc_type": "Action Transmittal (AT)",
+      "doc_number": "AT-80-02",
+      "title": "",
+      "page_count": "1",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/80-02",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0004",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "at8002.pdf",
+          "source_url": "http://web.archive.org/web/20251231232235/https://acf.gov/sites/default/files/documents/cb/at8002.pdf",
+          "size_bytes": 90807,
+          "sha256": "0040afdb559088aac627938a4b12ac682b38a9060adb3c88c05239184ce11184",
+          "content_type": "application/pdf",
+          "link_text": "at-80-02.pdf",
+          "download_type": "scraped"
+        },
+        {
+          "filename": "index.html",
+          "source_url": "http://web.archive.org/web/20251231232235/https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "size_bytes": 150802,
+          "sha256": "46601bcc3d32d136649ded1b22896677333ae0ca4ae401bd171a8da529aef215",
+          "content_type": "text/html; charset=UTF-8",
+          "link_text": "HHS Vulnerability Disclosure Policy",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/80-02",
+          "final_url": "http://web.archive.org/web/20251231232235/https://acf.gov/cb/policy-guidance/80-02",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:14:56.954003"
+    },
+    {
+      "excel_row": 5,
+      "office": "CB",
+      "issue_date": "1980-04-21 00:00:00",
+      "doc_type": "Action Transmittal (AT)",
+      "doc_number": "AT-80-03",
+      "title": "",
+      "page_count": "5",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/80-03",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0005",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "at8003.pdf",
+          "source_url": "http://web.archive.org/web/20251231231706/https://acf.gov/sites/default/files/documents/cb/at8003.pdf",
+          "size_bytes": 201620,
+          "sha256": "cfa80c6d459f47fcf542cc676cbbb939fad24df878e75dc6d89292d320faa32b",
+          "content_type": "application/pdf",
+          "link_text": "at-80-03.pdf",
+          "download_type": "scraped"
+        },
+        {
+          "filename": "index.html",
+          "source_url": "http://web.archive.org/web/20251231231706/https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "size_bytes": 150802,
+          "sha256": "46601bcc3d32d136649ded1b22896677333ae0ca4ae401bd171a8da529aef215",
+          "content_type": "text/html; charset=UTF-8",
+          "link_text": "HHS Vulnerability Disclosure Policy",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/80-03",
+          "final_url": "http://web.archive.org/web/20251231231706/https://acf.gov/cb/policy-guidance/80-03",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:15:23.951982"
+    },
+    {
+      "excel_row": 6,
+      "office": "CB",
+      "issue_date": "1980-06-17 00:00:00",
+      "doc_type": "Action Transmittal (AT)",
+      "doc_number": "AT-80-04",
+      "title": "",
+      "page_count": "10",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/80-04",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0006",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "at8004.pdf",
+          "source_url": "http://web.archive.org/web/20251231232302/https://acf.gov/sites/default/files/documents/cb/at8004.pdf",
+          "size_bytes": 132757,
+          "sha256": "b0bef2d5d87cc85af2b8e270809450fa61133027290180e0133073484b866a33",
+          "content_type": "application/pdf",
+          "link_text": "at-80-04.pdf",
+          "download_type": "scraped"
+        },
+        {
+          "filename": "index.html",
+          "source_url": "http://web.archive.org/web/20251231232302/https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "size_bytes": 150802,
+          "sha256": "46601bcc3d32d136649ded1b22896677333ae0ca4ae401bd171a8da529aef215",
+          "content_type": "text/html; charset=UTF-8",
+          "link_text": "HHS Vulnerability Disclosure Policy",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/80-04",
+          "final_url": "http://web.archive.org/web/20251231232302/https://acf.gov/cb/policy-guidance/80-04",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:15:50.245932"
+    },
+    {
+      "excel_row": 7,
+      "office": "CB",
+      "issue_date": "1980-08-21 00:00:00",
+      "doc_type": "Action Transmittal (AT)",
+      "doc_number": "AT-80-05",
+      "title": "",
+      "page_count": "4",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/80-05",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0007",
+      "status": "failed",
+      "files_downloaded": [],
+      "errors": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/80-05",
+          "error": "unreachable"
+        }
+      ],
+      "pages_visited": [],
+      "processed_at": "2026-02-05T12:16:19.364559"
+    },
+    {
+      "excel_row": 8,
+      "office": "CB",
+      "issue_date": "1980-10-14 00:00:00",
+      "doc_type": "Action Transmittal (AT)",
+      "doc_number": "AT-81-01",
+      "title": "",
+      "page_count": "1",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/81-01",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0008",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "index.html",
+          "source_url": "http://web.archive.org/web/20251231232245/https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "size_bytes": 150802,
+          "sha256": "46601bcc3d32d136649ded1b22896677333ae0ca4ae401bd171a8da529aef215",
+          "content_type": "text/html; charset=UTF-8",
+          "link_text": "HHS Vulnerability Disclosure Policy",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/81-01",
+          "final_url": "http://web.archive.org/web/20251231232245/https://acf.gov/cb/policy-guidance/81-01",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:16:31.630405"
+    },
+    {
+      "excel_row": 9,
+      "office": "CB",
+      "issue_date": "1980-10-14 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-80-01",
+      "title": "",
+      "page_count": "1",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-80-01",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0009",
+      "status": "failed",
+      "files_downloaded": [],
+      "errors": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-80-01",
+          "error": "unreachable"
+        }
+      ],
+      "pages_visited": [],
+      "processed_at": "2026-02-05T12:16:49.297552"
+    },
+    {
+      "excel_row": 10,
+      "office": "CB",
+      "issue_date": "1980-10-27 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-80-02",
+      "title": "",
+      "page_count": "1",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-80-02",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0010",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8002.pdf",
+          "source_url": "http://web.archive.org/web/20251231232215/https://acf.gov/sites/default/files/documents/cb/pi8002.pdf",
+          "size_bytes": 89782,
+          "sha256": "e5688902b3fa2021ededa33ceac0be496f8b6a278054d655018bd3d2c4be35bd",
+          "content_type": "application/pdf",
+          "link_text": "PI-80-02.pdf",
+          "download_type": "scraped"
+        },
+        {
+          "filename": "index.html",
+          "source_url": "http://web.archive.org/web/20251231232215/https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "size_bytes": 150802,
+          "sha256": "46601bcc3d32d136649ded1b22896677333ae0ca4ae401bd171a8da529aef215",
+          "content_type": "text/html; charset=UTF-8",
+          "link_text": "HHS Vulnerability Disclosure Policy",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-80-02",
+          "final_url": "http://web.archive.org/web/20251231232215/https://acf.gov/cb/policy-guidance/pi-80-02",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:17:01.573507"
+    },
+    {
+      "excel_row": 11,
+      "office": "CB",
+      "issue_date": "1980-12-19 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-80-03",
+      "title": "",
+      "page_count": "2",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-80-03",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0011",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8003.pdf",
+          "source_url": "http://web.archive.org/web/20251231231059/https://acf.gov/sites/default/files/documents/cb/pi8003.pdf",
+          "size_bytes": 90873,
+          "sha256": "e472c40adbbe6b5558366853c650f5c16eb26979199eefcc06b8a8c6929d53f2",
+          "content_type": "application/pdf",
+          "link_text": "PI-80-03.pdf",
+          "download_type": "scraped"
+        },
+        {
+          "filename": "index.html",
+          "source_url": "http://web.archive.org/web/20251231231059/https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+          "size_bytes": 150802,
+          "sha256": "46601bcc3d32d136649ded1b22896677333ae0ca4ae401bd171a8da529aef215",
+          "content_type": "text/html; charset=UTF-8",
+          "link_text": "HHS Vulnerability Disclosure Policy",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-80-03",
+          "final_url": "http://web.archive.org/web/20251231231059/https://acf.gov/cb/policy-guidance/pi-80-03",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:17:32.091355"
+    }
+  ]
+}

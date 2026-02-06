@@ -1,0 +1,186 @@
+2026-02-05 12:29:58,469 [INFO] ACF Guidance Harvester starting
+2026-02-05 12:29:58,469 [INFO]   Input:   C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\input\Sub-Regulatory Inventory for Programs_12112025.xlsx.xlsx
+2026-02-05 12:29:58,470 [INFO]   Output:  C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\output
+2026-02-05 12:29:58,470 [INFO]   Reports: C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\reports
+2026-02-05 12:29:58,470 [INFO]   Log:     C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\logs\harvest_20260205_122958.log
+2026-02-05 12:29:58,471 [INFO] Loading Excel workbook...
+2026-02-05 12:29:59,475 [INFO]   Found 3383 data rows in sheet 'ALL'
+2026-02-05 12:29:59,475 [INFO]   Processing rows 1701 to 2550 (850 rows)
+2026-02-05 12:29:59,476 [INFO] Row 1702: Visiting https://acf.gov/css/policy-guidance/final-rule-50-pass-through-support-guidelines-mandatory-genetic-testing
+2026-02-05 12:30:01,032 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/final-rule-50-pass-through-support-guidelines-mandatory-genetic-testing (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-50-pass-through-support-guidelines-mandatory-genetic-testing
+2026-02-05 12:30:03,094 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/final-rule-50-pass-through-support-guidelines-mandatory-genetic-testing (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-50-pass-through-support-guidelines-mandatory-genetic-testing
+2026-02-05 12:30:07,155 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/final-rule-50-pass-through-support-guidelines-mandatory-genetic-testing — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-50-pass-through-support-guidelines-mandatory-genetic-testing
+2026-02-05 12:30:07,156 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/final-rule-50-pass-through-support-guidelines-mandatory-genetic-testing
+2026-02-05 12:30:12,264 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231031/https://acf.gov/css/policy-guidance/final-rule-50-pass-through-support-guidelines-mandatory-genetic-testing
+2026-02-05 12:30:17,364 [INFO]   Found 3 downloadable links on page
+2026-02-05 12:30:23,118 [INFO]     [OK] Downloaded: welcome.html (37,959 bytes)
+2026-02-05 12:30:45,858 [INFO]     [OK] Downloaded: FR-1991-05-15.pdf (52,903,811 bytes)
+2026-02-05 12:30:48,661 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:30:48,664 [INFO] Row 1703: Visiting https://acf.gov/css/policy-guidance/final-rule-extension-iv-d-child-support-enforcement-services
+2026-02-05 12:30:49,723 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/final-rule-extension-iv-d-child-support-enforcement-services (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-extension-iv-d-child-support-enforcement-services
+2026-02-05 12:30:51,784 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/final-rule-extension-iv-d-child-support-enforcement-services (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-extension-iv-d-child-support-enforcement-services
+2026-02-05 12:30:55,845 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/final-rule-extension-iv-d-child-support-enforcement-services — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-extension-iv-d-child-support-enforcement-services
+2026-02-05 12:30:55,845 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/final-rule-extension-iv-d-child-support-enforcement-services
+2026-02-05 12:31:00,940 [INFO] Row 1704: Visiting https://acf.gov/css/policy-guidance/nprm-federal-parent-locator-service-fees
+2026-02-05 12:31:02,003 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/nprm-federal-parent-locator-service-fees (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-federal-parent-locator-service-fees
+2026-02-05 12:31:04,068 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/nprm-federal-parent-locator-service-fees (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-federal-parent-locator-service-fees
+2026-02-05 12:31:08,129 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/nprm-federal-parent-locator-service-fees — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-federal-parent-locator-service-fees
+2026-02-05 12:31:08,130 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/nprm-federal-parent-locator-service-fees
+2026-02-05 12:31:08,480 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232350/https://acf.gov/css/policy-guidance/nprm-federal-parent-locator-service-fees
+2026-02-05 12:31:13,158 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:31:16,078 [INFO]     [OK] Downloaded: welcome.html (37,959 bytes)
+2026-02-05 12:31:18,721 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:31:18,723 [INFO] Row 1705: Visiting https://acf.gov/css/policy-guidance/restrictions-use-federal-funds-influence-awarding-federal-grants-or-contracts
+2026-02-05 12:31:19,783 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/restrictions-use-federal-funds-influence-awarding-federal-grants-or-contracts (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/restrictions-use-federal-funds-influence-awarding-federal-grants-or-contracts
+2026-02-05 12:31:21,839 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/restrictions-use-federal-funds-influence-awarding-federal-grants-or-contracts (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/restrictions-use-federal-funds-influence-awarding-federal-grants-or-contracts
+2026-02-05 12:31:25,896 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/restrictions-use-federal-funds-influence-awarding-federal-grants-or-contracts — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/restrictions-use-federal-funds-influence-awarding-federal-grants-or-contracts
+2026-02-05 12:31:25,896 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/restrictions-use-federal-funds-influence-awarding-federal-grants-or-contracts
+2026-02-05 12:31:30,989 [INFO] Row 1706: Visiting https://acf.gov/css/policy-guidance/policy-clarification-relating-automated-child-support-enforcement-systems
+2026-02-05 12:31:32,044 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/policy-clarification-relating-automated-child-support-enforcement-systems (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/policy-clarification-relating-automated-child-support-enforcement-systems
+2026-02-05 12:31:34,108 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/policy-clarification-relating-automated-child-support-enforcement-systems (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/policy-clarification-relating-automated-child-support-enforcement-systems
+2026-02-05 12:31:38,173 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/policy-clarification-relating-automated-child-support-enforcement-systems — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/policy-clarification-relating-automated-child-support-enforcement-systems
+2026-02-05 12:31:38,173 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/policy-clarification-relating-automated-child-support-enforcement-systems
+2026-02-05 12:31:39,498 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232332/https://acf.gov/css/policy-guidance/policy-clarification-relating-automated-child-support-enforcement-systems
+2026-02-05 12:31:43,560 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:31:46,428 [INFO]     [OK] Downloaded: welcome.html (37,959 bytes)
+2026-02-05 12:31:49,315 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:31:49,317 [INFO] Row 1707: Visiting https://acf.gov/css/policy-guidance/apd-requirements-meet-child-support-system-provision-family-support-act-1988
+2026-02-05 12:31:50,377 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/apd-requirements-meet-child-support-system-provision-family-support-act-1988 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/apd-requirements-meet-child-support-system-provision-family-support-act-1988
+2026-02-05 12:31:52,435 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/apd-requirements-meet-child-support-system-provision-family-support-act-1988 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/apd-requirements-meet-child-support-system-provision-family-support-act-1988
+2026-02-05 12:31:56,491 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/apd-requirements-meet-child-support-system-provision-family-support-act-1988 — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/apd-requirements-meet-child-support-system-provision-family-support-act-1988
+2026-02-05 12:31:56,491 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/apd-requirements-meet-child-support-system-provision-family-support-act-1988
+2026-02-05 12:31:56,823 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231134/https://acf.gov/css/policy-guidance/apd-requirements-meet-child-support-system-provision-family-support-act-1988
+2026-02-05 12:32:01,253 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:32:05,227 [INFO]     [OK] Downloaded: welcome.html (37,959 bytes)
+2026-02-05 12:32:09,539 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:32:09,540 [INFO] Row 1708: Visiting https://acf.gov/css/policy-guidance/nprm-processing-garnishments-child-support-and/or-alimony
+2026-02-05 12:32:10,602 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/nprm-processing-garnishments-child-support-and/or-alimony (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-processing-garnishments-child-support-and/or-alimony
+2026-02-05 12:32:12,657 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/nprm-processing-garnishments-child-support-and/or-alimony (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-processing-garnishments-child-support-and/or-alimony
+2026-02-05 12:32:16,717 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/nprm-processing-garnishments-child-support-and/or-alimony — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-processing-garnishments-child-support-and/or-alimony
+2026-02-05 12:32:16,717 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/nprm-processing-garnishments-child-support-and/or-alimony
+2026-02-05 12:32:16,962 [INFO]   Wayback fallback found: http://web.archive.org/web/20260101043811/https://acf.gov/css/policy-guidance/nprm-processing-garnishments-child-support-and/or-alimony
+2026-02-05 12:32:22,151 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:32:24,492 [INFO]     [OK] Downloaded: welcome.html (37,959 bytes)
+2026-02-05 12:32:28,987 [INFO]     [OK] Downloaded: index.html (150,806 bytes)
+2026-02-05 12:32:28,988 [INFO] Row 1709: Visiting https://acf.gov/css/policy-guidance/treatment-interest-earned-non-afdc-child-support-collections
+2026-02-05 12:32:30,044 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/treatment-interest-earned-non-afdc-child-support-collections (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/treatment-interest-earned-non-afdc-child-support-collections
+2026-02-05 12:32:32,102 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/treatment-interest-earned-non-afdc-child-support-collections (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/treatment-interest-earned-non-afdc-child-support-collections
+2026-02-05 12:32:36,171 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/treatment-interest-earned-non-afdc-child-support-collections — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/treatment-interest-earned-non-afdc-child-support-collections
+2026-02-05 12:32:36,171 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/treatment-interest-earned-non-afdc-child-support-collections
+2026-02-05 12:32:36,454 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231647/https://acf.gov/css/policy-guidance/treatment-interest-earned-non-afdc-child-support-collections
+2026-02-05 12:32:40,093 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:32:42,433 [INFO]     [OK] Downloaded: welcome.html (37,959 bytes)
+2026-02-05 12:32:45,274 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:32:45,276 [INFO] Row 1710: Visiting https://acf.gov/css/policy-guidance/nprm-immediate-income-withholding-review-and-modification-notice-support
+2026-02-05 12:32:46,336 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/nprm-immediate-income-withholding-review-and-modification-notice-support (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-immediate-income-withholding-review-and-modification-notice-support
+2026-02-05 12:32:48,445 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/nprm-immediate-income-withholding-review-and-modification-notice-support (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-immediate-income-withholding-review-and-modification-notice-support
+2026-02-05 12:32:52,549 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/nprm-immediate-income-withholding-review-and-modification-notice-support — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-immediate-income-withholding-review-and-modification-notice-support
+2026-02-05 12:32:52,549 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/nprm-immediate-income-withholding-review-and-modification-notice-support
+2026-02-05 12:32:52,749 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232946/https://acf.gov/css/policy-guidance/nprm-immediate-income-withholding-review-and-modification-notice-support
+2026-02-05 12:32:56,927 [INFO]   Found 3 downloadable links on page
+2026-02-05 12:32:59,742 [INFO]     [OK] Downloaded: welcome.html (37,959 bytes)
+2026-02-05 12:33:32,496 [WARNING]   Retry 1/3 for http://web.archive.org/web/20251231232946/https://www.govinfo.gov/content/pkg/FR-1990-08-15/pdf/FR-1990-08-15.pdf (waiting 2s): HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=30)
+2026-02-05 12:34:06,396 [WARNING]   Retry 2/3 for http://web.archive.org/web/20251231232946/https://www.govinfo.gov/content/pkg/FR-1990-08-15/pdf/FR-1990-08-15.pdf (waiting 4s): HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=30)
+2026-02-05 12:34:43,373 [ERROR]   Failed after 3 attempts: http://web.archive.org/web/20251231232946/https://www.govinfo.gov/content/pkg/FR-1990-08-15/pdf/FR-1990-08-15.pdf — HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=30)
+2026-02-05 12:34:47,235 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:34:47,236 [INFO] Row 1711: Visiting https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-corrections-notification
+2026-02-05 12:34:48,673 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-corrections-notification (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-corrections-notification
+2026-02-05 12:34:50,733 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-corrections-notification (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-corrections-notification
+2026-02-05 12:34:54,828 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-corrections-notification — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-corrections-notification
+2026-02-05 12:34:54,828 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-corrections-notification
+2026-02-05 12:34:55,957 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230223/https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-corrections-notification
+2026-02-05 12:35:00,754 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:35:04,853 [INFO]     [OK] Downloaded: welcome.html (37,959 bytes)
+2026-02-05 12:35:08,703 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:35:08,704 [INFO] Row 1712: Visiting https://acf.gov/css/policy-guidance/birth-registration-and-social-security-numbers
+2026-02-05 12:35:09,773 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/birth-registration-and-social-security-numbers (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/birth-registration-and-social-security-numbers
+2026-02-05 12:35:11,834 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/birth-registration-and-social-security-numbers (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/birth-registration-and-social-security-numbers
+2026-02-05 12:35:15,897 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/birth-registration-and-social-security-numbers — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/birth-registration-and-social-security-numbers
+2026-02-05 12:35:15,897 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/birth-registration-and-social-security-numbers
+2026-02-05 12:35:16,189 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231837/https://acf.gov/css/policy-guidance/birth-registration-and-social-security-numbers
+2026-02-05 12:35:21,108 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:35:27,066 [INFO]     [OK] Downloaded: welcome.html (37,927 bytes)
+2026-02-05 12:35:30,859 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:35:30,860 [INFO] Row 1713: Visiting https://acf.gov/css/policy-guidance/final-rule-child-support-enforcement-program-audit
+2026-02-05 12:35:31,924 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/final-rule-child-support-enforcement-program-audit (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-child-support-enforcement-program-audit
+2026-02-05 12:35:33,982 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/final-rule-child-support-enforcement-program-audit (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-child-support-enforcement-program-audit
+2026-02-05 12:35:38,041 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/final-rule-child-support-enforcement-program-audit — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-child-support-enforcement-program-audit
+2026-02-05 12:35:38,041 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/final-rule-child-support-enforcement-program-audit
+2026-02-05 12:35:43,160 [INFO] Row 1714: Visiting https://acf.gov/css/policy-guidance/interstate-referral-guide-irg
+2026-02-05 12:35:44,214 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/interstate-referral-guide-irg (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/interstate-referral-guide-irg
+2026-02-05 12:35:46,271 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/interstate-referral-guide-irg (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/interstate-referral-guide-irg
+2026-02-05 12:35:50,336 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/interstate-referral-guide-irg — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/interstate-referral-guide-irg
+2026-02-05 12:35:50,337 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/interstate-referral-guide-irg
+2026-02-05 12:35:50,673 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232118/https://acf.gov/css/policy-guidance/interstate-referral-guide-irg
+2026-02-05 12:35:54,995 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:35:58,013 [INFO]     [OK] Downloaded: welcome.html (37,927 bytes)
+2026-02-05 12:36:02,044 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:36:02,047 [INFO] Row 1715: Visiting https://acf.gov/css/policy-guidance/final-rule-processing-garnishment-orders-child-support-and/or-alimony-0
+2026-02-05 12:36:03,108 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/final-rule-processing-garnishment-orders-child-support-and/or-alimony-0 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-processing-garnishment-orders-child-support-and/or-alimony-0
+2026-02-05 12:36:05,163 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/final-rule-processing-garnishment-orders-child-support-and/or-alimony-0 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-processing-garnishment-orders-child-support-and/or-alimony-0
+2026-02-05 12:36:09,226 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/final-rule-processing-garnishment-orders-child-support-and/or-alimony-0 — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-processing-garnishment-orders-child-support-and/or-alimony-0
+2026-02-05 12:36:09,227 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/final-rule-processing-garnishment-orders-child-support-and/or-alimony-0
+2026-02-05 12:36:14,310 [INFO] Row 1716: Visiting https://acf.gov/css/policy-guidance/nprm-50-pass-through-support-guidelines-genetic-testing-paternity-establishment
+2026-02-05 12:36:15,367 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/nprm-50-pass-through-support-guidelines-genetic-testing-paternity-establishment (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-50-pass-through-support-guidelines-genetic-testing-paternity-establishment
+2026-02-05 12:36:17,425 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/nprm-50-pass-through-support-guidelines-genetic-testing-paternity-establishment (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-50-pass-through-support-guidelines-genetic-testing-paternity-establishment
+2026-02-05 12:36:21,485 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/nprm-50-pass-through-support-guidelines-genetic-testing-paternity-establishment — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-50-pass-through-support-guidelines-genetic-testing-paternity-establishment
+2026-02-05 12:36:21,485 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/nprm-50-pass-through-support-guidelines-genetic-testing-paternity-establishment
+2026-02-05 12:36:21,767 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230836/https://acf.gov/css/policy-guidance/nprm-50-pass-through-support-guidelines-genetic-testing-paternity-establishment
+2026-02-05 12:36:26,069 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:36:29,034 [INFO]     [OK] Downloaded: welcome.html (37,927 bytes)
+2026-02-05 12:36:33,908 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:36:33,910 [INFO] Row 1717: Visiting https://acf.gov/css/policy-guidance/treatment-income-earned-states-interest-investments-or-other-income
+2026-02-05 12:36:34,971 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/treatment-income-earned-states-interest-investments-or-other-income (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/treatment-income-earned-states-interest-investments-or-other-income
+2026-02-05 12:36:37,032 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/treatment-income-earned-states-interest-investments-or-other-income (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/treatment-income-earned-states-interest-investments-or-other-income
+2026-02-05 12:36:41,090 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/treatment-income-earned-states-interest-investments-or-other-income — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/treatment-income-earned-states-interest-investments-or-other-income
+2026-02-05 12:36:41,090 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/treatment-income-earned-states-interest-investments-or-other-income
+2026-02-05 12:36:41,479 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232301/https://acf.gov/css/policy-guidance/treatment-income-earned-states-interest-investments-or-other-income
+2026-02-05 12:36:47,055 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:36:51,429 [INFO]     [OK] Downloaded: welcome.html (37,927 bytes)
+2026-02-05 12:36:56,146 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:36:56,147 [INFO] Row 1718: Visiting https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-processing-cases-and-distributing
+2026-02-05 12:36:57,247 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-processing-cases-and-distributing (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-processing-cases-and-distributing
+2026-02-05 12:36:59,306 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-processing-cases-and-distributing (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-processing-cases-and-distributing
+2026-02-05 12:37:03,362 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-processing-cases-and-distributing — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-processing-cases-and-distributing
+2026-02-05 12:37:03,363 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-processing-cases-and-distributing
+2026-02-05 12:37:04,098 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230151/https://acf.gov/css/policy-guidance/final-rule-standards-program-operations-processing-cases-and-distributing
+2026-02-05 12:37:09,050 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:37:13,500 [INFO]     [OK] Downloaded: welcome.html (37,927 bytes)
+2026-02-05 12:37:18,052 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:37:18,053 [INFO] Row 1719: Visiting https://acf.gov/css/policy-guidance/final-rule-cooperative-arrangements
+2026-02-05 12:37:19,110 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/final-rule-cooperative-arrangements (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-cooperative-arrangements
+2026-02-05 12:37:21,170 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/final-rule-cooperative-arrangements (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-cooperative-arrangements
+2026-02-05 12:37:25,240 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/final-rule-cooperative-arrangements — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/final-rule-cooperative-arrangements
+2026-02-05 12:37:25,240 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/final-rule-cooperative-arrangements
+2026-02-05 12:37:25,444 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231025/https://acf.gov/css/policy-guidance/final-rule-cooperative-arrangements
+2026-02-05 12:37:30,165 [INFO]   Found 3 downloadable links on page
+2026-02-05 12:37:34,106 [INFO]     [OK] Downloaded: welcome.html (37,927 bytes)
+2026-02-05 12:37:48,877 [INFO]     [OK] Downloaded: FR-1989-07-19.pdf (41,749,238 bytes)
+2026-02-05 12:37:52,904 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:37:52,906 [INFO] Row 1720: Visiting https://acf.gov/css/policy-guidance/nprm-cooperation-pursue-third-party-health-coverage
+2026-02-05 12:37:53,960 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/nprm-cooperation-pursue-third-party-health-coverage (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-cooperation-pursue-third-party-health-coverage
+2026-02-05 12:37:56,018 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/nprm-cooperation-pursue-third-party-health-coverage (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-cooperation-pursue-third-party-health-coverage
+2026-02-05 12:38:00,084 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/nprm-cooperation-pursue-third-party-health-coverage — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-cooperation-pursue-third-party-health-coverage
+2026-02-05 12:38:00,084 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/nprm-cooperation-pursue-third-party-health-coverage
+2026-02-05 12:38:00,379 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231208/https://acf.gov/css/policy-guidance/nprm-cooperation-pursue-third-party-health-coverage
+2026-02-05 12:38:05,177 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:38:08,615 [INFO]     [OK] Downloaded: welcome.html (37,927 bytes)
+2026-02-05 12:38:13,804 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:38:13,806 [INFO] Row 1721: Visiting https://acf.gov/css/policy-guidance/nprm-extension-iv-d-child-support-enforcement-services
+2026-02-05 12:38:14,869 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/nprm-extension-iv-d-child-support-enforcement-services (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-extension-iv-d-child-support-enforcement-services
+2026-02-05 12:38:16,931 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/nprm-extension-iv-d-child-support-enforcement-services (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-extension-iv-d-child-support-enforcement-services
+2026-02-05 12:38:20,989 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/nprm-extension-iv-d-child-support-enforcement-services — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/nprm-extension-iv-d-child-support-enforcement-services
+2026-02-05 12:38:20,989 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/nprm-extension-iv-d-child-support-enforcement-services
+2026-02-05 12:38:21,227 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232146/https://acf.gov/css/policy-guidance/nprm-extension-iv-d-child-support-enforcement-services
+2026-02-05 12:38:26,117 [INFO]   Found 3 downloadable links on page
+2026-02-05 12:38:29,569 [INFO]     [OK] Downloaded: welcome.html (37,927 bytes)
+2026-02-05 12:38:43,212 [INFO]     [OK] Downloaded: FR-1989-05-23.pdf (39,273,124 bytes)
+2026-02-05 12:38:47,276 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:38:47,279 [INFO] Row 1722: Visiting https://acf.gov/css/policy-guidance/revised-minimum-data-elements-required-certifiable-famis-and-cse-systems
+2026-02-05 12:38:48,339 [WARNING]   Retry 1/3 for https://acf.gov/css/policy-guidance/revised-minimum-data-elements-required-certifiable-famis-and-cse-systems (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/revised-minimum-data-elements-required-certifiable-famis-and-cse-systems
+2026-02-05 12:38:50,395 [WARNING]   Retry 2/3 for https://acf.gov/css/policy-guidance/revised-minimum-data-elements-required-certifiable-famis-and-cse-systems (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/revised-minimum-data-elements-required-certifiable-famis-and-cse-systems
+2026-02-05 12:38:54,455 [ERROR]   Failed after 3 attempts: https://acf.gov/css/policy-guidance/revised-minimum-data-elements-required-certifiable-famis-and-cse-systems — 403 Client Error: Forbidden for url: https://acf.gov/css/policy-guidance/revised-minimum-data-elements-required-certifiable-famis-and-cse-systems
+2026-02-05 12:38:54,455 [INFO]   Trying Wayback Machine for https://acf.gov/css/policy-guidance/revised-minimum-data-elements-required-certifiable-famis-and-cse-systems
+2026-02-05 12:38:54,872 [INFO]   Wayback fallback found: http://web.archive.org/web/20260101042425/https://acf.gov/css/policy-guidance/revised-minimum-data-elements-required-certifiable-famis-and-cse-systems
+2026-02-05 12:39:03,033 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:39:06,829 [INFO]     [OK] Downloaded: welcome.html (37,927 bytes)

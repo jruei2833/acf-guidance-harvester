@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-02-06T12:46:51.164587",
+  "elapsed_seconds": 55.51868033409119,
+  "total_cataloged": 3351,
+  "documents_organized": 3314,
+  "files_copied": 7049,
+  "total_size_bytes": 9605922680,
+  "by_office": {
+    "CB": 762,
+    "ECD": 45,
+    "OCC": 307,
+    "OCS": 378,
+    "OCSE": 767,
+    "ORR": 489,
+    "OFVPS": 16,
+    "ANA": 2,
+    "OTIP": 18,
+    "OHSEPR": 20,
+    "FYSB": 22,
+    "OFA": 348,
+    "OHS": 140
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "timestamp": "20260205_152742",
+  "duration_seconds": 108.211819,
+  "stats": {
+    "converted": 718,
+    "empty": 139,
+    "error": 28,
+    "dry_run": 0,
+    "skipped": 2466
+  }
+}

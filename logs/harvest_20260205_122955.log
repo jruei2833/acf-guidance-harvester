@@ -1,0 +1,211 @@
+2026-02-05 12:29:55,145 [INFO] ACF Guidance Harvester starting
+2026-02-05 12:29:55,145 [INFO]   Input:   C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\input\Sub-Regulatory Inventory for Programs_12112025.xlsx.xlsx
+2026-02-05 12:29:55,145 [INFO]   Output:  C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\output
+2026-02-05 12:29:55,145 [INFO]   Reports: C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\reports
+2026-02-05 12:29:55,145 [INFO]   Log:     C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\logs\harvest_20260205_122955.log
+2026-02-05 12:29:55,146 [INFO] Loading Excel workbook...
+2026-02-05 12:29:56,093 [INFO]   Found 3383 data rows in sheet 'ALL'
+2026-02-05 12:29:56,094 [INFO]   Processing rows 851 to 1700 (850 rows)
+2026-02-05 12:29:56,095 [INFO] Row 0852: Visiting https://acf.gov/occ/resource/ccdf-acf-piq-2018-01
+2026-02-05 12:29:57,526 [WARNING]   Retry 1/3 for https://acf.gov/occ/resource/ccdf-acf-piq-2018-01 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/ccdf-acf-piq-2018-01
+2026-02-05 12:29:59,589 [WARNING]   Retry 2/3 for https://acf.gov/occ/resource/ccdf-acf-piq-2018-01 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/ccdf-acf-piq-2018-01
+2026-02-05 12:30:03,649 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/resource/ccdf-acf-piq-2018-01 — 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/ccdf-acf-piq-2018-01
+2026-02-05 12:30:03,649 [INFO]   Trying Wayback Machine for https://acf.gov/occ/resource/ccdf-acf-piq-2018-01
+2026-02-05 12:30:04,385 [INFO] Row 0853: Visiting https://acf.gov/occ/resource/ccdf-acf-piq-2017-01
+2026-02-05 12:30:05,447 [WARNING]   Retry 1/3 for https://acf.gov/occ/resource/ccdf-acf-piq-2017-01 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/ccdf-acf-piq-2017-01
+2026-02-05 12:30:07,502 [WARNING]   Retry 2/3 for https://acf.gov/occ/resource/ccdf-acf-piq-2017-01 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/ccdf-acf-piq-2017-01
+2026-02-05 12:30:11,565 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/resource/ccdf-acf-piq-2017-01 — 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/ccdf-acf-piq-2017-01
+2026-02-05 12:30:11,565 [INFO]   Trying Wayback Machine for https://acf.gov/occ/resource/ccdf-acf-piq-2017-01
+2026-02-05 12:30:12,891 [INFO] Row 0854: Visiting https://acf.gov/occ/resource/piq-cc-99-01
+2026-02-05 12:30:13,953 [WARNING]   Retry 1/3 for https://acf.gov/occ/resource/piq-cc-99-01 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/piq-cc-99-01
+2026-02-05 12:30:16,012 [WARNING]   Retry 2/3 for https://acf.gov/occ/resource/piq-cc-99-01 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/piq-cc-99-01
+2026-02-05 12:30:20,071 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/resource/piq-cc-99-01 — 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/piq-cc-99-01
+2026-02-05 12:30:20,071 [INFO]   Trying Wayback Machine for https://acf.gov/occ/resource/piq-cc-99-01
+2026-02-05 12:30:22,345 [INFO] Row 0855: Visiting https://acf.gov/occ/resource/piq2012-01
+2026-02-05 12:30:23,407 [WARNING]   Retry 1/3 for https://acf.gov/occ/resource/piq2012-01 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/piq2012-01
+2026-02-05 12:30:25,465 [WARNING]   Retry 2/3 for https://acf.gov/occ/resource/piq2012-01 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/piq2012-01
+2026-02-05 12:30:29,523 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/resource/piq2012-01 — 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/piq2012-01
+2026-02-05 12:30:29,524 [INFO]   Trying Wayback Machine for https://acf.gov/occ/resource/piq2012-01
+2026-02-05 12:30:29,853 [INFO] Row 0856: Visiting https://acf.gov/occ/resource/111-312-states
+2026-02-05 12:30:30,911 [WARNING]   Retry 1/3 for https://acf.gov/occ/resource/111-312-states (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/111-312-states
+2026-02-05 12:30:32,975 [WARNING]   Retry 2/3 for https://acf.gov/occ/resource/111-312-states (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/111-312-states
+2026-02-05 12:30:37,036 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/resource/111-312-states — 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/111-312-states
+2026-02-05 12:30:37,036 [INFO]   Trying Wayback Machine for https://acf.gov/occ/resource/111-312-states
+2026-02-05 12:30:37,338 [INFO] Row 0857: Visiting https://acf.gov/occ/resource/111-312-tribes
+2026-02-05 12:30:38,398 [WARNING]   Retry 1/3 for https://acf.gov/occ/resource/111-312-tribes (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/111-312-tribes
+2026-02-05 12:30:40,457 [WARNING]   Retry 2/3 for https://acf.gov/occ/resource/111-312-tribes (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/111-312-tribes
+2026-02-05 12:30:44,513 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/resource/111-312-tribes — 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/111-312-tribes
+2026-02-05 12:30:44,514 [INFO]   Trying Wayback Machine for https://acf.gov/occ/resource/111-312-tribes
+2026-02-05 12:30:49,522 [INFO] Row 0858: Visiting https://acf.gov/occ/policy-guidance/parental-choice-provisions-included-ccdf-regulations
+2026-02-05 12:30:50,583 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/parental-choice-provisions-included-ccdf-regulations (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/parental-choice-provisions-included-ccdf-regulations
+2026-02-05 12:30:52,644 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/parental-choice-provisions-included-ccdf-regulations (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/parental-choice-provisions-included-ccdf-regulations
+2026-02-05 12:30:56,707 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/parental-choice-provisions-included-ccdf-regulations — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/parental-choice-provisions-included-ccdf-regulations
+2026-02-05 12:30:56,708 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/parental-choice-provisions-included-ccdf-regulations
+2026-02-05 12:31:01,791 [INFO] Row 0859: Visiting https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/pq9902.pdf
+2026-02-05 12:31:03,526 [WARNING]   Retry 1/3 for https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/pq9902.pdf (waiting 2s): 404 Client Error: Not Found for url: https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/pq9902.pdf
+2026-02-05 12:31:05,771 [WARNING]   Retry 2/3 for https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/pq9902.pdf (waiting 4s): 404 Client Error: Not Found for url: https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/pq9902.pdf
+2026-02-05 12:31:09,959 [ERROR]   Failed after 3 attempts: https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/pq9902.pdf — 404 Client Error: Not Found for url: https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/pq9902.pdf
+2026-02-05 12:31:09,960 [INFO]   Trying Wayback Machine for https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/pq9902.pdf
+2026-02-05 12:31:11,250 [INFO]   Wayback fallback found: http://web.archive.org/web/20241217211058/https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents//pq9902.pdf
+2026-02-05 12:31:15,254 [INFO]     [OK] Direct download: pq9902.pdf (10,255 bytes)
+2026-02-05 12:31:15,255 [INFO] Row 0860: Visiting https://acf.gov/occ/resource/piq-acyf-piq-cc-97-01
+2026-02-05 12:31:16,311 [WARNING]   Retry 1/3 for https://acf.gov/occ/resource/piq-acyf-piq-cc-97-01 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/piq-acyf-piq-cc-97-01
+2026-02-05 12:31:18,371 [WARNING]   Retry 2/3 for https://acf.gov/occ/resource/piq-acyf-piq-cc-97-01 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/piq-acyf-piq-cc-97-01
+2026-02-05 12:31:22,431 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/resource/piq-acyf-piq-cc-97-01 — 403 Client Error: Forbidden for url: https://acf.gov/occ/resource/piq-acyf-piq-cc-97-01
+2026-02-05 12:31:22,431 [INFO]   Trying Wayback Machine for https://acf.gov/occ/resource/piq-acyf-piq-cc-97-01
+2026-02-05 12:31:22,760 [INFO] Row 0861: Visiting https://acf.gov/occ/policy-guidance/acf-800-annual-aggregate-report-instructions-acf-occ-ccdf-pi-2025-08
+2026-02-05 12:31:23,821 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/acf-800-annual-aggregate-report-instructions-acf-occ-ccdf-pi-2025-08 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/acf-800-annual-aggregate-report-instructions-acf-occ-ccdf-pi-2025-08
+2026-02-05 12:31:25,877 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/acf-800-annual-aggregate-report-instructions-acf-occ-ccdf-pi-2025-08 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/acf-800-annual-aggregate-report-instructions-acf-occ-ccdf-pi-2025-08
+2026-02-05 12:31:29,943 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/acf-800-annual-aggregate-report-instructions-acf-occ-ccdf-pi-2025-08 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/acf-800-annual-aggregate-report-instructions-acf-occ-ccdf-pi-2025-08
+2026-02-05 12:31:29,943 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/acf-800-annual-aggregate-report-instructions-acf-occ-ccdf-pi-2025-08
+2026-02-05 12:31:31,750 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231640/https://acf.gov/occ/policy-guidance/acf-800-annual-aggregate-report-instructions-acf-occ-ccdf-pi-2025-08
+2026-02-05 12:31:35,737 [INFO]   Found 3 downloadable links on page
+2026-02-05 12:31:40,919 [INFO]     [OK] Downloaded: acf_800_form_acf-occ-ccdf-pi-2025-08.pdf (234,056 bytes)
+2026-02-05 12:31:45,942 [INFO]     [OK] Downloaded: acf_800_instructions-acf-occ-ccdf-pi-2025-08.pdf (107,996 bytes)
+2026-02-05 12:31:49,090 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:31:49,092 [INFO] Row 0862: Visiting https://acf.gov/occ/policy-guidance/ffy-2025-tribal-annual-report-acf-occ-ccdf-pi-2025-10
+2026-02-05 12:31:50,151 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/ffy-2025-tribal-annual-report-acf-occ-ccdf-pi-2025-10 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/ffy-2025-tribal-annual-report-acf-occ-ccdf-pi-2025-10
+2026-02-05 12:31:52,216 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/ffy-2025-tribal-annual-report-acf-occ-ccdf-pi-2025-10 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/ffy-2025-tribal-annual-report-acf-occ-ccdf-pi-2025-10
+2026-02-05 12:31:56,274 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/ffy-2025-tribal-annual-report-acf-occ-ccdf-pi-2025-10 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/ffy-2025-tribal-annual-report-acf-occ-ccdf-pi-2025-10
+2026-02-05 12:31:56,275 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/ffy-2025-tribal-annual-report-acf-occ-ccdf-pi-2025-10
+2026-02-05 12:31:56,977 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232446/https://acf.gov/occ/policy-guidance/ffy-2025-tribal-annual-report-acf-occ-ccdf-pi-2025-10
+2026-02-05 12:32:01,278 [INFO]   Found 3 downloadable links on page
+2026-02-05 12:32:06,747 [INFO]     [OK] Downloaded: ACF-700_Guide_for_FFY_2022.pdf (1,917,409 bytes)
+2026-02-05 12:32:12,316 [INFO]     [OK] Downloaded: acf-700_form_for_ffy_2022.pdf (262,774 bytes)
+2026-02-05 12:32:15,657 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:32:15,658 [INFO] Row 0863: Visiting https://acf.gov/occ/policy-guidance/disaster-funds-2023-2024-acf-occ-ccdf-pi-2025-06
+2026-02-05 12:32:16,717 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/disaster-funds-2023-2024-acf-occ-ccdf-pi-2025-06 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/disaster-funds-2023-2024-acf-occ-ccdf-pi-2025-06
+2026-02-05 12:32:18,776 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/disaster-funds-2023-2024-acf-occ-ccdf-pi-2025-06 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/disaster-funds-2023-2024-acf-occ-ccdf-pi-2025-06
+2026-02-05 12:32:22,841 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/disaster-funds-2023-2024-acf-occ-ccdf-pi-2025-06 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/disaster-funds-2023-2024-acf-occ-ccdf-pi-2025-06
+2026-02-05 12:32:22,841 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/disaster-funds-2023-2024-acf-occ-ccdf-pi-2025-06
+2026-02-05 12:32:23,220 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232155/https://acf.gov/occ/policy-guidance/disaster-funds-2023-2024-acf-occ-ccdf-pi-2025-06
+2026-02-05 12:32:26,841 [INFO]   Found 3 downloadable links on page
+2026-02-05 12:32:31,859 [INFO]     [OK] Downloaded: BILLS-118hr10545enr.pdf (219,474 bytes)
+2026-02-05 12:32:36,222 [INFO]     [OK] Downloaded: disaster-funds-2023-2024-acf-occ-ccdf-pi-2025-06.pdf (432,439 bytes)
+2026-02-05 12:32:39,880 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:32:39,882 [INFO] Row 0864: Visiting https://acf.gov/occ/policy-guidance/financial-reporting-tribes-acf696t-acf-occ-pi-2025-05
+2026-02-05 12:32:40,938 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/financial-reporting-tribes-acf696t-acf-occ-pi-2025-05 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/financial-reporting-tribes-acf696t-acf-occ-pi-2025-05
+2026-02-05 12:32:42,993 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/financial-reporting-tribes-acf696t-acf-occ-pi-2025-05 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/financial-reporting-tribes-acf696t-acf-occ-pi-2025-05
+2026-02-05 12:32:47,053 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/financial-reporting-tribes-acf696t-acf-occ-pi-2025-05 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/financial-reporting-tribes-acf696t-acf-occ-pi-2025-05
+2026-02-05 12:32:47,054 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/financial-reporting-tribes-acf696t-acf-occ-pi-2025-05
+2026-02-05 12:32:47,437 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230959/https://acf.gov/occ/policy-guidance/financial-reporting-tribes-acf696t-acf-occ-pi-2025-05
+2026-02-05 12:32:51,424 [INFO]   Found 4 downloadable links on page
+2026-02-05 12:32:56,047 [INFO]     [OK] Downloaded: ACF696T-Form-ACF-OCC-PI-2025-05.pdf (180,040 bytes)
+2026-02-05 12:33:00,596 [INFO]     [OK] Downloaded: 696T-Form_2024_final-ACF-OCC-PI-2025-05.xlsx (30,704 bytes)
+2026-02-05 12:33:05,009 [INFO]     [OK] Downloaded: ACF696T-Form-Instructions-ACF-OCC-PI-2025-05.pdf (834,962 bytes)
+2026-02-05 12:33:08,040 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:33:08,043 [INFO] Row 0865: Visiting https://acf.gov/occ/policy-guidance/cost-methodologies-evaluation-criteria-acf-occ-ccdf-pi-25-04
+2026-02-05 12:33:09,104 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/cost-methodologies-evaluation-criteria-acf-occ-ccdf-pi-25-04 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/cost-methodologies-evaluation-criteria-acf-occ-ccdf-pi-25-04
+2026-02-05 12:33:11,163 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/cost-methodologies-evaluation-criteria-acf-occ-ccdf-pi-25-04 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/cost-methodologies-evaluation-criteria-acf-occ-ccdf-pi-25-04
+2026-02-05 12:33:15,222 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/cost-methodologies-evaluation-criteria-acf-occ-ccdf-pi-25-04 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/cost-methodologies-evaluation-criteria-acf-occ-ccdf-pi-25-04
+2026-02-05 12:33:15,222 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/cost-methodologies-evaluation-criteria-acf-occ-ccdf-pi-25-04
+2026-02-05 12:33:18,973 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231156/https://acf.gov/occ/policy-guidance/cost-methodologies-evaluation-criteria-acf-occ-ccdf-pi-25-04
+2026-02-05 12:33:23,636 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:33:29,464 [INFO]     [OK] Downloaded: cost-methodologies-evaluation-criteria-ACF-OCC-CCDF-PI-25-04.pdf (248,207 bytes)
+2026-02-05 12:33:32,264 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:33:32,266 [INFO] Row 0866: Visiting https://acf.gov/occ/policy-guidance/submit-tribal-ccdf-plan-2026-2028-acf-occ-ccdf-pi-2025-03
+2026-02-05 12:33:33,328 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/submit-tribal-ccdf-plan-2026-2028-acf-occ-ccdf-pi-2025-03 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/submit-tribal-ccdf-plan-2026-2028-acf-occ-ccdf-pi-2025-03
+2026-02-05 12:33:35,389 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/submit-tribal-ccdf-plan-2026-2028-acf-occ-ccdf-pi-2025-03 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/submit-tribal-ccdf-plan-2026-2028-acf-occ-ccdf-pi-2025-03
+2026-02-05 12:33:39,454 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/submit-tribal-ccdf-plan-2026-2028-acf-occ-ccdf-pi-2025-03 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/submit-tribal-ccdf-plan-2026-2028-acf-occ-ccdf-pi-2025-03
+2026-02-05 12:33:39,458 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/submit-tribal-ccdf-plan-2026-2028-acf-occ-ccdf-pi-2025-03
+2026-02-05 12:33:43,082 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230717/https://acf.gov/occ/policy-guidance/submit-tribal-ccdf-plan-2026-2028-acf-occ-ccdf-pi-2025-03
+2026-02-05 12:33:47,149 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:33:53,132 [INFO]     [OK] Downloaded: FFY26-28-Tribal-CCDF-Plan.pdf (1,231,156 bytes)
+2026-02-05 12:33:56,979 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:33:56,983 [INFO] Row 0867: Visiting https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-ccdf-eligibility-final-rule-acf-occ-ccdf-pi-25-02
+2026-02-05 12:33:58,050 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-ccdf-eligibility-final-rule-acf-occ-ccdf-pi-25-02 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-ccdf-eligibility-final-rule-acf-occ-ccdf-pi-25-02
+2026-02-05 12:34:00,105 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-ccdf-eligibility-final-rule-acf-occ-ccdf-pi-25-02 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-ccdf-eligibility-final-rule-acf-occ-ccdf-pi-25-02
+2026-02-05 12:34:04,179 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-ccdf-eligibility-final-rule-acf-occ-ccdf-pi-25-02 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-ccdf-eligibility-final-rule-acf-occ-ccdf-pi-25-02
+2026-02-05 12:34:04,179 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-ccdf-eligibility-final-rule-acf-occ-ccdf-pi-25-02
+2026-02-05 12:34:04,376 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231243/https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-ccdf-eligibility-final-rule-acf-occ-ccdf-pi-25-02
+2026-02-05 12:34:10,101 [INFO]   Found 3 downloadable links on page
+2026-02-05 12:34:16,868 [INFO]     [OK] Downloaded: Attachment-A-Template-Notification-Letter-Tribal-Lead-Agencies-Eliminating-Income-Asset-ACF-OCC-CCDF (37,664 bytes)
+2026-02-05 12:34:22,620 [INFO]     [OK] Downloaded: Attachment-B-Template-Notification-Letter-Tribal-Lead-Agencies-Changing-Income-Asset-ACF-OCC-CCDF-PI (43,460 bytes)
+2026-02-05 12:34:26,640 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:34:26,641 [INFO] Row 0868: Visiting https://acf.gov/occ/policy-guidance/ffy-2024-tribal-annual-report-acf-occ-ccdf-pi-24-08
+2026-02-05 12:34:27,700 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/ffy-2024-tribal-annual-report-acf-occ-ccdf-pi-24-08 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/ffy-2024-tribal-annual-report-acf-occ-ccdf-pi-24-08
+2026-02-05 12:34:29,758 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/ffy-2024-tribal-annual-report-acf-occ-ccdf-pi-24-08 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/ffy-2024-tribal-annual-report-acf-occ-ccdf-pi-24-08
+2026-02-05 12:34:33,815 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/ffy-2024-tribal-annual-report-acf-occ-ccdf-pi-24-08 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/ffy-2024-tribal-annual-report-acf-occ-ccdf-pi-24-08
+2026-02-05 12:34:33,815 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/ffy-2024-tribal-annual-report-acf-occ-ccdf-pi-24-08
+2026-02-05 12:34:34,059 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230303/https://acf.gov/occ/policy-guidance/ffy-2024-tribal-annual-report-acf-occ-ccdf-pi-24-08
+2026-02-05 12:34:39,763 [INFO]   Found 4 downloadable links on page
+2026-02-05 12:34:47,931 [INFO]     [OK] Downloaded: ACF-700-Guide-FFY-24-ACF-OCC-CCDF-PI-24-08.pdf (1,457,325 bytes)
+2026-02-05 12:34:54,977 [INFO]     [OK] Downloaded: acf-700-form-for-ffy-2024-ACF-OCC-CCDF-PI-24-08.pdf (289,412 bytes)
+2026-02-05 12:34:58,696 [WARNING]   Retry 1/3 for http://web.archive.org/web/20251231230303/chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acf.hhs.gov/sites/default/files/documents/occ/ACF-700-Guide-FFY-24-ACF-OCC-CCDF-PI-24-08.pdf (waiting 2s): 404 Client Error: NOT FOUND for url: http://web.archive.org/web/20251231230303/chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acf.hhs.gov/sites/default/files/documents/occ/ACF-700-Guide-FFY-24-ACF-OCC-CCDF-PI-24-08.pdf
+2026-02-05 12:35:03,511 [WARNING]   Retry 2/3 for http://web.archive.org/web/20251231230303/chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acf.hhs.gov/sites/default/files/documents/occ/ACF-700-Guide-FFY-24-ACF-OCC-CCDF-PI-24-08.pdf (waiting 4s): 404 Client Error: NOT FOUND for url: http://web.archive.org/web/20251231230303/chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acf.hhs.gov/sites/default/files/documents/occ/ACF-700-Guide-FFY-24-ACF-OCC-CCDF-PI-24-08.pdf
+2026-02-05 12:35:10,288 [ERROR]   Failed after 3 attempts: http://web.archive.org/web/20251231230303/chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acf.hhs.gov/sites/default/files/documents/occ/ACF-700-Guide-FFY-24-ACF-OCC-CCDF-PI-24-08.pdf — 404 Client Error: NOT FOUND for url: http://web.archive.org/web/20251231230303/chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acf.hhs.gov/sites/default/files/documents/occ/ACF-700-Guide-FFY-24-ACF-OCC-CCDF-PI-24-08.pdf
+2026-02-05 12:35:14,578 [INFO]     [OK] Downloaded: index.html (150,804 bytes)
+2026-02-05 12:35:14,579 [INFO] Row 0869: Visiting https://acf.gov/archive/occ/policy-guidance/quality-progress-report-acf-218-ffy-2024-ccdf-acf-pi-2024-07
+2026-02-05 12:35:15,634 [WARNING]   Retry 1/3 for https://acf.gov/archive/occ/policy-guidance/quality-progress-report-acf-218-ffy-2024-ccdf-acf-pi-2024-07 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/archive/occ/policy-guidance/quality-progress-report-acf-218-ffy-2024-ccdf-acf-pi-2024-07
+2026-02-05 12:35:17,697 [WARNING]   Retry 2/3 for https://acf.gov/archive/occ/policy-guidance/quality-progress-report-acf-218-ffy-2024-ccdf-acf-pi-2024-07 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/archive/occ/policy-guidance/quality-progress-report-acf-218-ffy-2024-ccdf-acf-pi-2024-07
+2026-02-05 12:35:21,752 [ERROR]   Failed after 3 attempts: https://acf.gov/archive/occ/policy-guidance/quality-progress-report-acf-218-ffy-2024-ccdf-acf-pi-2024-07 — 403 Client Error: Forbidden for url: https://acf.gov/archive/occ/policy-guidance/quality-progress-report-acf-218-ffy-2024-ccdf-acf-pi-2024-07
+2026-02-05 12:35:21,753 [INFO]   Trying Wayback Machine for https://acf.gov/archive/occ/policy-guidance/quality-progress-report-acf-218-ffy-2024-ccdf-acf-pi-2024-07
+2026-02-05 12:35:22,085 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231800/https://acf.gov/archive/occ/policy-guidance/quality-progress-report-acf-218-ffy-2024-ccdf-acf-pi-2024-07
+2026-02-05 12:35:26,147 [INFO]   Found 5 downloadable links on page
+2026-02-05 12:35:31,943 [INFO]     [OK] Downloaded: CCDF_2024_Final_Rule_Regulatory_Changes_Section_508_Compliant.pdf (1,648,389 bytes)
+2026-02-05 12:35:37,004 [INFO]     [OK] Downloaded: child_care_and_development_block_grant_markup.pdf (336,137 bytes)
+2026-02-05 12:35:43,546 [INFO]     [OK] Downloaded: FFY2022-2024_CCDF_Plan_Preprint_for_States_and_Territories.pdf (1,094,475 bytes)
+2026-02-05 12:35:49,250 [INFO]     [OK] Downloaded: Quality-Progress-Report-ACF-218-FFY-2024-CCDF-ACF-PI-2024-07.pdf (187,949 bytes)
+2026-02-05 12:35:52,666 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:35:52,668 [INFO] Row 0870: Visiting https://acf.gov/occ/policy-guidance/acf-696-form-ccdf-acf-pi-2024-06
+2026-02-05 12:35:53,889 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/acf-696-form-ccdf-acf-pi-2024-06 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/acf-696-form-ccdf-acf-pi-2024-06
+2026-02-05 12:35:55,963 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/acf-696-form-ccdf-acf-pi-2024-06 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/acf-696-form-ccdf-acf-pi-2024-06
+2026-02-05 12:36:00,030 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/acf-696-form-ccdf-acf-pi-2024-06 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/acf-696-form-ccdf-acf-pi-2024-06
+2026-02-05 12:36:00,030 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/acf-696-form-ccdf-acf-pi-2024-06
+2026-02-05 12:36:05,140 [INFO] Row 0871: Visiting https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-2024-ccdf-final-rule-provisions-and-waiver
+2026-02-05 12:36:06,194 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-2024-ccdf-final-rule-provisions-and-waiver (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-2024-ccdf-final-rule-provisions-and-waiver
+2026-02-05 12:36:08,253 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-2024-ccdf-final-rule-provisions-and-waiver (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-2024-ccdf-final-rule-provisions-and-waiver
+2026-02-05 12:36:12,313 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-2024-ccdf-final-rule-provisions-and-waiver — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-2024-ccdf-final-rule-provisions-and-waiver
+2026-02-05 12:36:12,313 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-2024-ccdf-final-rule-provisions-and-waiver
+2026-02-05 12:36:12,630 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231233037/https://acf.gov/occ/policy-guidance/guidance-tribal-lead-agencies-2024-ccdf-final-rule-provisions-and-waiver
+2026-02-05 12:36:16,592 [INFO]   Found 5 downloadable links on page
+2026-02-05 12:36:21,442 [INFO]     [OK] Downloaded: Guidance_for_Tribal_Lead_Agencies_2024_CCDF_Final_Rule_CCDF-ACF-PI-2024-05.pdf (173,687 bytes)
+2026-02-05 12:36:30,232 [INFO]     [OK] Downloaded: Attachment_A_Deadline_and_Waivers_CCDF-ACF-PI-2024-05.pdf (140,222 bytes)
+2026-02-05 12:36:35,719 [INFO]     [OK] Downloaded: Attachment_B_Template_Request_for_Waivers_CCDF-ACF-PI-2024-05.pdf (145,597 bytes)
+2026-02-05 12:36:42,709 [INFO]     [OK] Downloaded: Attachment_B_Template_Request_for_Waivers_CCDF-ACF-PI-2024-05.docx (20,883 bytes)
+2026-02-05 12:36:47,883 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:36:47,887 [INFO] Row 0872: Visiting https://acf.gov/occ/policy-guidance/ccdf-triennial-child-count-ffy-2026-2028-ccdf-acf-pi-2024-04
+2026-02-05 12:36:48,993 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/ccdf-triennial-child-count-ffy-2026-2028-ccdf-acf-pi-2024-04 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/ccdf-triennial-child-count-ffy-2026-2028-ccdf-acf-pi-2024-04
+2026-02-05 12:36:51,069 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/ccdf-triennial-child-count-ffy-2026-2028-ccdf-acf-pi-2024-04 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/ccdf-triennial-child-count-ffy-2026-2028-ccdf-acf-pi-2024-04
+2026-02-05 12:36:55,200 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/ccdf-triennial-child-count-ffy-2026-2028-ccdf-acf-pi-2024-04 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/ccdf-triennial-child-count-ffy-2026-2028-ccdf-acf-pi-2024-04
+2026-02-05 12:36:55,200 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/ccdf-triennial-child-count-ffy-2026-2028-ccdf-acf-pi-2024-04
+2026-02-05 12:36:55,612 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232933/https://acf.gov/occ/policy-guidance/ccdf-triennial-child-count-ffy-2026-2028-ccdf-acf-pi-2024-04
+2026-02-05 12:37:00,713 [INFO]   Found 3 downloadable links on page
+2026-02-05 12:37:07,616 [INFO]     [OK] Downloaded: ccdf-triennial-child-count-ffy-2026-2028-ccdf-acf-pi-2024-04.pdf (209,360 bytes)
+2026-02-05 12:37:14,554 [INFO]     [OK] Downloaded: 2026-2028-triennial-child-count-questions-attachments-ccdf-acf-pi-2024-04.pdf (783,362 bytes)
+2026-02-05 12:37:18,745 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:37:18,747 [INFO] Row 0873: Visiting https://acf.gov/occ/policy-guidance/2024-ccdf-final-rule-transitional-waiver-flexibilities-acf-occ-ccdf-pi-24-03
+2026-02-05 12:37:19,809 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/2024-ccdf-final-rule-transitional-waiver-flexibilities-acf-occ-ccdf-pi-24-03 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/2024-ccdf-final-rule-transitional-waiver-flexibilities-acf-occ-ccdf-pi-24-03
+2026-02-05 12:37:21,866 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/2024-ccdf-final-rule-transitional-waiver-flexibilities-acf-occ-ccdf-pi-24-03 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/2024-ccdf-final-rule-transitional-waiver-flexibilities-acf-occ-ccdf-pi-24-03
+2026-02-05 12:37:25,924 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/2024-ccdf-final-rule-transitional-waiver-flexibilities-acf-occ-ccdf-pi-24-03 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/2024-ccdf-final-rule-transitional-waiver-flexibilities-acf-occ-ccdf-pi-24-03
+2026-02-05 12:37:25,925 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/2024-ccdf-final-rule-transitional-waiver-flexibilities-acf-occ-ccdf-pi-24-03
+2026-02-05 12:37:26,200 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231834/https://acf.gov/occ/policy-guidance/2024-ccdf-final-rule-transitional-waiver-flexibilities-acf-occ-ccdf-pi-24-03
+2026-02-05 12:37:31,447 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:37:37,653 [INFO]     [OK] Downloaded: 2024-CCDF-Final-Rule-Transitional-Waiver-Flexibilities-Guidance-%28ACF-OCC-CCDF-PI-24-03%29.pdf (197,344 bytes)
+2026-02-05 12:37:41,320 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:37:41,322 [INFO] Row 0874: Visiting https://acf.gov/occ/policy-guidance/supplemental-funds-disaster-recovery-implementation-grants-ccdf-acf-pi-2024-02
+2026-02-05 12:37:42,383 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/supplemental-funds-disaster-recovery-implementation-grants-ccdf-acf-pi-2024-02 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/supplemental-funds-disaster-recovery-implementation-grants-ccdf-acf-pi-2024-02
+2026-02-05 12:37:44,473 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/supplemental-funds-disaster-recovery-implementation-grants-ccdf-acf-pi-2024-02 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/supplemental-funds-disaster-recovery-implementation-grants-ccdf-acf-pi-2024-02
+2026-02-05 12:37:48,547 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/supplemental-funds-disaster-recovery-implementation-grants-ccdf-acf-pi-2024-02 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/supplemental-funds-disaster-recovery-implementation-grants-ccdf-acf-pi-2024-02
+2026-02-05 12:37:48,547 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/supplemental-funds-disaster-recovery-implementation-grants-ccdf-acf-pi-2024-02
+2026-02-05 12:37:53,659 [INFO] Row 0875: Visiting https://acf.gov/occ/policy-guidance/fy-2025-2027-ccdf-plan-states-and-territories-ccdf-acf-pi-2024-01
+2026-02-05 12:37:54,723 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/fy-2025-2027-ccdf-plan-states-and-territories-ccdf-acf-pi-2024-01 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/fy-2025-2027-ccdf-plan-states-and-territories-ccdf-acf-pi-2024-01
+2026-02-05 12:37:56,784 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/fy-2025-2027-ccdf-plan-states-and-territories-ccdf-acf-pi-2024-01 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/fy-2025-2027-ccdf-plan-states-and-territories-ccdf-acf-pi-2024-01
+2026-02-05 12:38:00,846 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/fy-2025-2027-ccdf-plan-states-and-territories-ccdf-acf-pi-2024-01 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/fy-2025-2027-ccdf-plan-states-and-territories-ccdf-acf-pi-2024-01
+2026-02-05 12:38:00,846 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/fy-2025-2027-ccdf-plan-states-and-territories-ccdf-acf-pi-2024-01
+2026-02-05 12:38:01,145 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230427/https://acf.gov/occ/policy-guidance/fy-2025-2027-ccdf-plan-states-and-territories-ccdf-acf-pi-2024-01
+2026-02-05 12:38:05,925 [INFO]   Found 3 downloadable links on page
+2026-02-05 12:38:12,688 [INFO]     [OK] Downloaded: CCDF_Plan_for_State_and_Territories_for_FFY_2025-2027.pdf (1,203,499 bytes)
+2026-02-05 12:38:23,097 [INFO]     [OK] Downloaded: FY_2025-2027_CCDF_Plan_for_States_and%20Territories_CCDF-ACF-PI-2024-01.pdf (210,765 bytes)
+2026-02-05 12:38:26,533 [INFO]     [OK] Downloaded: index.html (150,798 bytes)
+2026-02-05 12:38:26,535 [INFO] Row 0876: Visiting https://acf.gov/occ/policy-guidance/policy-guidance/financial-reporting-tribes-ccdf-acf-pi-2023-05
+2026-02-05 12:38:27,594 [WARNING]   Retry 1/3 for https://acf.gov/occ/policy-guidance/policy-guidance/financial-reporting-tribes-ccdf-acf-pi-2023-05 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/policy-guidance/financial-reporting-tribes-ccdf-acf-pi-2023-05
+2026-02-05 12:38:29,654 [WARNING]   Retry 2/3 for https://acf.gov/occ/policy-guidance/policy-guidance/financial-reporting-tribes-ccdf-acf-pi-2023-05 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/policy-guidance/financial-reporting-tribes-ccdf-acf-pi-2023-05
+2026-02-05 12:38:33,711 [ERROR]   Failed after 3 attempts: https://acf.gov/occ/policy-guidance/policy-guidance/financial-reporting-tribes-ccdf-acf-pi-2023-05 — 403 Client Error: Forbidden for url: https://acf.gov/occ/policy-guidance/policy-guidance/financial-reporting-tribes-ccdf-acf-pi-2023-05
+2026-02-05 12:38:33,711 [INFO]   Trying Wayback Machine for https://acf.gov/occ/policy-guidance/policy-guidance/financial-reporting-tribes-ccdf-acf-pi-2023-05
+2026-02-05 12:38:33,982 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230621/https://acf.gov/occ/policy-guidance/policy-guidance/financial-reporting-tribes-ccdf-acf-pi-2023-05
+2026-02-05 12:38:39,091 [INFO]   Found 6 downloadable links on page
+2026-02-05 12:38:49,291 [INFO]     [OK] Downloaded: ccdf-acf-2023-05-acf-696t-form.pdf (146,918 bytes)
+2026-02-05 12:38:55,459 [INFO]     [OK] Downloaded: ccdf-acf-2023-05-acf-696t-form.xlsx (27,524 bytes)
+2026-02-05 12:39:02,320 [INFO]     [OK] Downloaded: ccdf-acf-pi-2023-05-acf-696t-form-instructions.pdf (563,400 bytes)
+2026-02-05 12:39:08,463 [INFO]     [OK] Downloaded: oldc_access_request_form.pdf (229,570 bytes)

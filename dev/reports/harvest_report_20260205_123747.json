@@ -1,0 +1,470 @@
+{
+  "run_timestamp": "20260205_123747",
+  "duration_seconds": 32.430807,
+  "row_range": {
+    "start": 30,
+    "end": 40
+  },
+  "stats": {
+    "success": 11,
+    "failed": 0,
+    "no_urls": 0,
+    "no_documents": 0,
+    "skipped": 0,
+    "dry_run": 0,
+    "total_files": 11
+  },
+  "results": [
+    {
+      "excel_row": 31,
+      "office": "CB",
+      "issue_date": "1983-06-06 00:00:00",
+      "doc_type": "Information Memorandum (IM)",
+      "doc_number": "IM-83-04",
+      "title": "",
+      "page_count": "11",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/im-83-04",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0031",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "im8304.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/im8304.pdf",
+          "size_bytes": 88472,
+          "sha256": "288ae05b4d6491efc7a0d4dc2fc38c7539a90fd9cf9d6ccc9f872dc7094933aa",
+          "content_type": "application/pdf",
+          "link_text": "im-83-04.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/im-83-04",
+          "final_url": "https://acf.gov/cb/policy-guidance/im-83-04",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:37:15.113427"
+    },
+    {
+      "excel_row": 32,
+      "office": "CB",
+      "issue_date": "1983-06-06 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-83-03",
+      "title": "",
+      "page_count": "12",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-83-03",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0032",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8303.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/pi8303.pdf",
+          "size_bytes": 171874,
+          "sha256": "b0a1ef05167b3f2b555b6089975294b57057a10070cce7de9d7f7df3fe062ce5",
+          "content_type": "application/pdf",
+          "link_text": "PI-83-03.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-83-03",
+          "final_url": "https://acf.gov/cb/policy-guidance/pi-83-03",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:37:18.484699"
+    },
+    {
+      "excel_row": 33,
+      "office": "CB",
+      "issue_date": "1983-07-15 00:00:00",
+      "doc_type": "Information Memorandum (IM)",
+      "doc_number": "IM-83-14",
+      "title": "",
+      "page_count": "17",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/im-83-14",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0033",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "im8314.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/im8314.pdf",
+          "size_bytes": 71489,
+          "sha256": "e71dbe5980d217b91d853267d2e11351edf04814a099ef5284152a1407c72be2",
+          "content_type": "application/pdf",
+          "link_text": "im-83-14.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/im-83-14",
+          "final_url": "https://acf.gov/cb/policy-guidance/im-83-14",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:37:21.562596"
+    },
+    {
+      "excel_row": 34,
+      "office": "CB",
+      "issue_date": "1983-07-20 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-83-06",
+      "title": "",
+      "page_count": "3",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-83-06",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0034",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8306.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/pi8306.pdf",
+          "size_bytes": 96873,
+          "sha256": "548d89660fd1f0a9441a7a8a49e48315ea252212297aaadea22bcf3f6ebee24f",
+          "content_type": "application/pdf",
+          "link_text": "PI-83-06.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-83-06",
+          "final_url": "https://acf.gov/cb/policy-guidance/pi-83-06",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:37:24.463298"
+    },
+    {
+      "excel_row": 35,
+      "office": "CB",
+      "issue_date": "1983-07-25 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-83-07",
+      "title": "",
+      "page_count": "10",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-83-07",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0035",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8307.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/pi8307.pdf",
+          "size_bytes": 124626,
+          "sha256": "231446bf3f7c75a636877b4f27ee9cfb2d6bdd1d306fea1f76d0a77b8138a186",
+          "content_type": "application/pdf",
+          "link_text": "PI-83-07.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-83-07",
+          "final_url": "https://acf.gov/cb/policy-guidance/pi-83-07",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:37:27.420303"
+    },
+    {
+      "excel_row": 36,
+      "office": "CB",
+      "issue_date": "1983-08-10 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-83-08",
+      "title": "",
+      "page_count": "2",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-83-08",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0036",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8308.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/pi8308.pdf",
+          "size_bytes": 96468,
+          "sha256": "03c09a40034c83b6a504a4dea65f3163271da580797352ad841158cee9f0f4ce",
+          "content_type": "application/pdf",
+          "link_text": "PI-83-08.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-83-08",
+          "final_url": "https://acf.gov/cb/policy-guidance/pi-83-08",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:37:30.271410"
+    },
+    {
+      "excel_row": 37,
+      "office": "CB",
+      "issue_date": "1984-01-11 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-84-02",
+      "title": "",
+      "page_count": "2",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-84-02",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0037",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8402.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/pi8402.pdf",
+          "size_bytes": 91181,
+          "sha256": "2cb0850d6c1eebcbf987d52c1d9ae46d091b24be6afc3c1a48f8d40bc7bfdfe1",
+          "content_type": "application/pdf",
+          "link_text": "PI-84-02.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-84-02",
+          "final_url": "https://acf.gov/cb/policy-guidance/pi-84-02",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:37:33.128428"
+    },
+    {
+      "excel_row": 38,
+      "office": "CB",
+      "issue_date": "1984-02-01 00:00:00",
+      "doc_type": "Information Memorandum (IM)",
+      "doc_number": "IM-84-02",
+      "title": "",
+      "page_count": "9",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/im-84-02",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0038",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "im8402.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/im8402.pdf",
+          "size_bytes": 107799,
+          "sha256": "d0376b2adb96ecdfc416ae6fe87cce8e4e1ce56f37b6a428fd9e3b17a33e110f",
+          "content_type": "application/pdf",
+          "link_text": "IM-84-02.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/im-84-02",
+          "final_url": "https://acf.gov/cb/policy-guidance/im-84-02",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:37:35.959995"
+    },
+    {
+      "excel_row": 39,
+      "office": "CB",
+      "issue_date": "1984-04-27 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-84-05",
+      "title": "",
+      "page_count": "2",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-84-05",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0039",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8405.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/pi8405.pdf",
+          "size_bytes": 96574,
+          "sha256": "2b9526adf2eab4b1b67bd076312849061623c9d10d95a3ddc9d284f0bc6cdb45",
+          "content_type": "application/pdf",
+          "link_text": "PI-84-05.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-84-05",
+          "final_url": "https://acf.gov/cb/policy-guidance/pi-84-05",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:37:38.918158"
+    },
+    {
+      "excel_row": 40,
+      "office": "CB",
+      "issue_date": "1984-05-23 00:00:00",
+      "doc_type": "Information Memorandum (IM)",
+      "doc_number": "IM-84-09",
+      "title": "",
+      "page_count": "15",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/im-84-09",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0040",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "im8409_0.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/im8409_0.pdf",
+          "size_bytes": 114096,
+          "sha256": "8a98e8eb6b8ed1dba70b9c058b47eebd49695a568a2d05ba466d776e41d86171",
+          "content_type": "application/pdf",
+          "link_text": "IM-84-09.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/im-84-09",
+          "final_url": "https://acf.gov/cb/policy-guidance/im-84-09",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:37:41.639191"
+    },
+    {
+      "excel_row": 41,
+      "office": "CB",
+      "issue_date": "1984-05-30 00:00:00",
+      "doc_type": "Program Instruction (PI)",
+      "doc_number": "PI-84-06",
+      "title": "",
+      "page_count": "5",
+      "determination": "",
+      "program": "",
+      "urls": [
+        {
+          "source_column": "Document Number",
+          "url": "https://acf.gov/cb/policy-guidance/pi-84-06",
+          "type": "hyperlink"
+        }
+      ],
+      "folder": "0041",
+      "status": "success",
+      "files_downloaded": [
+        {
+          "filename": "pi8406.pdf",
+          "source_url": "https://acf.gov/sites/default/files/documents/cb/pi8406.pdf",
+          "size_bytes": 109225,
+          "sha256": "093ec497d4de2bcd380a915411b9139e9657dae4e83de7f0fe239803fef6c24b",
+          "content_type": "application/pdf",
+          "link_text": "PI-84-06.pdf",
+          "download_type": "scraped"
+        }
+      ],
+      "errors": [],
+      "pages_visited": [
+        {
+          "url": "https://acf.gov/cb/policy-guidance/pi-84-06",
+          "final_url": "https://acf.gov/cb/policy-guidance/pi-84-06",
+          "status_code": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "processed_at": "2026-02-05T12:37:44.481298"
+    }
+  ]
+}

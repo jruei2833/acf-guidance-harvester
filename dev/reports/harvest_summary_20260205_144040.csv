@@ -1,0 +1,851 @@
+row,folder,office,doc_number,title,status,files_count,errors_count
+852,0852,OCC,"CCDF-ACF-PIQ-2018-01","State-Tribal Coordination Regarding the CCDF Requirements",success,1,0
+853,0853,OCC,"CCDF-ACF-PIQ-2017-01","Clarification on the CCDBG Act background check requirements and health and safe",success,1,0
+854,0854,OCC,"ACYF-PIQ-CC-99-01","Policy Interpretation Questions about Construction and Renovation of Child Care ",success,2,0
+855,0855,OCC,"CCDF-ACF-PIQ-2012-01","Policy Interpretation Questions about the Use of CCDF for Program Integrity Effo",success,2,0
+856,0856,OCC,"","Disregard of Federal Tax Refunds in Determining CCDF Eligibility (States/Territo",success,1,0
+857,0857,OCC,"","Disregard of Federal Tax Refunds in Determining CCDF Eligibility (Tribes)",success,1,0
+858,0858,OCC,"CCDF-ACF-PIQ-2011-01","Policy Interpretation Question regarding Parental Choice Provisions Included in ",success,1,0
+859,0859,OCC,"ACYF-PIQ-CC-99-02","Eligibility Determination for Head Start Collaboration  (PDF)",success,1,1
+860,0860,OCC,"ACYF-PIQ-CC-97-01","CCDF Indian Children Dual Eligibility",success,2,0
+861,0861,OCC,"ACF-OCC-CCDF-PI-2025-08","Child Care and Development Fund (CCDF) Child Care Annual Aggregate Report and In",success,2,0
+862,0862,OCC,"ACF-OCC-CCDF-PI-2025-10","Child Care and Development Fund (CCDF) FFY 2025 Tribal Annual Report Form ACF-70",success,2,0
+863,0863,OCC,"ACF-OCC-CCDF-PI-2025-06","Disaster Supplemental Funds for Child Care — 2023 and 2024 Major Disasters and E",success,2,0
+864,0864,OCC,"ACF-OCC-PI-2025-05","Form ACF-696T— a Financial Reporting Form for Tribal Child Care and Development ",success,3,0
+865,0865,OCC,"ACF-OCC-CCDF-PI-25-04","Guidance on Cost-Based Alternative Methodologies and Evaluation Criteria for Est",success,1,0
+866,0866,OCC,"ACF-OCC-CCDF-PI-2025-03","Submit the Tribal CCDF Plan for the CCDF Program Fiscal Year (FFY) 2026-2028",success,1,0
+867,0867,OCC,"ACF-OCC-CCDF-PI-25-02","Guidance for Tribal Lead Agencies on the CCDF Tribal Eligibility Final Rule",success,2,0
+868,0868,OCC,"ACF-OCC-CCDF-PI-24-08","Child Care and Development Fund (CCDF) FFY 2024 Tribal Annual Report Form ACF-70",success,2,1
+869,0869,OCC,"CCDF-ACF-PI-2024-07","Quality Progress Report (QPR) (ACF-218) for the Child Care and Development Fund ",success,4,0
+870,0870,OCC,"CCDF-ACF-PI-2024-06","Form ACF-696 - Financial Reporting Form for State and Territory Child Care and D",success,4,0
+871,0871,OCC,"CCDF-ACF-PI-2024-05","Guidance for Tribal Lead Agencies on the 2024 CCDF Final Rule Provisions and Wai",success,4,0
+872,0872,OCC,"CCDF-ACF-PI-2024-04","Child Care and Development Fund (CCDF) Triennial Child Count for FFY 2026 - 2028",success,2,0
+873,0873,OCC,"ACF-OCC-CCDF-PI-24-03","2024 CCDF Final Rule Transitional Waiver Flexibilities Guidance",success,1,0
+874,0874,OCC,"CCDF-ACF-PI-2024-02","Supplemental Funds for Child Care Disaster Recovery – Implementation Grants – Hu",success,2,0
+875,0875,OCC,"CCDF-ACF-PI-2024-01","FY 2025-2027 Child Care and Development Fund (CCDF) Plan for States and Territor",success,2,0
+876,0876,OCC,"CCDF-ACF-PI-2023-05","ACF-696T—a Financial Reporting Form for Tribal CCDF Lead Agencies",success,5,0
+877,0877,OCC,"CCDF-ACF-PI-2023-04","Tribal Annual Report Form ACF-700 for Tribal Lead Agencies",success,3,0
+878,0878,OCC,"CCDF-ACF-PI-2023-03","Quality Progress Report (QPR) (ACF-218) for the Child Care and Development Fund ",success,5,0
+879,0879,OCC,"CCDF-ACF-PI-2023-02","Supplemental Funds for Child Care Disaster Recovery Planning Grants – Hurricanes",success,5,0
+880,0880,OCC,"CCDF-ACF-PI-2023-01","Procedures for Requests from Tribal Lead Agencies to Use CCDF Funds for Construc",success,1,0
+881,0881,OCC,"CCDF-ACF-PI-2022-09","ACF-700: CCDF Tribal Annual Report for Tribal Lead Agencies",success,3,0
+882,0882,OCC,"CCDF-ACF-PI-2022-08","ACF-696T: Financial Reporting for Tribal CCDF Lead Agencies",success,5,1
+883,0883,OCC,"CCDF-ACF-PI-2022-07","Quality Progress Report (QPR) (ACF-218) for the Child Care and Development Fund ",success,4,0
+884,0884,OCC,"CCDF-ACF-PI-2022-06","Child Care and Development Fund Tribal Plan Program",success,1,0
+885,0885,OCC,"CCDF-ACF-PI-2022-05","Child Care and Development Fund (CCDF) Child Care Case-Level Form and Instructio",success,2,0
+886,0886,OCC,"CCDF-ACF-PI-2022-04","Child Care and Development Fund (CCDF) Child Care Annual Aggregate Report and In",success,2,0
+887,0887,OCC,"CCDF-ACF-PI-2022-03","Child Count and Tribal Early Learning Initiative Program",success,1,0
+888,0888,OCC,"CCDF-ACF-PI-2022-02","Financial Reporting Form for Tribal Child Care and Development Fund (CCDF) Lead ",success,5,0
+889,0889,OCC,"CCDF-ACF-PI-2022-01","2022 CCDF Discretionary program funds reallotment process",success,1,0
+890,0890,OCC,"CCDF-ACF-PI-2021-08","ACF-901 – American Rescue Plan (ARP) Stabilization Grants Provider-Level Data fo",success,5,0
+891,0891,OCC,"CCDF-ACF-PI-2021-07","Quality Progress Report (QPR) (ACF-218) for the Child Care and Development Fund ",success,5,1
+892,0892,OCC,"CCDF-ACF-PI-2021-06","Notification of Obligation Target Status for CCDF American Rescue Plan (ARP) Act",failed,0,1
+893,0893,OCC,"CCDF-ACF-PI-2021-05","Approved Revised Financial Reporting Form ACF-696",success,5,0
+894,0894,OCC,"CCDF-ACF-PI-2021-04","Child Care and Development Fund (CCDF) Tribal Annual Report Form ACF-700 for Tri",success,3,0
+895,0895,OCC,"CCDF-ACF-PI-2021-03","Child Care and Development Fund (CCDF) Child Care Annual Aggregate Report and In",success,3,0
+896,0896,OCC,"CCDF-ACF-PI-2021-02","FFY2022-2024 CCDF Plan Preprint for States and Territories",success,2,0
+897,0897,OCC,"CCDF-ACF-PI-2021-01","Planned Use of Child Care and Development Fund (CCDF) Coronavirus Response and R",success,4,0
+898,0898,OCC,"CCDF-ACF-PI-2020-08","Financial Reporting Form for Child Care and Development Fund (CCDF) Tribal Lead ",success,4,0
+899,0899,OCC,"CCDF-ACF-PI-2020-07","Quality Progress Report (QPR) (ACF-218) for the Child Care and Development Fund ",success,6,0
+900,0900,OCC,"CCDF-ACF-PI-2020-06","Child Care and Development Fund (CCDF) Tribal Annual Report Form ACF-700 for Tri",success,3,0
+901,0901,OCC,"CCDF-ACF-PI-2020-05","Approved Revised Form ACF-696, the Financial Reporting Form for the Child Care a",success,5,0
+902,0902,OCC,"CCDF-ACF-PI-2020-04","ACF-800 Report and Instructions",success,4,0
+903,0903,OCC,"CCDF-ACF-PI-2020-03","Approved Revised Form ACF-696, the Financial Reporting Form for the Child Care a",success,3,1
+904,0904,OCC,"CCDF-ACF-PI-2020-02","Tribal Construction or Major Renovation",success,1,0
+905,0905,OCC,"CCDF-ACF-PI-2020-01","Supplemental Disaster Relief Funds for Child Care",no_documents,0,0
+906,0906,OCC,"CCDF-ACF-PI-2019-09","Quality Progress Report (ACF-218) for the CCDF Program for the Fiscal Year 2019",success,6,0
+907,0907,OCC,"CCDF-ACF-PI-2019-08","Financial Reporting Form for Child Care and Development Fund (CCDF) Tribal Lead ",success,5,0
+908,0908,OCC,"CCDF-ACF-PI-2019-07","CCDF Annual Report for Tribal Lead Agencies Program Instruction",success,5,0
+909,0909,OCC,"CCDF-ACF-PI-2019-06","Program Instruction on Supplemental Disaster Funds",success,5,0
+910,0910,OCC,"CCDF-ACF-PI-2019-05","Guidance on alternative approaches for purposes of conducting background checks ",success,2,0
+911,0911,OCC,"CCDF-ACF-PI-2019-04","Consolidate CCDF Under the Indian Employment Act of 2017",success,2,0
+912,0912,OCC,"CCDF-ACF-PI-2019-03","Fiscal Year 2020-2022 CCDF Plan and Plan Preprint for Tribes",success,2,0
+913,0913,OCC,"CCDF-ACF-PI-2019-02","Process to Submit Child Count Declaration Form and Definition of Indian Reservat",success,3,0
+914,0914,OCC,"CCDF-ACF-PI-2019-01","Quality Progress Report (ACF-218) for the CCDF Program for the Fiscal Year 2018",success,6,0
+915,0915,OCC,"CCDF-ACF-PI-2018-04","Financial Reporting Form for Child Care and Development Fund (CCDF) Tribal Lead ",success,5,0
+916,0916,OCC,"CCDF-ACF-PI-2018-03","CCDF Annual Report for Tribal Lead Agencies PI",success,3,0
+917,0917,OCC,"CCDF-ACF-2018-02","FY 2019-2021 State/Territory Plan Preprint",success,2,0
+918,0918,OCC,"CCDF-ACF-2018-01","Guidance on establishing subsidy payment rates",success,3,0
+919,0919,OCC,"CCDF-ACF-2017-06","Electronic Submission of Real Property Standard Form (SF)-429 and Attachments.",success,2,0
+920,0920,OCC,"CCDF-ACF-2017-05","Financial Reporting Form for Tribal Child Care and Development Fund (CCDF) Lead ",success,4,0
+921,0921,OCC,"CCDF-ACF-2017-04","CCDF Annual Report for Tribal Lead Agencies",success,3,0
+922,0922,OCC,"CCDF-ACF-2017-03","Guidance on Implementing the National Crime Information Center National Sex Offe",success,1,0
+923,0923,OCC,"CCDF-ACF-2017-02","Financial Reporting Form for Child Care and Development Fund (CCDF) Tribal Lead ",success,4,0
+924,0924,OCC,"CCDF-ACF-2017-01","Approved Revised Form ACF-696, the Financial Reporting Form for the Child Care a",success,2,0
+925,0925,OCC,"CCDF-ACF-2016-08","Timeline and Requirements for Market Rate Survey and Alternative Methodology",success,2,0
+926,0926,OCC,"CCDF-ACF-2016-07","Child Care and Development Block Grant Act Background Check",success,1,0
+927,0927,OCC,"CCDF-ACF-2016-06","CCDF Annual Report for Tribal Lead Agencies",success,1,0
+928,0928,OCC,"CCDF-ACF-2016-05","Procedures for Requests from Tribal Lead Agencies to Use Child Care and Developm",success,1,0
+929,0929,OCC,"CCDF-ACF-2016-04","PI - 477 FY 2017-2019 Tribal Plan",success,5,0
+930,0930,OCC,"CCDF-ACF-2016-03","Program Instruction: CCDF-ACF-PI-2016-03",success,2,0
+931,0931,OCC,"CCDF-ACF-2016-02","Child Care and Development Fund (CCDF) Child Care Monthly Case Record Form and I",success,2,0
+932,0932,OCC,"CCDF-ACF-2016-01","Child Care and Development Fund (CCDF) Child Care Annual Aggregate Report and In",success,3,0
+933,0933,OCC,"CCDF-ACF-PI-2015-09","FY 2016-2018 State/Territory Plan Preprint",success,2,0
+934,0934,OCC,"CCDF-ACF-PI-2015-08","Financial Reporting Form for Child Care and Development Fund (CCDF) Tribal Lead ",success,4,0
+935,0935,OCC,"CCDF-ACF-PI-2015-07","Child Care and Development Fund (CCDF) Annual Report (Form ACF-700 and Supplemen",success,1,0
+936,0936,OCC,"CCDF-ACF-PI-2015-06","Procedures to Consolidate the Child Care and Development Fund (CCDF) Program wit",success,5,0
+937,0937,OCC,"CCDF-ACF-PI-2015-05","Procedures to submit Annual Child Count Declaration Forms for Child Care and Dev",success,2,0
+938,0938,OCC,"CCDF-ACF-PI-2015-04","Guidance on Extension and Submission Requirements",success,1,0
+939,0939,OCC,"CCDF-ACF-PI-2015-03","Guidance on the Child Care and Development Block Grant Act",success,3,0
+940,0940,OCC,"CCDF-ACF-PI-2015-02","Program Instruction on CCDF Reauthorization Effective Dates",success,3,0
+941,0941,OCC,"CCDF-ACF-PI-2015-01","Uniform Administrative Requirements, Cost Principles, and Audit Requirements",success,1,0
+942,0942,OCC,"CCDF-ACF-PI-2014-05","Quality Performance Report (ACF-118 Appendix 1) for the CCDF Program for the Fis",success,3,0
+943,0943,OCC,"CCDF-ACF-PI-2014-04","Financial Reporting Form for Child Care and Development Fund (CCDF) Tribal Lead ",success,4,0
+944,0944,OCC,"CCDF-ACF-PI-2014-03","Data Reporting for Indian Tribes: ACF-700 Form",success,1,0
+945,0945,OCC,"CCDF-ACF-PI-2014-02","Consolidating CCDF Under a 102-477 Indian Employment, Training, and Related Serv",success,5,0
+946,0946,OCC,"CCDF-ACF-PI-2014-01","FY2015 Child Care and Development Fund (CCDF) Tribal Mandatory and Discretionary",success,3,0
+947,0947,OCC,"CCDF-ACF-PI-2013-08","Financial Reporting for Indian Tribes: ACF-696T Form",success,3,0
+948,0948,OCC,"CCDF-ACF-PI-2013-07","Data Reporting for Indian Tribes: ACF-700 Form",success,1,0
+949,0949,OCC,"CCDF-ACF-PI-2013-06","Quality Performance Report (ACF-118 Appendix 1) for the CCDF Program for the Fis",success,8,0
+950,0950,OCC,"CCDF-ACF-PI-2013-05","Approved Revised Form ACF-696, the Financial Reporting Form for the Child Care a",success,2,0
+951,0951,OCC,"CCDF-ACF-PI-2013-04","Consolidating CCDF Under a 102-477 Indian Employment, Training, and Related Serv",success,5,0
+952,0952,OCC,"CCDF-ACF-PI-2013-03","FY 2014-2015 Tribal Application Plan Procedures for CCDF Grantees",success,3,0
+953,0953,OCC,"CCDF-ACF-PI-2013-02","FY 2014 -2015 State/Territory Application Plan Procedures for CCDF Grantees (Arc",success,3,0
+954,0954,OCC,"CCDF-ACF-PI-2012-07","Form ACF-696T—a Financial Reporting Form for Child Care and Development Fund (CC",success,4,1
+955,0955,OCC,"CCDF-ACF-PI-2012-06","CCDF Annual Report for Tribal Lead Agencies (Archived)",success,2,0
+956,0956,OCC,"CCDF-ACF-PI-2012-05","ACF-800 Child Care Annual Aggregate Report and Instructions (Archived)",success,3,0
+957,0957,OCC,"CCDF-ACF-PI-2012-04","FY2013 Child Care and Development Fund (CCDF) Tribal Mandatory and Discretionary",success,1,1
+958,0958,OCC,"CCDF-ACF-PI-2012-03","Consolidating CCDF Under a 102-477 Indian Employment, Training, and Related Serv",success,1,0
+959,0959,OCC,"CCDF-ACF-PI-2012-02","Quality Performance Report (ACF-118 Appendix 1) for the CCDF Program for the Fis",success,3,0
+960,0960,OCC,"CCDF-ACF-PI-2012-01","Revised ACF-801 Child Care Monthly Case Record Form and Instructions (Archived)",success,1,0
+961,0961,OCC,"CCDF-ACF-PI-2011-05","Data Reporting for Indian Tribes: ACF-700 Form (Archived)",success,1,0
+962,0962,OCC,"CCDF-ACF-PI-2011-04","Financial Reporting for Indian Tribes: ACF-696T Form  (Archived)",success,3,0
+963,0963,OCC,"CCDF-ACF-PI-2011-02","FY 2011 Application and Plan Procedures for 102-477 Grantees (Archived)",success,1,0
+964,0964,OCC,"CCDF-ACF-PI-2011-03","Revised State/Territory required Plan Preprint (ACF-118) for the CCDF program fo",success,2,0
+965,0965,OCC,"CCDF-ACF-PI-2011-01","FY 2011 Tribal Application Plan Procedures for CCDF Grantees",success,1,0
+966,0966,OCC,"CCDF-ACF-PI-2010-08","Annual Report (Form ACF-700 and Supplemental Narrative) for Tribal Lead Agencies",success,1,0
+967,0967,OCC,"CCDF-ACF-PI-2010-07","Financial Reporting for Indian Tribes: ACF-696T Form (Archived)",success,1,0
+968,0968,OCC,"CCDF-ACF-PI-2010-06","Program Integrity, Financial Accountability, Access to Child Care (Archived)",success,1,4
+969,0969,OCC,"CCDF-ACF-PI-2010-04","FY 2011 Tribal Application Plan Procedures for CCDF Grantees",success,1,0
+970,0970,OCC,"CCDF-ACF-PI-2010-05","FY 2011 Application and Plan Procedures for 102-477 Grantees (Archived)",success,1,1
+971,0971,OCC,"CCDF-ACF-PI-2013-01","CCDF Construction and Renovation Procedures for Indian Tribes (Archived)",success,1,0
+972,0972,OCC,"CCDF-ACF-PI-2010-03","CCDF Construction and Renovation Procedures for Indian Tribes (Archived)",success,1,0
+973,0973,OCC,"CCDF-ACF-PI-2010-02","Wage Rate and Buy American Requirements for American Recovery and Reinvestment A",success,4,0
+974,0974,OCC,"CCDF-ACF-PI-2010-01","Revised ACF-800 Child Care Annual Aggregate Report and Instructions (Archived)",success,3,0
+975,0975,OCC,"CCDF-ACF-PI-2009-09","Financial Reporting for Indian Tribes: ACF-696T Form, ARRA of 2009 (Archived)",success,1,0
+976,0976,OCC,"CCDF-ACF-PI-2009-08","CCDF Financial Reporting Form ACF-696 for FY 2009 Grant Award, ARRA of 2009",success,4,2
+977,0977,OCC,"CCDF-ACF-PI-2009-07","Revised ACF-801 Child Care Monthly Case Record Form and Instructions (Archived)",success,3,0
+978,0978,OCC,"CCDF-ACF-PI-2009-06","FY 2010 Application and Plan Procedures for 102-477 Grantees (Archived)",success,1,0
+979,0979,OCC,"CCDF-ACF-PI-2009-04","FY 2010 Tribal Application Plan Procedures for CCDF Grantees (Archived)",success,1,0
+980,0980,OCC,"CCDF-ACF-PI-2009-05","State/Territory Plan Preprint (ACF-118) for the Child Care and Development Fund ",success,2,0
+981,0981,OCC,"CCDF-ACF-PI-2009-03","American Recovery and Reinvestment Act (ARRA) of 2009 (Archived)",success,1,0
+982,0982,OCC,"CCDF-ACF-PI-2009-02","Market Rate Surveys (Archived)",success,1,0
+983,0983,OCC,"CCDF-ACF-PI-2009-01","Approval of Plan Amendments",success,2,0
+984,0984,OCC,"CCDF-ACF-PI-2008-01","Verification of Citizenship and Immigration Status by Non-Profit Organizations a",success,2,0
+985,0985,OCC,"CCDF-ACF-PI-2007-08","Error Rate Reporting (Improper Payments)",success,1,0
+986,0986,OCC,"ACYF-PI-CC-05-02","Regulations Regarding Use of CCDF Funds for Research and Evaluation",success,2,0
+987,0987,OCC,"ACYF-PI-CC-01-07","Limited English Proficiency (Archived)",success,2,2
+988,0988,OCC,"ACYF-PI-CC-00-04","Clarifying policy regarding limits on the use of Social Security Numbers under t",success,2,2
+989,0989,OCC,"ACYF-PI-CC-99-05","Quality Expansion Activities",success,1,0
+990,0990,OCC,"ACYF-PI-CC-98-08","Clarification of Interpretation of "Federal Public Benefit" Regarding CCDF Servi",success,2,0
+991,0991,OCC,"#1r-v9","ACF- 800 State-Level Data Standards",success,4,0
+992,0992,OCC,"#2","ACF-801 Technical Bulletin",no_urls,0,0
+993,0993,OCC,"#3r-v9","ACF-801 Case-Level Data Standards",success,1,0
+994,0994,OCC,"#4r-v7","ACF-801 Case-Level Data File Format",success,1,0
+995,0995,OCC,"#5r-v4","ACF-801 Case-Level Data Submission Guidelines",success,1,0
+996,0996,OCC,"#6r-v5","ACF-801 Technical Bulletin",no_urls,0,0
+997,0997,OCC,"#7","ACF-801 Technical Bulletin",no_urls,0,0
+998,0998,OCC,"#8r-v7","ACF-801 Clarifications",success,1,0
+999,0999,OCC,"#9r-v6","Using the ACF-801 Data Assessment Reports",success,1,0
+1000,1000,OCC,"#11r-v6","ACF-700 and Other Tribal CCDF Reporting Requirements: Frequently Asked Questions",success,1,0
+1001,1001,OCC,"#12r-v3","ACF-700 CCDF Clarifications",success,2,0
+1002,1002,OCC,"#13r-v3","ACF-700 Technical Bulletins",no_urls,0,0
+1003,1003,OCC,"#14r-v3","CCDF Reporting Clarifications for Tribally Operated Centers",success,2,0
+1004,1004,OCC,"#17","ACF-700 Part 3 Data Standards and FAQs",success,2,0
+1005,1005,OCC,"","2024 Child Care and Development Fund Final Rule: Frequently Asked Questions",no_documents,0,0
+1006,1006,OCC,"","Child Care and Development Fund Frequently Asked Questions",no_documents,0,0
+1007,1007,OCC,"","How many children and families are currently being served by CCDF?",no_documents,0,0
+1008,1008,OCC,"","What is the Child Care and Development Fund (CCDF)?",no_documents,0,0
+1009,1009,OCC,"","How is the CCDF Plan organized?",no_documents,0,0
+1010,1010,OCC,"","What does conditional approval mean?",no_documents,0,0
+1011,1011,OCC,"","Will OCC continually update these documents to reflect ongoing progress in imple",no_documents,0,0
+1012,1012,OCC,"","What are the deadlines for implementing the new provisions in the CCDBG Act of 2",no_documents,0,0
+1013,1013,OCC,"","Why is the OCC releasing the FY 2016-2018 Child Care and Development Fund (CCDF)",no_documents,0,0
+1014,1014,OCC,"","What was OCC’s approach to reviewing waiver requests?",no_documents,0,0
+1015,1015,OCC,"","Has a Final Rule been issued to implement the CCDBG Act?",no_documents,0,0
+1016,1016,OCC,"","What items are included in the FY 2016-2018 CCDF Plans?",no_documents,0,0
+1017,1017,OCC,"","What are waiver requests?",no_documents,0,0
+1018,1018,OCC,"","Why does the conditional approval of the Plan not constitute a final determinati",no_documents,0,0
+1019,1019,OCC,"","Who should be contacted if we have questions about the CCDF Plan?",no_documents,0,0
+1020,1020,OCC,"","How will the new law help working low-income parents achieve financial stability",no_documents,0,0
+1021,1021,OCC,"","How does reauthorization change funding for the CCDF program?",no_documents,0,0
+1022,1022,OCC,"","How does the Tribal Plan extension impact the 102-477 Tribes?",no_documents,0,0
+1023,1023,OCC,"","What is the new requirement for graduated phase-out of assistance?",no_documents,0,0
+1024,1024,OCC,"","What does it mean to not unduly disrupt employment?",no_documents,0,0
+1025,1025,OCC,"","What does it mean for a Market Rate survey to be “statistically valid and reliab",no_documents,0,0
+1026,1026,OCC,"","Does the law still allow States to exempt certain providers from licensing requi",no_documents,0,0
+1027,1027,OCC,"","What are the monitoring requirements of the new law?",no_documents,0,0
+1028,1028,OCC,"","How will the law support expanded supply of quality child care providers?",no_documents,0,0
+1029,1029,OCC,"","Will existing infant and toddler targeted funds remain in place?",no_documents,0,0
+1030,1030,OCC,"","What would make a child care staff member ineligible for employment?",no_documents,0,0
+1031,1031,OCC,"","Who is affected by the new law?",no_documents,0,0
+1032,1032,OCC,"","How will the new law support child development and school readiness?",no_documents,0,0
+1033,1033,OCC,"","How are States to make available the results of monitoring and inspections?",no_documents,0,0
+1034,1034,OCC,"","Do States have to provide information about developmental screenings?",no_documents,0,0
+1035,1035,OCC,"","Does the law specify a length of time for re-determining a family’s eligibility?",no_documents,0,0
+1036,1036,OCC,"","Do special requirements apply to how states serve homeless families?",no_documents,0,0
+1037,1037,OCC,"","Are States required to take into account the cost of providing high quality chil",no_documents,0,0
+1038,1038,OCC,"","Does the new law require group size limits or child-to-provider ratios?",no_documents,0,0
+1039,1039,OCC,"","What information about background checks must States make publicly available?",no_documents,0,0
+1040,1040,OCC,"","When must a State have policies and procedures for background checks in place?",no_documents,0,0
+1041,1041,OCC,"","How does the law help build a stable, effective early care and education workfor",no_documents,0,0
+1042,1042,OCC,"","Will targeted funds for school-age care/child care resource and referral remain ",no_documents,0,0
+1043,1043,OCC,"","What does a comprehensive background check include under the new law?",no_documents,0,0
+1044,1044,OCC,"","Does ACF intend to change the error rate reporting process?",no_documents,0,0
+1045,1045,OCC,"","How will the new law make child care more healthy, safe, and high quality?",no_documents,0,0
+1046,1046,OCC,"","Does the new law allow States to apply for waivers?",no_documents,0,0
+1047,1047,OCC,"","How does CCDF reauthorization impact Tribal CCDF funding?",no_documents,0,0
+1048,1048,OCC,"","How does the new law help parents make more informed child care choices?",success,1,0
+1049,1049,OCC,"","How is “timely payment” for child care services defined?",no_documents,0,0
+1050,1050,OCC,"","Does the new law include health and safety requirements in specific topic areas?",no_documents,0,0
+1051,1051,OCC,"","Do current regulations still apply and when will ACF issue a new proposed rule?",no_documents,0,0
+1052,1052,OCC,"","What effective dates are specified in the law?",no_documents,0,0
+1053,1053,OCC,"","Will ACF be extending the approved Tribal plans?",no_documents,0,0
+1054,1054,OCC,"","May States use CCDF for child care resource and referral (CCR&R) systems?",no_documents,0,0
+1055,1055,OCC,"","Will States with a 6 month eligibility re-determination period have to change to",no_documents,0,0
+1056,1056,OCC,"","How does the law help build a supply of high quality providers caring for all ch",no_documents,0,0
+1057,1057,OCC,"","Does the law allow States to use grants and contracts to build supply of high-qu",no_documents,0,0
+1058,1058,OCC,"","What are the new requirements regarding the market rate survey used to set payme",no_documents,0,0
+1059,1059,OCC,"","What alternative methodology can be used instead of a market rate survey?",no_documents,0,0
+1060,1060,OCC,"","Must States use the current market rate survey or alternative methodology to set",no_documents,0,0
+1061,1061,OCC,"","What is meant by “generally accepted payment practices”?",no_documents,0,0
+1062,1062,OCC,"","Does the new law require minimum health and safety trainings for CCDF providers?",no_documents,0,0
+1063,1063,OCC,"","Are States required to post the results of monitoring and inspection visits?",no_documents,0,0
+1064,1064,OCC,"","Who does the background check requirement apply to?",no_documents,0,0
+1065,1065,OCC,"","Does the background check requirement apply to family child care providers?",no_documents,0,0
+1066,1066,OCC,"","Are States required to have an appeals process?",no_documents,0,0
+1067,1067,OCC,"","Are States allowed to publicly release the results of individual background chec",no_documents,0,0
+1068,1068,OCC,"","What are the costs of the comprehensive background check?",no_documents,0,0
+1069,1069,OCC,"","Does the law require child care providers to acquire credentials to receive CCDF",no_documents,0,0
+1070,1070,OCC,"","Which quality activities count toward the quality set-aside?",no_documents,0,0
+1071,1071,OCC,"","How will changes to eligibility change State processes to protect against improp",no_documents,0,0
+1072,1072,OCC,"","What are the purposes of CCDF?",no_documents,0,0
+1073,1073,OCC,"","How can I keep up to date with information about implementation of the new law?",no_documents,0,0
+1074,1074,OCC,"","Does reauthorization change the amount of mandatory or matching funds?",no_documents,0,0
+1075,1075,OCC,"","What provisions in the new law are effective upon enactment?",no_documents,0,0
+1076,1076,OCC,"","How will ACF determine compliance?",no_documents,0,0
+1077,1077,OCC,"","What does CCDF reauthorization mean for Tribes?",no_documents,0,0
+1078,1078,OCC,"","What is the deadline for States to post the results of inspection reports?",no_documents,0,0
+1079,1079,OCC,"","What information must States make available on the consumer education website?",no_documents,0,0
+1080,1080,OCC,"","Does the law require States to offer families a period of job search?",no_documents,0,0
+1081,1081,OCC,"","Can homeless children receive CCDF if they don’t have immunizations or documenta",no_documents,0,0
+1082,1082,OCC,"","Does the law require States to pay for absence days?",no_documents,0,0
+1083,1083,OCC,"","What are the new child abuse reporting requirements in the law?",no_documents,0,0
+1084,1084,OCC,"","Can States use a differential monitoring strategy?",no_documents,0,0
+1085,1085,OCC,"","How often must background checks be conducted?",no_documents,0,0
+1086,1086,OCC,"","Are States required to protect the privacy of the results of the background chec",no_documents,0,0
+1087,1087,OCC,"","Does the quality set-aside apply to the full CCDF grant award?",no_documents,0,0
+1088,1088,OCC,"","Does the law change how States spend on quality activities?",no_documents,0,0
+1089,1089,OCC,"","What is CCDF Reauthorization?",no_documents,0,0
+1090,1090,OCC,"Technical Bulletin #1r-v5","ACF-800 State-Level Data Standards – January 2016",success,4,0
+1091,1091,OCC,"","Letter to Mayors re: CCDF COVID-19 Resources",success,1,0
+1092,1092,OCC,"","Letter to CCDF Administrators About the Legislation Guide",no_documents,0,0
+1093,1093,OCC,"","Letter regarding IM-ACF-OA-2020-01",success,1,0
+1094,1094,OCC,"CCDF-ACF-PI-2013-01","CCDF Construction and Renovation Procedures for Indian Tribes",success,1,0
+1095,1095,OCC,"","CCDF ACF-800 Form Instructions (Expires: 06/30/2015)",failed,0,2
+1096,1096,OCC,"ACF-OCC-CCDF-PI2025-DRAFT","Draft Guidance on Disaster Supplemental Funds for Child Care – 2023 and 2024",success,2,0
+1097,1097,OCC,"","FFY 2025-2027 CCDF Monitoring",no_documents,0,0
+1098,1098,OCC,"","Child Care and Development Fund Plan Preprint for Tribes",success,1,0
+1099,1099,OCC,"CCDF-ACF-PI-2020-07","Extension of the ACF-218 Quality Progress Report Deadline",no_documents,0,0
+1100,1100,OCC,"","Reporting CCDF Direct Services on ACF-801 During COVID-19",success,1,0
+1101,1101,OCC,"","Program Integrity and Accountability: Improper Payments",success,5,0
+1102,1102,OCC,"","Summary of Child Care Provisions of Coronavirus Aid, Relief, and Economic Securi",success,1,0
+1103,1103,OCC,"","Information about COVID-19 for CCDF Lead Agencies: Relevant Flexibilities in CCD",success,1,0
+1104,1104,OCC,"CCDF-ACF-PI-2018-01 Attachment","List of Potential Options for Narrow Cost Analysis",no_documents,0,0
+1105,1105,OCC,"","CCDF Financial Reporting Form ACF-696 for FY 2009",success,1,0
+1106,1106,OCC,"","Policies/Resources for ing ECE Services for Homeless Children & Families",success,4,0
+1107,1107,OCC,"","Timeliness of ACF-700 Data Submissions",no_documents,0,0
+1108,1108,OCC,"","ACF-700 Reporting Tips",no_documents,0,0
+1109,1109,OCC,"","Using the Child Care Automated Reporting System (CARS)",no_documents,0,0
+1110,1110,OCC,"","CCDF Funding Allocations and Periods of Availability",no_documents,0,0
+1111,1111,OCC,"","Timeliness of ACF-801 Data Submissions",no_documents,0,0
+1112,1112,OCC,"","Overview of Case-Level Reporting for States and Territories (ACF-801)",success,1,0
+1113,1113,OCC,"","Submitting the ACF-800 via CARS",no_documents,0,0
+1114,1114,OCC,"","ACF-800 Reporting Instructions/Definitions",success,1,0
+1115,1115,OCC,"","ACF-800: Child Care Automated Reporting System (CARS)",success,1,0
+1116,1116,OCC,"","State and Territory Responses to Emergency Preparedness Planning Questions: FY20",success,1,0
+1117,1117,OCC,"","FY 2014-2015 CCDF Plan Preprint",success,1,0
+1118,1118,OCC,"","CDC Issues Flu Guidance",success,1,3
+1119,1119,OCC,"","Tribal CCDF Guide to Financial Management, Grants Administration, and Program Ac",success,1,0
+1120,1120,OCC,"","CCDF-Specific Guidance to Transparency Act Requirements",success,1,0
+1121,1121,OCC,"","Child Welfare and Child Care Partnerships: Partnering with Families Involved in ",success,2,0
+1122,1122,OCC,"","Disregard of Federal Tax Refunds in Determining CCDF Eligibility",success,1,0
+1123,1123,OCS,"ACF-OCS-LIHEAP-AT-2025-01","LIHEAP federal Fiscal Year 2025 (FY25) Quarterly Report Submission",success,3,0
+1124,1124,OCS,"ACF-OCS-LIHEAP-AT-2025-02","LIHEAP Performance Data Form FY 2024",success,4,0
+1125,1125,OCS,"ACF-OCS-LIHEAP-AT-2025-03","LIHEAP State-Tribe Agreements",success,2,1
+1126,1126,OCS,"LIHEAP-AT-2025-04","Model Plan Application for LIHEAP Funding for Federal Fiscal Year 2026 (FY26)",success,4,1
+1127,1127,OCS,"LIHEAP-AT-2025-05","LIHEAP Household Report Long Form and Short Form for Federal Fiscal Year (FFY) 2",success,5,0
+1128,1128,OCS,"LIHEAP-AT-2024-01","LIHEAP Performance Data Form for FY 2023",success,4,0
+1129,1129,OCS,"ACF-OCS-LIHEAP-AT-2024-02","LIHEAP Federal Fiscal Year (FY) 24 Quarterly Report Submission",success,3,0
+1130,1130,OCS,"ACF-OCS-LIHEAP-AT-2024-03","Model Plan Application for LIHEAP Funding for federal Fiscal Year (FY) 2025 (App",success,4,1
+1131,1131,OCS,"ACF-OCS-LIHEAP-AT- 2024-04","LIHEAP State-Tribe Agreements",success,2,1
+1132,1132,OCS,"ACF-OCS-LIHEAP-AT-2024-05","LIHEAP Carryover and Reallotment Report for federal Fiscal Year 2024 (FY24)",success,3,0
+1133,1133,OCS,"LIHEAP-AT-2024-06","LIHEAP Household Report Long Form and Short Form for Federal Fiscal Year (FFY) 2",success,5,0
+1134,1134,OCS,"LIHEAP-AT-2023-01","LIHEAP AT 2023-01 Household Report Long and Short Form for FFY 2022",success,3,0
+1135,1135,OCS,"LIHEAP-AT-2023-02","LIHEAP AT 2023-02 Performance Data Form for Federal Fiscal Year FFY 2022",success,3,0
+1136,1136,OCS,"LIHEAP-AT-2023-03","LIHEAP AT 2023-03 Quarterly Report Submission FY 2023",success,4,0
+1137,1137,OCS,"LIHEAP-AT-2023-04","LIHEAP AT 2023-04 Household Report Short and Long Form FY 2023",success,5,0
+1138,1138,OCS,"LIHEAP-AT-2023-05","LIHEAP AT 2023-05 Model Plan Application for LIHEAP Funding for Federal Fiscal Y",success,2,2
+1139,1139,OCS,"LIHEAP-AT-2023-06","LIHEAP AT 2023-06 Carryover and Reallotment Report for FFY 2023",success,2,0
+1140,1140,OCS,"LIHEAP-AT-2022-01","LIHEAP AT-2022-01 SF-425 Federal Financial Report Submissions FY2022",success,2,2
+1141,1141,OCS,"LIHEAP-AT-2022-02","LIHEAP AT-2022-02 Performance Data Form for Fiscal Year (FY) 2021",success,3,0
+1142,1142,OCS,"LIHEAP-AT-2022-03","LIHEAP AT-2022-03 Quarterly Report Submission FY 2022",success,3,0
+1143,1143,OCS,"LIHEAP-AT-2022-04","LIHEAP AT 2022-04 Model Plan Application for LIHEAP Funding for Federal Fiscal Y",success,3,1
+1144,1144,OCS,"LIHEAP-AT-2022-05","LIHEAP AT 2022-05 Carryover and Reallotment Report for FFY 2022",success,3,0
+1145,1145,OCS,"LIHEAP-AT-2021-01","LIHEAP AT-2021-01 Reinstatement without Change of the FY 2020 Residential Energy",success,1,0
+1146,1146,OCS,"LIHEAP-AT-2021-02","LIHEAP AT-2021-02 Performance Data Form for FY 2020",success,3,0
+1147,1147,OCS,"LIHEAP-AT-2021-03","LIHEAP AT-2021-03 Model Plan AT FY2022",success,3,1
+1148,1148,OCS,"LIHEAP-AT-2021-04","LIHEAP AT-2021-04 Carryover Reallotment FY2021",success,2,0
+1149,1149,OCS,"LIHEAP-AT-2021-05","LIHEAP AT-2021-05 Household Report FY2021",success,3,0
+1150,1150,OCS,"LIHEAP-AT-2020-01","LIHEAP Performance Data Form for Fiscal Year (FY) 2019,",success,2,1
+1151,1151,OCS,"LIHEAP-AT-2020-02","Household Report Long and Short Form FY 2019",success,3,0
+1152,1152,OCS,"LIHEAP-AT-2020-03","Carryover and Reallotment Report FY 2019",success,2,1
+1153,1153,OCS,"LIHEAP-AT-2020-04","Model Plan Application for Funding FY 2021",success,3,2
+1154,1154,OCS,"LIHEAP-AT-2020-05","Carryover and Reallotment Report FY 2020",success,2,0
+1155,1155,OCS,"LIHEAP-AT-2020-06","Household Report Long and Short Form FY 2020",success,3,0
+1156,1156,OCS,"LIHEAP-AT-2020-07","Standard Form (SF) 425 for Federal Fiscal Year (FFY) 2020",success,3,0
+1157,1157,OCS,"LIHEAP-AT-2019-01","LIHEAP Performance Data Form for Fiscal Year (FY) 2018",success,1,0
+1158,1158,OCS,"LIHEAP-AT-2019-02","Household Report Long and Short Form FY 2018",success,2,0
+1159,1159,OCS,"LIHEAP-AT-2019-03","Model Plan Application for LIHEAP Funding for Fiscal Year (FY) 2020",success,3,0
+1160,1160,OCS,"LIHEAP-AT-2018-01","Model Plan Application for LIHEAP Funding for Fiscal Year (FY) 2018",success,2,0
+1161,1161,OCS,"LIHEAP-AT-2018-02","Household Report Short Form and Long Form for Federal Fiscal Year (FY) 2017",success,2,0
+1162,1162,OCS,"LIHEAP-AT-2018-03","Revised FFY 2017 LIHEAP Carryover and Reallotment Report",success,3,0
+1163,1163,OCS,"LIHEAP-AT-2018-04","LIHEAP Performance Data Form for Fiscal Year (FY) 2017",no_documents,0,0
+1164,1164,OCS,"LIHEAP-AT-2018-05","Model Plan Application for LIHEAP Funding for Fiscal Year 2019",success,2,2
+1165,1165,OCS,"LIHEAP-AT-2018-06","LIHEAP Performance Data Form for Fiscal Year 2017",no_documents,0,0
+1166,1166,OCS,"LIHEAP-AT-2017-01","FY 2016 Carryover and Reallotment Report",success,1,1
+1167,1167,OCS,"LIHEAP-AT-2017-02","LIHEAP Performance Data Form for Fiscal Year (FY) 2016",success,2,0
+1168,1168,OCS,"LIHEAP-AT-2017-03","2015 RECS LIHEAP Household Administrative Data Matching",no_documents,0,0
+1169,1169,OCS,"LIHEAP-AT-2017-04","Model Plan Application for LIHEAP Funding for Fiscal Year (FY) 2018 (Application",no_documents,0,0
+1170,1170,OCS,"LIHEAP-AT-2016-01","FY 2015 Carryover and Reallotment Report",success,1,0
+1171,1171,OCS,"LIHEAP-AT-2016-02","LIHEAP Household Report Short Form and Long Form for Federal Fiscal Year (FY) 20",success,3,0
+1172,1172,OCS,"LIHEAP-AT-2016-03","LIHEAP Performance Data Form for Fiscal Year (FY) 2015",success,2,0
+1173,1173,OCS,"LIHEAP-AT-2016-04","LIHEAP Performance Data Form Revised Instructions for Fiscal Year 2015",success,1,0
+1174,1174,OCS,"LIHEAP-AT-2016-05","Revised Reporting Instructions for the LIHEAP Household Report",success,1,0
+1175,1175,OCS,"LIHEAP-AT-2016-06","Model Plan Application for Funding for FY 2017 (All Applications Due September 1",success,1,0
+1176,1176,OCS,"LIHEAP-AT-2014-06","Correction Needed to LIHEAP Grantee Survey for Federal Fiscal Year (FFY) 2013",no_documents,0,0
+1177,1177,OCS,"LIHEAP-AT-2015-02","LIHEAP Performance Data Form for Fiscal Year (FY) 2014",success,2,0
+1178,1178,OCS,"LIHEAP-AT-2015-03","Model Plan Application for LIHEAP Funding for Fiscal Year (FY) 2016 (All Applica",no_documents,0,0
+1179,1179,OCS,"LIHEAP-AT-2014-01","LIHEAP Grantee Survey for Federal Fiscal Year (FFY) 2013",no_documents,0,0
+1180,1180,OCS,"LIHEAP-AT-2014-02","LIHEAP Carryover and Reallotment Report",success,3,1
+1181,1181,OCS,"LIHEAP-AT-2014-03","LIHEAP Model Plan Application for FY 2015",failed,0,1
+1182,1182,OCS,"LIHEAP-AT-2014-04","Estimates of Quarterly Obligations for the Fiscal Year (FY) 2015 Low Income Home",no_documents,0,0
+1183,1183,OCS,"LIHEAP-AT-2014-05","LIHEAP Household Report for Federal Fiscal Year (FFY) 2014 - Short Form and Long",success,2,0
+1184,1184,OCS,"LIHEAP-AT-2013-01","LIHEAP Grantee Survey for Federal Fiscal Year (FFY) 2012",success,1,0
+1185,1185,OCS,"LIHEAP-AT-2013-02","Financial Reporting Requirements for All LIHEAP Grantees - SF 425 Report",success,3,0
+1186,1186,OCS,"LIHEAP-AT-2013-03","Carryover and Reallotment Report",failed,0,1
+1187,1187,OCS,"LIHEAP-AT-2013-04","LIHEAP Household Report for Federal Fiscal Year (FFY) 2013 - Short Form and Long",no_documents,0,0
+1188,1188,OCS,"LIHEAP-AT-2013-05","LIHEAP Application Requirements for FY 2014 and Deadline for All Applications of",no_documents,0,0
+1189,1189,OCS,"LIHEAP-AT-2013-06","Estimates of Quarterly Obligations for the Fiscal Year (FY) 2013 Low Income Home",no_documents,0,0
+1190,1190,OCS,"LIHEAP-AT-2012-01","Financial Reporting Requirement for All LIHEAP Grantees--SF 425 Report",success,3,0
+1191,1191,OCS,"LIHEAP-AT-2012-02","LIHEAP Grantee Survey for Federal Fiscal Year (FFY) 2011",no_documents,0,0
+1192,1192,OCS,"LIHEAP-AT-2012-03","Request for FY 2012 Applications for the Residential Energy Assistance Challenge",success,2,0
+1193,1193,OCS,"LIHEAP-AT-2012-04","Carryover and Reallotment Report",success,3,0
+1194,1194,OCS,"LIHEAP-AT-2012-05","LIHEAP Application Requirements for FY 2013 and Deadline of September 4, 2012 fo",success,2,0
+1195,1195,OCS,"LIHEAP-AT-2012-06","Estimates of Quarterly Obligations for the Fiscal Year (FY) 2013 Low Income Home",success,1,0
+1196,1196,OCS,"LIHEAP-AT-2012-07","Household Report for FFY 2012-Short Form and Long Form",success,4,0
+1197,1197,OCS,"LIHEAP-AT-2011-01","LIHEAP Grantee Survey for Federal Fiscal Year (FFY) 2010,",success,1,0
+1198,1198,OCS,"LIHEAP-AT-2011-02","Financial Reporting Requirement for All LIHEAP Grantees — SF 269A Report,",no_documents,0,0
+1199,1199,OCS,"LIHEAP-AT-2011-03","Carryover and Reallotment Report,",success,3,1
+1200,1200,OCS,"LIHEAP-AT-2011-04","LIHEAP Application Requirements for FY 2012 and Deadline for All Applications of",no_documents,0,0
+1201,1201,OCS,"LIHEAP-AT-2011-05","Estimates of Quarterly Obligations for the Fiscal Year (FY) 2012 Low Income Home",no_documents,0,0
+1202,1202,OCS,"LIHEAP-AT-2011-06","LIHEAP Household Report for Federal Fiscal Year (FFY) 2011,",success,3,0
+1203,1203,OCS,"LIHEAP-AT-2010-8","Financial Reporting Requirement for All LIHEAP Grantees - SF 269A Report,",success,2,0
+1204,1204,OCS,"LIHEAP-AT-2010-2","LIHEAP Grantee Survey for Federal Fiscal Year (FFY) 2009,",success,1,0
+1205,1205,OCS,"LIHEAP-AT-2010-3","Request for FY 2010 Applications for the Residential Energy Assistance Challenge",no_documents,0,0
+1206,1206,OCS,"LIHEAP-AT-2010-4","Implementing LIHEAP Outcome Performance Measures",success,3,2
+1207,1207,OCS,"LIHEAP-AT-2010-5","Comments on extension of Office of Management and Budget (OMB) approval for the ",success,1,0
+1208,1208,OCS,"LIHEAP-AT-2010-6","Plan Supplement Required for Fiscal Year (FY) 2011: LIHEAP Program Integrity Pla",no_documents,0,0
+1209,1209,OCS,"LIHEAP-AT-2010-7","State FY 2010 LIHEAP Household Administrative Data Matching,",no_documents,0,0
+1210,1210,OCS,"LIHEAP-AT-2010-8","Carryover and Reallotment Report,",no_documents,0,0
+1211,1211,OCS,"LIHEAP-AT-2010-9","LIHEAP Household Report for Federal Fiscal Year (FFY) 2010",no_documents,0,0
+1212,1212,OCS,"","LIHEAP Application Requirements for FY 2011 and Deadline for All Applications of",failed,0,1
+1213,1213,OCS,"LIHEAP-AT-2010-11","Estimates of Quarterly Obligations for the Fiscal Year (FY) 2011 Low Income Home",success,1,0
+1214,1214,OCS,"LIHEAP-AT-2010-12","Submission of leveraging reports on FY 2010 leveraging activities, in order to q",success,2,0
+1215,1215,OCS,"ACF-OCS-LIHEAP-DCL-2025-01","First Funding Release of Federal Fiscal Year 2025 (FY25)",success,3,0
+1216,1216,OCS,"ACF-OCS-LIHEAP-DCL-2025-02","Final Funding Release of Federal Fiscal Year 2025 (FY25)",success,3,0
+1217,1217,OCS,"LIHEAP-DCL-2024-01","Proposed Changes to the LIHEAP Model Plan Application for federal Fiscal Year (F",success,3,0
+1218,1218,OCS,"LIHEAP-DCL-2024-02","First LIHEAP Funding Announced Award of FY 2024",success,3,0
+1219,1219,OCS,"","Third Party Data Verification for LIHEAP Applications Webinar",failed,0,1
+1220,1220,OCS,"ACF-OCS-LIHEAP-DCL-2024-04","National Energy Assistance Day",success,2,0
+1221,1221,OCS,"","Three-Year Anniversary of the American Rescue Plan Act",failed,0,1
+1222,1222,OCS,"ACF-OCS-LIHEAP-DCL-2024-06","Second Release of Federal Fiscal Year Funds FY24",success,3,0
+1223,1223,OCS,"ACF-OCS-LIHEAP-DCL-2024-07","Third federal Fiscal Year 2024 (FY24) LIHEAP Funding Release",success,3,0
+1224,1224,OCS,"ACF-OCS-LIHEAP-DCL-2024-08","Federal Fiscal Year 2025 (FY25) Training and Technical Assistance Planning (T/TA",success,2,0
+1225,1225,OCS,"ACF-OCS-LIHEAP-DCL-2024-09","Reallotment of Federal Fiscal Year 2023 (FY23) LIHEAP Funds",success,3,0
+1226,1226,OCS,"LIHEAP-DCL-2023-01","LIHEAP First Funding Release FY 2023",success,3,0
+1227,1227,OCS,"","Announcing New DEA Senior Advisor",failed,0,1
+1228,1228,OCS,"LIHEAP-DCL-2023-03","LIHEAP Second Supplemental Grant Funding Release",success,3,2
+1229,1229,OCS,"LIHEAP-DCL-2023-04","Upcoming/Temporary Regular LIHEAP Block Grant Drawdown Freeze",success,1,0
+1230,1230,OCS,"LIHEAP-DCL-2023-05","LIHEAP Third Funding Release FY 2023",success,3,0
+1231,1231,OCS,"LIHEAP-DCL-2023-06","LIHEAP Reporting Requirements",success,1,0
+1232,1232,OCS,"LIHEAP-DCL-2023-07","OCS Launches the LIHEAP Data Dashboard",success,1,0
+1233,1233,OCS,"LIHEAP-DCL-2023-08","LIHEAP Flexibilities During Hurricane and Tropical Storm Season",success,2,0
+1234,1234,OCS,"","Introducing New Division of Energy Assistance (DEA) and LIHEAP Leaders",failed,0,1
+1235,1235,OCS,"LIHEAP-DCL-2023-10","Fiscal Year (FY) 2023 and First Quarter FY 2024 LIHEAP Monitoring Review Schedul",success,1,0
+1236,1236,OCS,"LIHEAP-DCL-2023-11","LIHEAP Fourth Funding Release FY 2023",success,3,0
+1237,1237,OCS,"LIHEAP-DCL-2023-12","LIHEAP Data Dashboard Update",success,1,0
+1238,1238,OCS,"LIHEAP-DCL-2023-13","Energy Efficiency Month Webinar-Utilizing Community Solar for LIHEAP Income Qual",no_documents,0,0
+1239,1239,OCS,"","Application Streamline and Electronic Verification (ASEV) Workgroup",failed,0,1
+1240,1240,OCS,"LIHEAP-DCL-2023-15","Reallotment of Federal Fiscal Year (FFY) 2022 LIHEAP Funds",success,3,0
+1241,1241,OCS,"LIHEAP-DCL-2022-01","LIHEAP First Funding Release FY2022",success,3,0
+1242,1242,OCS,"","Training and Technical Assistance Opportunities for Guidance on Emergency Rental",failed,0,1
+1243,1243,OCS,"LIHEAP-DCL-2022-03","Preparation for LIHEAP Data Collection and Reporting Enhancements",success,2,0
+1244,1244,OCS,"LIHEAP-DCL-2022-04","Additional Training Opportunities for Guidance on Emergency Rental Assistance (E",success,1,0
+1245,1245,OCS,"LIHEAP-DCL-2022-05","Infrastructure Funding Release FY2022",success,3,0
+1246,1246,OCS,"LIHEAP-DCL-2022-06","National Energy Assistance Day FY2022",success,1,0
+1247,1247,OCS,"LIHEAP-DCL-2022-07","Additional Uses of Administrative Data Collected for the 2020 RECS Data Match,",success,1,0
+1248,1248,OCS,"LIHEAP-DCL-2022-08","Preparation for LIHEAP Quarterly Performance and Management Data Collection and ",success,4,0
+1249,1249,OCS,"LIHEAP-DCL-2022-09","Training/Technical Assistance Opportunities for the LIHEAP Quarterly Performance",success,1,0
+1250,1250,OCS,"LIHEAP-DCL-2022-10","Second Non-Supplemental FFY 2022 Block Grant Funding Release",success,3,0
+1251,1251,OCS,"","LIHEAP DCL-2022-11 Heat Stress FY2022",failed,0,1
+1252,1252,OCS,"","LIHEAP DCL-2022-12 Heat Stress Webinars FY2022",failed,0,1
+1253,1253,OCS,"LIHEAP-DCL-2022-13","Third/Final FY 2022 LIHEAP Non-Supplemental Funding Release",success,4,0
+1254,1254,OCS,"LIHEAP-DCL-2022-14","LIHEAP DCL-2022-14 Reallotment of FFY 2021 LIHEAP Funds FY2022",success,3,0
+1255,1255,OCS,"OCS-DCL-2023-04","FY 2023 LIHEAP Heating Season Toolkit, Updates to energyhelp.us, and Upcoming Au",success,1,0
+1256,1256,OCS,"OCS-DCL-2022-15","OCS DCL-2022-15 OCS Relaunches Customer-Facing Energy Help Website FY2022",success,1,0
+1257,1257,OCS,"LIHEAP-DCL-2021-01","FY 2021 Funding Release",success,3,0
+1258,1258,OCS,"LIHEAP-DCL-2021-02","National LIHEAP Grantee Virtual Training Conference FY21",success,1,0
+1259,1259,OCS,"LIHEAP-DCL-2021-03","LIHEAP Flexibilities During Winter Storm",success,2,5
+1260,1260,OCS,"LIHEAP-DCL-2021-04","Second FY 2021 LIHEAP Funding Release",success,3,0
+1261,1261,OCS,"LIHEAP-DCL-2021-05","FY 2021 Supplemental LIHEAP Funding Release under the American Rescue Plan Act o",success,6,0
+1262,1262,OCS,"LIHEAP-DCL-2021-07","Call for Action: 40th Anniversary of Low Income Home Energy Assistance Program (",success,1,1
+1263,1263,OCS,"LIHEAP-DCL-2021-11","LIHEAP DCL 2021-11 Reallotment of Federal Fiscal Year (FFY) 2020 LIHEAP Funds",success,3,0
+1264,1264,OCS,"LIHEAP-DCL-2021-09","Flex-Hurricane-Season FY2021",success,2,0
+1265,1265,OCS,"LIHEAP-DCL-2020-01","American Customer Satisfaction Index Survey on LIHEAP T&TA",success,1,0
+1266,1266,OCS,"LIHEAP-DCL-2020-02","LIHEAP DCL Funding Release FY 2020",success,2,0
+1267,1267,OCS,"LIHEAP-DCL-2020-03","FY 2020 Compliance Review Monitoring Schedule",success,1,0
+1268,1268,OCS,"LIHEAP-DCL-2020-04","FY 2020 Second Funding Release",success,3,0
+1269,1269,OCS,"LIHEAP-DCL-2020-08","LIHEAP DCL Third Funding Release FY 2020",success,3,0
+1270,1270,OCS,"LIHEAP-DCL-2020-10","CARES Act Supplemental Funding FY2020",success,5,1
+1271,1271,OCS,"LIHEAP-DCL-2020-12","LIHEAP DCL 2020-12 Reallotment of Federal Fiscal Year (FFY) 2019 Funds",success,3,0
+1272,1272,OCS,"LIHEAP-DCL-2020-05","DCL Partnership to Address the Spread of COVID-19",success,3,8
+1273,1273,OCS,"LIHEAP-DCL-2020-06","ACF Grant Flexibilities in Conducting Human Service Activities Related to or Aff",success,3,0
+1274,1274,OCS,"LIHEAP-DCL-2020-07","Initial COVID-19 Program Guidance",success,2,7
+1275,1275,OCS,"","Invitation to comment on the Council on Economic Mobility’s Request for Informat",failed,0,1
+1276,1276,OCS,"","FY 2019 Regular Block Grant Funding Release",success,2,0
+1277,1277,OCS,"","FY 2019 Compliance Review Monitoring Schedule",success,1,0
+1278,1278,OCS,"LIHEAP-DCL-2019-03","New Format and Defined Use for OCS’ ATs, DCLs, and IMs",success,1,0
+1279,1279,OCS,"LIHEAP-DCL-2019-04","2019 LIHEAP Training Meeting",success,3,0
+1280,1280,OCS,"","FY 2018 Funding Release",success,3,1
+1281,1281,OCS,"","Tribal Training through Tribal Tech, LLC",no_documents,0,0
+1282,1282,OCS,"","2018 National LIHEAP Training Meeting",no_documents,0,0
+1283,1283,OCS,"","FY 2018 Second and Final LIHEAP Funding Release",success,2,0
+1284,1284,OCS,"","Release of Preliminary FFY 2016 and FFY 2015 LIHEAP Data",no_documents,0,0
+1285,1285,OCS,"","Reallotment of FY 2017 LIHEAP Funding",success,2,0
+1286,1286,OCS,"","Annual Tribal Consultation Meeting",success,1,0
+1287,1287,OCS,"","Release of Approximately $3.09 Billion of Regular Block Grant Funding FY 2017",success,2,0
+1288,1288,OCS,"","Webinar Behind on Bills Financial Coaching Tool",no_documents,0,0
+1289,1289,OCS,"","2017 OCS National Grantee Training Meeting",no_documents,0,0
+1290,1290,OCS,"","Announcement of the Public Launch of the Performance Management Website",no_documents,0,0
+1291,1291,OCS,"","FY 2017 Second/Final LIHEAP Funding Release",success,2,0
+1292,1292,OCS,"","Release of Reallotment Funds from FY 2016",failed,0,1
+1293,1293,OCS,"","Reallotment of FY 2014 LIHEAP Funds",success,2,0
+1294,1294,OCS,"","FY 2016 Funding Release",success,2,0
+1295,1295,OCS,"","2015 Native Heritage Youth Empowerment",no_documents,0,0
+1296,1296,OCS,"","LIHEAP DCL Extension to the A-87 Cost Allocation Exception",success,2,0
+1297,1297,OCS,"","Grantee Participation at a 2016 LIHEAP Regional Conference Strongly Encouraged",no_documents,0,0
+1298,1298,OCS,"","Affordable Care Act Study",failed,0,1
+1299,1299,OCS,"","Webinar on HHS Online Community Services",no_documents,0,0
+1300,1300,OCS,"","Second FY 2016 LIHEAP Funding Release",success,2,0
+1301,1301,OCS,"","Extreme Heat Week Resources May 23-27th",success,1,0
+1302,1302,OCS,"","LIHEAP Grantee Training and Technical Assistance",no_documents,0,0
+1303,1303,OCS,"","Free Financial Capability Integration Technical Assistance Opportunity",no_documents,0,0
+1304,1304,OCS,"","Summer 2016 Heat Wave and LIHEAP Assistance",success,1,0
+1305,1305,OCS,"","Recent Zika Virus Outbreak",success,1,2
+1306,1306,OCS,"","LIHEAP FY 2016 Third Funding Release and Anticipated Reallotment",success,4,0
+1307,1307,OCS,"","Update on the Status of Reallotment Award Letters for FY 2015",no_documents,0,0
+1308,1308,OCS,"","Reallotment of FY 2015 Funds into FY 2016",success,2,0
+1309,1309,OCS,"","Webinar on "Behind on Bills",no_documents,0,0
+1310,1310,OCS,"","Deadlines Postponed for Some FY 2015 LIHEAP Reports",no_documents,0,0
+1311,1311,OCS,"","2015 LIHEAP Funding Release",success,4,0
+1312,1312,OCS,"","New DEA Staff",no_documents,0,0
+1313,1313,OCS,"","Information and Resources Related to Financial Capability",no_documents,0,0
+1314,1314,OCS,"","FY 2016 Budget",success,1,0
+1315,1315,OCS,"","Grantee Mentoring Program",success,2,0
+1316,1316,OCS,"","2015 Grantee Training Meeting",no_documents,0,0
+1317,1317,OCS,"","FY 2015 Second LIHEAP Funding Release",success,3,0
+1318,1318,OCS,"","Reminder of Deadline for Final LIHEAP Household Report Data for FFY 2014",no_documents,0,0
+1319,1319,OCS,"","LIHEAP Tribal Webinars",no_documents,0,0
+1320,1320,OCS,"","OMB Clearance of New LIHEAP Performance Measures and Upcoming Webinars on Federa",no_documents,0,0
+1321,1321,OCS,"","Affordable Care Act Outreach and Open Enrollment",no_documents,0,0
+1322,1322,OCS,"","Family Violence Awareness Month in October",success,1,1
+1323,1323,OCS,"","Release of Approximately $3.05 Billion of Regular Block Grant Funding for FY 201",no_documents,0,0
+1324,1324,OCS,"","LIHEAP Contracts Awarded in September 2014",no_documents,0,0
+1325,1325,OCS,"","LIHEAP Plan and OLDC Updates",no_documents,0,0
+1326,1326,OCS,"","Two-Year Anniversary of the American Rescue Plan Act",failed,0,1
+1327,1327,OCS,"OCS-DCL-2022-04","OCS DCL-2022-04 Resources to Assist Older Adults and People with Disabilities in",success,4,0
+1328,1328,OCS,"","One-Year Anniversary of the American Rescue Plan Act Observance",failed,0,1
+1329,1329,OCS,"","Reallotment of FY 2013 LIHEAP Funds",no_documents,0,0
+1330,1330,OCS,"","Release of Research Brief on Energy Assistance Funding Applications",no_documents,0,0
+1331,1331,OCS,"","Final FY 2014 LIHEAP Budget",success,2,0
+1332,1332,OCS,"","Announcement of the National Energy Assistance Directors Association (NEADA) Web",no_documents,0,0
+1333,1333,OCS,"","Webinar on Preparing for a Federal LIHEAP Monitoring Review",no_documents,0,0
+1334,1334,OCS,"","LIHEAP Public Comment Open on LIHEAP Activities",success,1,0
+1335,1335,OCS,"","FY 2014 Appropriation Release of LIHEAP Regular Block Grant Funds",success,2,0
+1336,1336,OCS,"","State LIHEAP Grantee Needs Assessment on Third-Party Verification and Data Colle",no_documents,0,0
+1337,1337,OCS,"","LIHEAP Grantee Participation at a 2014 LIHEAP Regional Training Workshop Strongl",no_documents,0,0
+1338,1338,OCS,"","Revisions to the Proposed New LIHEAP Performance Measures",success,2,0
+1339,1339,OCS,"","Reminder of Deadline for Final FFY 2013 Household Report Data",no_documents,0,0
+1340,1340,OCS,"","FY 2014 LIHEAP Allocation for Territories",no_documents,0,0
+1341,1341,OCS,"","Initial FY 2014 Funding Release",no_documents,0,0
+1342,1342,OCS,"","LIHEAP Federal Regulations at 45 C.F.R. § 96.49 for Tribal Grantees",no_documents,0,0
+1343,1343,OCS,"","LIHEAP Federal Regulations at 45 C.F.R. § 96.49 for State and Territory Grantees",no_documents,0,0
+1344,1344,OCS,"","CR Notice regarding the LIHEAP Leveraging Incentive Program",no_documents,0,0
+1345,1345,OCS,"","The Office of Community Services awarded four new contracts that will help suppo",no_documents,0,0
+1346,1346,OCS,"","LIHEAP DCL Clearinghouse Report Outlining Recommendations for Improving Program ",no_documents,0,0
+1347,1347,OCS,"","LIHEAP DCL Four Contract Solicitations",no_documents,0,0
+1348,1348,OCS,"","LIHEAP Disaster Relief and Outreach in the Wake of Recent Storms and Power Outag",no_documents,0,0
+1349,1349,OCS,"","LIHEAP DCL About an Upcoming GAO Request",no_documents,0,0
+1350,1350,OCS,"","Teleconference/Webinar for Tribal and Territory Grantees on Plan Requirements fo",success,2,0
+1351,1351,OCS,"","Best Practice Exchange in Building an Effective Relationship with the Social Sec",success,4,0
+1352,1352,OCS,"","LIHEAP Block Grant Funds for FY 2012,",no_documents,0,0
+1353,1353,OCS,"","Release of LIHEAP Funds,",no_documents,0,0
+1354,1354,OCS,"","Additional LIHEAP funds,",success,1,0
+1355,1355,OCS,"","LIHEAP DCL First Quarter Funds Under the Continuing Resolution",no_documents,0,0
+1356,1356,OCS,"","New LIHEAP Policy Manual and Webinar for Tribal Grantees,",success,1,0
+1357,1357,OCS,"","New LIHEAP Policy Manual and Webinar for State Grantees,",success,1,0
+1358,1358,OCS,"","Status of FY 2012 LIHEAP Funding,",no_documents,0,0
+1359,1359,OCS,"ACF-OCS-LIHEAP-IM-2025-01","LIHEAP Compliance Monitoring Process Overview and Trends",success,1,0
+1360,1360,OCS,"ACF-OCS-LIHEAP-IM-2025-02","Federal Poverty Guidelines (FPG) and State Median Income (SMI) Estimates for LIH",success,6,0
+1361,1361,OCS,"ACF-OCS-LIHEAP-IM-2024-01","ACF-OCS-LIHEAP-IM-2024-01 Compliance Monitoring Process Overview and Trends",success,1,0
+1362,1362,OCS,"ACF-OCS-LIHEAP-IM-2024-02","Federal Poverty Guidelines and State Median Income Estimates for Optional Use in",success,6,0
+1363,1363,OCS,"ACF-OCS-LIHEAP-IM-24-03","Changes to LIHEAP Eligibility for Citizens of Countries Governed by the Compacts",success,2,0
+1364,1364,OCS,"ACF-OCS-LIHEAP-IM-2024-04","LIHEAP Obligations, Expenditures, and Refunds",success,3,0
+1365,1365,OCS,"LIHEAP-IM-2023-01","Federal Poverty Guidelines for Optional Use in Federal Fiscal Year (FFY) 2023 LI",success,4,0
+1366,1366,OCS,"LIHEAP-IM-2023-02","State Median Income Estimates for Optional Use in Federal Fiscal Year (FFY) 2023",success,2,0
+1367,1367,OCS,"LIHEAP-IM-2023-03","LIHEAP Assistance for Eligible Household Members Residing with Ineligible Househ",success,1,0
+1368,1368,OCS,"","Community Solar and LIHEAP Considerations",failed,0,1
+1369,1369,OCS,"LIHEAP-IM-2022-01","LIHEAP Coordination with ERA During Winter FY 2022",success,4,0
+1370,1370,OCS,"LIHEAP-IM-2022-02","LIHEAP IM-2022-02 Expenditures FY2022",success,1,0
+1371,1371,OCS,"LIHEAP-IM-2022-03","Federal Poverty Guidelines for Optional Use in Federal Fiscal Year (FFY) 2022 LI",success,4,0
+1372,1372,OCS,"LIHEAP-IM-2022-04","State Median Income Estimates for Optional Use in Federal Fiscal Year (FFY) 2022",success,2,0
+1373,1373,OCS,"LIHEAP-IM-2022-05","LIHEAP IM-2022-05 CARES Act and ARP Act Funds: Obligation and Drawdown Plan",no_documents,0,0
+1374,1374,OCS,"","LIHEAP IM-2022-06 Heat Stress Flexibilities and Resources FY2022",failed,0,1
+1375,1375,OCS,"LIHEAP-IM-2022-07","Funds Appropriated in the American Rescue Plan Act of 2021",success,4,0
+1376,1376,OCS,"","Heat Stress Flexibilities and Resources",failed,0,1
+1377,1377,OCS,"LIHEAP-IM-2021-02","Federal Poverty Guidelines for Optional Use in Federal Fiscal Year (FFY) 2021 LI",success,5,0
+1378,1378,OCS,"LIHEAP-IM-2021-03","State Median Income Estimates for Optional Use in Federal Fiscal Year (FY) 2021 ",success,2,0
+1379,1379,OCS,"LIHEAP-IM-2020-01","LIHEAP IM-2020-01 HHS Poverty Guidelines for Optional Use in FFY 2020 and Mandat",success,4,0
+1380,1380,OCS,"LIHEAP-IM-2020-02","LIHEAP IM-2020-02 State Median Income Estimates for Optional Use in FFY 2020 and",success,2,0
+1381,1381,OCS,"LIHEAP-IM-2019-01","HHS Poverty Guidelines for Optional Use in Federal Fiscal Year (FFY) 2019 LIHEAP",success,1,0
+1382,1382,OCS,"LIHEAP-IM-2019-02","State Median Income Estimates for Optional Use in Federal Fiscal Year 2019 LIHEA",success,1,0
+1383,1383,OCS,"LIHEAP-IM-2018-01","LIHEAP Compliance Review Monitoring Schedule: FY 2018",no_documents,0,0
+1384,1384,OCS,"LIHEAP-IM-2018-02","HHS Poverty Guidelines for Optional Use in Federal Fiscal Year (FFY) 2018 LIHEAP",success,2,0
+1385,1385,OCS,"LIHEAP-IM-2018-03","State Median Income Estimates for Optional Use in Federal Fiscal Year 2018 LIHEA",no_documents,0,0
+1386,1386,OCS,"LIHEAP-IM-2017-01","LIHEAP Compliance Review Monitoring Schedule: FY 2017",no_documents,0,0
+1387,1387,OCS,"LIHEAP-IM-2017-02","HHS Poverty Guidelines for Optional Use in FY 2017 and Mandatory Use in FY 2018 ",success,3,0
+1388,1388,OCS,"LIHEAP-IM-2017-03","State Median Income Estimates for Optional Use in Federal Fiscal Year 2017 LIHEA",success,1,0
+1389,1389,OCS,"LIHEAP-IM-2016-01","LIHEAP Compliance Review Monitoring Schedule: FY 2016",success,1,0
+1390,1390,OCS,"LIHEAP-IM-2016-02","Department of Health and Human Services (HHS) Poverty Guidelines for Optional Us",success,3,0
+1391,1391,OCS,"LIHEAP-IM-2016-03","State Median Income Estimates for Optional Use in Federal Fiscal Year 2016 LIHEA",no_documents,0,0
+1392,1392,OCS,"LIHEAP-IM-2014-07","HHS Guidance on the Use of Social Security Numbers (SSNs) and Citizenship Status",success,3,0
+1393,1393,OCS,"LIHEAP-IM-2015-02","LIHEAP Compliance Review Monitoring Schedule: FY 2015",no_documents,0,0
+1394,1394,OCS,"LIHEAP-IM-2015-03","HHS Poverty Guidelines for Optional Use in Federal Fiscal Year (FFY) 2015 and Ma",success,1,0
+1395,1395,OCS,"LIHEAP-IM-2015-04","Applicability of the Office of Management and Budget (OMB) Uniform Administrativ",no_documents,0,0
+1396,1396,OCS,"LIHEAP-IM-2014-1","LIHEAP Compliance Review Monitoring Schedule: FY 2014",no_documents,0,0
+1397,1397,OCS,"LIHEAP-IM-2014-2","Common Findings from Compliance Reviews Conducted in FY 2011, FY 2012, and FY 20",no_documents,0,0
+1398,1398,OCS,"LIHEAP-IM-2014-3","Best Practices Identified During Compliance Reviews Conducted in FY 2011, FY 201",success,2,0
+1399,1399,OCS,"LIHEAP-IM-2014-04","American Community Survey Tabulation of LIHEAP Income-eligible Households",success,3,0
+1400,1400,OCS,"LIHEAP-IM-2014-05","State Median Income Estimates for Optional Use in Federal Fiscal Year 2014 LIHEA",success,1,0
+1401,1401,OCS,"LIHEAP-IM-2014-06","HHS Poverty Guidelines for Optional Use in FY 2014 LIHEAP Programs and Mandatory",success,1,0
+1402,1402,OCS,"LIHEAP-IM-2013-01","Model Plan Application for LIHEAP Funding for Fiscal Year (FY) 2014 (All Applica",success,3,2
+1403,1403,OCS,"LIHEAP-IM-2013-02","HHS Poverty Guidelines for Optional Use in FFY 2013 Federal Energy Assistance Pr",success,2,0
+1404,1404,OCS,"LIHEAP-IM-2013-03","State Median Income Estimates for Optional Use in Federal Fiscal Year 2013 LIHEA",no_documents,0,0
+1405,1405,OCS,"LIHEAP-IM-2012-01","Low Income Home Energy Assistance Program Report to Congress for Fiscal Year 200",success,2,0
+1406,1406,OCS,"LIHEAP-IM-2012-02","Update to the LIHEAP Allocation Formula for Federal Fiscal Year (FFY) 2012",success,3,1
+1407,1407,OCS,"LIHEAP-IM-2012-03","State-Level Recipiency Targeting Indexes for Elderly and Young Child Households ",failed,0,4
+1408,1408,OCS,"LIHEAP-IM-2012-04","U.S. Department of Health and Human Services (HHS) Poverty Guidelines for Option",success,2,0
+1409,1409,OCS,"LIHEAP-IM-2012-05","Model Plan Application for LIHEAP Funding for Fiscal Year (FY) 2013 (All Applica",success,5,0
+1410,1410,OCS,"LIHEAP-IM-2012-06","State Median Income Estimates for Optional Use in Federal Fiscal Year 2012 LIHEA",success,2,0
+1411,1411,OCS,"LIHEAP-IM-2012-7","Grant Awards for the FY 2012 Residential Energy Assistance Challenge Program (RE",no_documents,0,0
+1412,1412,OCS,"LIHEAP-IM-2012-8","Grant Awards for the FY 2012 Leveraging Incentive Program",success,1,0
+1413,1413,OCS,"LIHEAP-IM-2011-01","LIHEAP Allocations from the FY 2010 Energy Emergency Contingency Fund - $101 MIL",no_documents,0,0
+1414,1414,OCS,"LIHEAP-IM-2011-02","Treatment of Per Capita Payments",no_documents,0,0
+1415,1415,OCS,"LIHEAP-IM-2011-03","Tax Refunds Disregarded as Income Per the Tax Relief, Unemployment Insurance Rea",no_documents,0,0
+1416,1416,OCS,"LIHEAP-IM-2011-04","Three Year LIHEAP Compliance Review Monitoring Schedule: FY 2011 through FY 2013",no_documents,0,0
+1417,1417,OCS,"LIHEAP-IM-2011-05","Staff Assignments for the Division of Energy Assistance",failed,0,1
+1418,1418,OCS,"","Low Income Home Energy Assistance Program Report to Congress for Fiscal Year 200",no_documents,0,0
+1419,1419,OCS,"LIHEAP-IM-2011-07","Model Plan and Program Integrity Assessment Application for LIHEAP Funding for F",failed,0,1
+1420,1420,OCS,"LIHEAP-IM-2011-08","Federal Poverty Guidelines for Optional Use in federal Fiscal Year 2011 LIHEAP P",failed,0,1
+1421,1421,OCS,"LIHEAP-IM-2011-09","State Median Income Estimates for Optional Use in Federal Fiscal Year 2011 LIHEA",failed,0,1
+1422,1422,OCS,"LIHEAP-IM-2011-10","Tips From the Centers for Disease Control on How to Prevent Heat-Related Illness",failed,0,1
+1423,1423,OCS,"LIHEAP-IM-2011-11","Update on the New LIHEAP Performance Measures and Upcoming Webinars",failed,0,1
+1424,1424,OCS,"LIHEAP-IM-2011-12","FY 2011 Low Income Home Energy Assistance Program Appropriations",no_documents,0,0
+1425,1425,OCS,"LIHEAP-IM-2011-13","LIHEAP Allocations of FY 2011 Emergency Contingency Funds - $200 MILLION DISTRUB",no_documents,0,0
+1426,1426,OCS,"LIHEAP-IM-2010-1","Treatment of Making Work Pay (MWP), Other Tax Credits and Refunds when Determini",failed,0,2
+1427,1427,OCS,"LIHEAP-IM-2010-2","Three Year LIHEAP Compliance Review Monitoring Schedule: FY 2010 through FY 2012",no_documents,0,0
+1428,1428,OCS,"LIHEAP-IM-2010-3","LIHEAP Appropriations and Regular Block Grant Allocations for Fiscal Year (FY) 2",no_documents,0,0
+1429,1429,OCS,"LIHEAP-IM-2010-4","LIHEAP Allocations from the FY 2010 Energy Emergency Contingency Fund - $490 MIL",no_documents,0,0
+1430,1430,OCS,"LIHEAP-IM-2010-5","Model Plan Application for LIHEAP Funding for Fiscal Year (FY) 2011 (All Applica",no_documents,0,0
+1431,1431,OCS,"LIHEAP-IM-2010-6","States are Strongly Encouraged to Exercise their Discretion to Require Social Se",no_documents,0,0
+1432,1432,OCS,"LIHEAP-IM-2010-7","Exclusions from Income when Determining LIHEAP Eligibility",failed,0,2
+1433,1433,OCS,"LIHEAP-IM-2010-8","Staffing Changes in the Division of Energy Assistance",no_documents,0,0
+1434,1434,OCS,"LIHEAP-IM-2010-9","State Median Income Estimates for Optional Use in Federal Fiscal Year 2010 LIHEA",no_documents,0,0
+1435,1435,OCS,"LIHEAP-IM-2010-10","Awards of FY 2010 LIHEAP Leveraging Incentive Grants",success,2,0
+1436,1436,OCS,"LIHEAP-IM-2010-11","Availability of LIHEAP Home Energy Notebook for Fiscal Year 2008",success,1,0
+1437,1437,OCS,"LIHEAP-IM-2010-12","Awards of FY 2010 REACH Grants",success,1,0
+1438,1438,OCS,"LIHEAP-IM-2010-13","Use of LIHEAP Funds Coordinated with Vendor Assistance Programs",no_documents,0,0
+1439,1439,OCS,"LIHEAP-IM-2010-14","Data on State-Level Recipiency Targeting Indexes and Rankings for Elderly and Yo",failed,0,5
+1440,1440,OCS,"LIHEAP-IM-2010-15","Update to the LIHEAP Allocation Formula",failed,0,5
+1441,1441,OCS,"","LIHEAP Grantee Resource Guide",success,26,12
+1442,1442,OCS,"","Frequently Asked Questions",no_documents,0,0
+1443,1443,OCS,"","Grant Recipients Deadlines",no_documents,0,0
+1444,1444,OCS,"","Eligibility Criteria",failed,0,1
+1445,1445,OCS,"","Instructions - for the Household Report - Long Form",success,1,0
+1446,1446,OCS,"","Instructions - for the Household Report - Short Form",success,1,0
+1447,1447,OCS,"","Instructions - for the Carryover and Reallotment Report",success,1,0
+1448,1448,OCS,"","Instructions - for the Performance Data Form",success,1,0
+1449,1449,OCS,"","Instructions - for the Quarterly Performance and Management Report",success,1,0
+1450,1450,OCS,"","Supplemental Terms and Conditions",success,1,0
+1451,1451,OCS,"LIHEAP-IM-2000-12","LIHEAP IM 2000-12 Costs for Planning and Administration - Updated Information",no_documents,0,0
+1452,1452,OCS,"LIHEAP IM 2003-5","Disregard of Monetary Allowances for Certain Children of Vietnam War Veterans",no_documents,0,0
+1453,1453,OCS,"LIHEAP IM 97-25",""Federal Means-Tested Public Benefits" Under the Welfare Reform Law",failed,0,1
+1454,1454,OCS,"LIHEAP IM 1999-10","Federal Public Benefits Under the Welfare Reform Law--Revised Guidance",success,1,0
+1455,1455,OCS,"LIHEAP IM 1998-25","Interpretation of "Federal Public Benefits" Under the Welfare Reform Law",success,1,0
+1456,1456,OCS,"LIHEAP-IM-2001-15","Lead Paint Hazard Control and Weatherization",no_documents,0,0
+1457,1457,OCS,"","LIHEAP Disaster Relief",no_documents,0,0
+1458,1458,OCS,"LIHEAP IM 1999-11","Optional Use of DOE Weatherization Rules for LIHEAP Funds Spent on Weatherizatio",no_documents,0,0
+1459,1459,OCS,"LIHEAP-IM-2001-2","Serving Persons with Limited English Proficiency",failed,0,1
+1460,1460,OCS,"LIHEAP IM 1997-9","U.S. Citizenship Requirements",no_documents,0,0
+1461,1461,OCS,"LIHEAP IM 2001-13","Uses of LIHEAP Funds",no_documents,0,0
+1462,1462,OCS,"FSA-lM-91_19","Use of Other Federal Funds for Costs Related to LIHEAP Administration",success,1,0
+1463,1463,OCS,"FSA- IM-91-8","LIHEAP Administrative Costs",success,1,0
+1464,1464,OCS,"","LIHEAP FAQs for Consumers",failed,0,1
+1465,1465,OCS,"","LIHEAP FAQs for Professionals",no_documents,0,0
+1466,1466,OCS,"","LIHEAP Resource Guide for Finding Energy Assistance",no_documents,0,0
+1467,1467,OCS,"","LIHEAP Resource Guide on Indoor Health and Safety",failed,0,3
+1468,1468,OCS,"","LIHEAP DCL Announcing a Supervisory Auditor Position",success,1,0
+1469,1469,OCS,"","Partnership to Address COVID-19 Spread",success,2,8
+1470,1470,OCS,"","LIHEAP DCL Reallotment Funds FY 2015",success,3,0
+1471,1471,OCS,"","LIHEAP Resource Guide Winter Preparedness Information",failed,0,1
+1472,1472,OCS,"","LIHEAP DCL Initial CR Release of Block Grant Funds to Indian Tribes and Tribal O",success,1,0
+1473,1473,OCS,"","LIHEAP Attachment DCL Initial CR Release of Block Grant Funds FY 2014",success,1,0
+1474,1474,OCS,"","LIHEAP Fact Sheet for FY 2014",no_documents,0,0
+1475,1475,OCS,"","LIHEAP DCL Grantee Needs Assessment",success,1,0
+1476,1476,OCS,"","LIHEAP DCL Webinar on Electronic Submission of the Carryover Report",no_documents,0,0
+1477,1477,OCS,"","LIHEAP DCL Release of $187.4 Million to States",no_documents,0,0
+1478,1478,OCS,"","LIHEAP DCL of 3rd Quarter Allocation Update",no_documents,0,0
+1479,1479,OCS,"","LIHEAP DCL Follow-up Announcement of the American Customer Satisfaction Index",no_documents,0,0
+1480,1480,OCS,"","LIHEAP DCL Budget Update FY 2013",no_documents,0,0
+1481,1481,OCS,"","LIHEAP DCL Training and Technical Assistance Meeting in San Diego, CA",no_documents,0,0
+1482,1482,OCS,"","LIHEAP DCL Sequestration Update",no_documents,0,0
+1483,1483,OCS,"","LIHEAP DCL ACSI Survey Result for CSBG and LIHEAP",no_documents,0,0
+1484,1484,OCS,"","LIHEAP DCL Allocations under the Current Continuing Resolution FY 2013",no_documents,0,0
+1485,1485,OCS,"","LIHEAP DCL Customer Service Feedback",no_documents,0,0
+1486,1486,OCS,"","LIHEAP DCL The Affordable Care Act",success,1,0
+1487,1487,OCS,"","LIHEAP DCL Federal Register Notice Announcing Approximately $3.1 Million of Real",success,1,0
+1488,1488,OCS,"","LIHEAP DCL Clearinghouse Program Integrity Working Group Report",failed,0,1
+1489,1489,OCS,"","LIHEAP DCL Request for Proposals",no_documents,0,0
+1490,1490,OCS,"","LIHEAP Income Eligibility Guidelines",no_documents,0,0
+1491,1491,OCS,"LIHEAP-IM-2012-05","LIHEAP IM 2012-5 Model Plan Application FY 2013",no_documents,0,0
+1492,1492,OCS,"","LIHEAP Policy Manual",success,1,0
+1493,1493,OCS,"LIHEAP-IM-2011-13","LIHEAP IM 2011-13 Emergency Contingency Funds FY 2011",no_documents,0,0
+1494,1494,OCS,"LIHEAP-IM-2011-11","LIHEAP IM 2011-11 Update on the New LIHEAP Performance Measures and Webinars",no_documents,0,0
+1495,1495,OCS,"LIHEAP-AT-2011-04","LIHEAP AT 2011-4 Application Requirements and Deadline for All Applications FY 2",failed,0,5
+1496,1496,OCS,"LIHEAP-IM-2011-08","LIHEAP IM 2011-8 Federal Poverty Guidelines for Optional Use in FY 2011",failed,0,1
+1497,1497,OCS,"LIHEAP-IM-2011-07","LIHEAP IM 2011-07 Model Plan and Program Integrity Assessment Application FY 201",no_documents,0,0
+1498,1498,OCS,"LIHEAP-IM-2011-05","LIHEAP IM 2011-5 DEA Staff Assignments",no_documents,0,0
+1499,1499,OCS,"LIHEAP-IM-2011-06","LIHEAP IM 2011-6 Report to Congress FY 2007",failed,0,2
+1500,1500,OCS,"LIHEAP-IM-2011-06","LIHEAP IM 2011-6 Publication of Report to Congress FY 2007",failed,0,2
+1501,1501,OCS,"LIHEAP-AT-2011-02","LIHEAP AT 2011-2 Financial Reporting Requirement for All Grantees SF 269A Report",success,2,1
+1502,1502,OCS,"LIHEAP-IM-2010-13","LIHEAP IM 2010-13 Use of LIHEAP Funds Coordinated with Vendor Assistance Program",no_documents,0,0
+1503,1503,OCS,"LIHEAP-AT-2010-8","LIHEAP AT 2010-8 Carryover and Reallotment Report FY 2010",no_documents,0,0
+1504,1504,OCS,"LIHEAP-AT-2010-7","LIHEAP AT 2010-7 State Household Administrative Data FY 2010",no_documents,0,0
+1505,1505,OCS,"LIHEAP-AT-2010-3","LIHEAP AT 2010-3 Request for Applications for the Residential FY 2010",no_documents,0,0
+1506,1506,OCSE,"ACF-OCSS-AT-25-02","OCSE-75 Form and Instructions – Expires June 30, 2028",success,2,0
+1507,1507,OCSE,"ACF-OCSS-AT-25-01","Submittal of SF-424 Mandatory Form for FY 2026",success,1,0
+1508,1508,OCSE,"ACF-OCSS-AT-24-11","Revised OCSS-396 and OCSS-34 Forms —expire June 30, 2027",success,5,0
+1509,1509,OCSE,"ACF-OCSS-AT-24-10","Amended Guidance for SNAP-Only Cases on Federal Reporting Forms",success,1,0
+1510,1510,OCSE,"ACF-OCSS-AT-24-09","Revision to Tribal Direct Funding Request: 45 CFR 309 Plan",success,2,0
+1511,1511,OCSE,"ACF-OCSS-AT-24-08","SNAP-Only Cases on Federal Reporting Forms",success,1,0
+1512,1512,OCSE,"ACF-OCSS-AT-24-07","Administrative Subpoena and Notice of Lien Forms - Expire April 30, 2027",success,3,0
+1513,1513,OCSE,"ACF-OCSS-AT-24-06","NPRM - Employment and Training Services for Noncustodial Parents in the Child Su",success,2,0
+1514,1514,OCSE,"ACF-OCSS-AT-24-05","Submittal of SF-424 Mandatory Form for FY 2025",success,1,0
+1515,1515,OCSE,"ACF-OCSS-AT-24-04","Updated Tribal Budget and Narrative Justification Templates - expire May 2026",success,4,0
+1516,1516,OCSE,"ACF-OCSS-AT-24-03","Final Rule: Modifications to Performance Standards During Natural Disasters and ",success,2,0
+1517,1517,OCSE,"ACF-OCSS-AT-24-02","Final Rule: Elimination of Tribal Non-Federal Share Requirement",success,2,0
+1518,1518,OCSE,"ACF-OCSS-AT-24-01","Required Data Elements for Paternity Establishment Affidavits – Expires Jan. 31,",success,2,2
+1519,1519,OCSE,"AT-23-14","2023 Open Comment Period - Tribal Child Support Direct Funding Request",success,2,0
+1520,1520,OCSE,"AT-23-13","Revised IWO Form and Instructions — Expire Aug. 31, 2026",success,2,0
+1521,1521,OCSE,"AT-23-10","Final Rule: Privacy Act; Implementation",success,2,0
+1522,1522,OCSE,"AT-23-09","NPRM - Modifications to Performance Standards During Natural Disasters and Other",success,2,0
+1523,1523,OCSE,"AT-23-08","Tribal Budget and Narrative Justification Templates – expire May 2026",success,3,0
+1524,1524,OCSE,"AT-23-07","State Plan Material – Expires May 31, 2026",success,4,0
+1525,1525,OCSE,"AT-23-05","NPRM - Elimination of Tribal Non-Federal Share Requirement: Comments due June 20",success,3,0
+1526,1526,OCSE,"AT-23-04","Tribal Direct Funding Request: 45 CFR 309 Plan",success,3,0
+1527,1527,OCSE,"AT-23-03","Hague Child Support Convention Forms – Expire March 31, 2026",success,3,0
+1528,1528,OCSE,"AT-23-02","Standard Intergovernmental Child Support Enforcement Forms – Expire Feb. 28, 202",success,2,0
+1529,1529,OCSE,"AT-23-01","Revised NMSN Parts A and B – Expire Nov. 30, 2025",success,3,0
+1530,1530,OCSE,"AT-22-05","Implementing Revised OCSE-157 Form and Instructions - FY 2023",success,3,0
+1531,1531,OCSE,"AT-22-03","Final Rule: Paternity Establishment Percentage Performance Relief",success,2,0
+1532,1532,OCSE,"AT-22-02","Implementing Revised OCSE-75 Form and Instructions - Effective FY 2023",success,2,0
+1533,1533,OCSE,"AT-22-01","Implementing Revised OCSE-396 and OCSE-34 Instructions",success,5,0
+1534,1534,OCSE,"AT-21-04","NPRM - Paternity Establishment Percentage Performance Relief",success,2,0
+1535,1535,OCSE,"AT-21-01","Required Data Elements for Paternity Establishment Affidavits – expires 1/31/202",success,2,2
+1536,1536,OCSE,"AT-20-16","Streamlined Feasibility Study for Child Support System Modernization",success,4,0
+1537,1537,OCSE,"AT-20-15","Final Rule: Regulatory Clean Up Initiative",success,2,0
+1538,1538,OCSE,"AT-20-14","Updated Interstate Child Support Policy",success,2,0
+1539,1539,OCSE,"AT-20-13","2020 Revisions to the IWO Form and Instructions",success,8,3
+1540,1540,OCSE,"AT-20-12","NPRM - Optional Exceptions to the Child Support Guidelines",success,2,0
+1541,1541,OCSE,"AT-20-08","Submit Revised State IV-D Plan Page 3.8-3 to Comply with Technical Corrections F",success,3,0
+1542,1542,OCSE,"AT-20-07","Final Rule: Child Support Technical Corrections",success,2,0
+1543,1543,OCSE,"AT-20-06","Delayed Implementation of Revised OCSE-157 Data Report– Oct. 1, 2021",success,3,0
+1544,1544,OCSE,"AT-20-05","Hague Child Support Convention Forms Renewal – Expire Feb. 28, 2023",success,2,0
+1545,1545,OCSE,"AT-20-04","Extension of the Tribal Annual Data Report, Form OCSE‑75 and Tribal Narrative",success,2,0
+1546,1546,OCSE,"AT-20-02","Resubmission of State Plan Cover Page and 3.16",success,3,0
+1547,1547,OCSE,"AT-20-01","Reinvesting Child Support Incentive Payments",success,2,1
+1548,1548,OCSE,"AT-19-07","Exemption Requests from Mandatory Laws and Procedures",success,2,2
+1549,1549,OCSE,"AT-19-06","Update to Revised Part A National Medical Support Notice and Instructions",success,1,0
+1550,1550,OCSE,"AT-19-05","Revised Part A National Medical Support Notice (NMSN) and Instructions",success,3,0
+1551,1551,OCSE,"AT-19-02","State Self-Assessment Report – Extended until April 30, 2022",success,1,0
+1552,1552,OCSE,"AT-18-09","NPRM: 2018 Child Support Technical Corrections",success,2,0
+1553,1553,OCSE,"AT-18-06","Compliance with Medical Support Final Rule Requirements",success,1,0
+1554,1554,OCSE,"AT-18-04","Availability of FFP for Making Arrests Pursuant to Appropriate State Process - U",success,1,0
+1555,1555,OCSE,"AT-18-02","Modernizing Child Support Enforcement Fees",success,2,0
+1556,1556,OCSE,"AT-18-01","Extension of OCSE-34 and OCSE-396 Forms - expire December 31, 2020",success,5,0
+1557,1557,OCSE,"AT-17-12","Base Year Level of Spending - Reminder",success,1,0
+1558,1558,OCSE,"AT-17-11","2017 Update, Automated Systems for Child Support Enforcement: A Guide for States",success,2,0
+1559,1559,OCSE,"AT-17-10","Extension of OCSE-157 Annual Data Report to July 2020",success,3,0
+1560,1560,OCSE,"AT-17-07","Interstate Child Support Payment Processing",success,2,0
+1561,1561,OCSE,"AT-17-06","OMB-approved Hague Child Support Convention Forms",success,5,0
+1562,1562,OCSE,"AT-17-05","Extension of Form OCSE-75 and Tribal Narrative",success,2,0
+1563,1563,OCSE,"AT-17-03","Revisions to and Resubmission of State IV-D Plan Pages to Comply with FEM",success,13,0
+1564,1564,OCSE,"AT-16-06","Final Rule: Flexibility, Efficiency, and Modernization in Child Support Enforcem",success,3,0
+1565,1565,OCSE,"AT-16-04","Correctly Withholding Child Support from Weekly and Biweekly Pay Cycles",success,1,0
+1566,1566,OCSE,"AT-16-03","Timeframe to Distribute Tax Offsets Referred for Fraud",success,1,0
+1567,1567,OCSE,"AT-15-02","Automated State Plan Submission and Review Process",success,4,0
+1568,1568,OCSE,"AT-14-13","NPRM: Flexibility, Efficiency, and Modernization in Child Support Enforcement Pr",success,2,0
+1569,1569,OCSE,"AT-14-12","E-IWO Implementation and Amendment of Title IV-D State Plan Preprint Page 3.8-3",success,3,0
+1570,1570,OCSE,"AT-14-11","P.L. 113-183 UIFSA 2008 Enactment",success,1,0
+1571,1571,OCSE,"AT-14-08","H.R. 4980: Preventing Sex Trafficking and Strengthening Families Act of 2014",success,3,0
+1572,1572,OCSE,"AT-14-07","Notice of SF-424M Annual Submission Requirement",success,3,0
+1573,1573,OCSE,"AT-13-04","Tribal Advance Planning Document (APD) Process and Model Tribal System (MTS) Fre",success,2,0
+1574,1574,OCSE,"AT-12-01","Turner v. Rogers Guidance",success,1,1
+1575,1575,OCSE,"AT-11-12","Reporting Adoptions on the OCSE-157 Child Support Enforcement Annual Data Report",success,1,0
+1576,1576,OCSE,"AT-11-10","Notice of Changes to the OCSE-157 Form regarding Medical Support",success,3,0
+1577,1577,OCSE,"AT-11-01","Project Save Our Children (PSOC) Procedures",success,4,0
+1578,1578,OCSE,"AT-10-12","Final Rule: Safeguarding Child Support Information",success,2,0
+1579,1579,OCSE,"AT-10-11","Alternative Methods to Meet the Monthly Notification Requirement",success,1,0
+1580,1580,OCSE,"AT-10-09","Final Rule: State Systems Advance Planning Document Process",success,2,0
+1581,1581,OCSE,"AT-10-06","Final Rule: Intergovernmental Child Support",success,2,0
+1582,1582,OCSE,"AT-10-05","Continuation of the Annual State Self-Assessment Review and Report",success,1,0
+1583,1583,OCSE,"AT-10-04","Collection and Enforcement of Past-Due Child Support Obligations",success,2,0
+1584,1584,OCSE,"AT-10-03","NPRM: Safeguarding Child Support Information",success,2,0
+1585,1585,OCSE,"AT-10-01","Final Rule: Computerized Tribal IV-D Systems and Office Automation",success,2,0
+1586,1586,OCSE,"AT-08-13","Final Rule on the Child Support Provisions in the Deficit Reduction Act of 2005",success,2,0
+1587,1587,OCSE,"AT-08-12","NPRM: Child Support Enforcement Program; Intergovernmental Child Support",success,2,0
+1588,1588,OCSE,"AT-08-11","Final Rule: State Parent Locator Service; Safeguarding Child Support Information",success,3,0
+1589,1589,OCSE,"AT-08-08","Final Rule: Child Support Enforcement Program Medical Support",success,2,0
+1590,1590,OCSE,"AT-08-07","NPRM: Computerized Tribal IV-D Systems and Office Automation and Consultations",success,2,0
+1591,1591,OCSE,"AT-08-06","Implementing Section 466(a)(14) of the Social Security Act",success,2,0
+1592,1592,OCSE,"AT-08-03","NPRM: State Systems Advance Planning Document (APD) Process",success,2,0
+1593,1593,OCSE,"AT-07-05","Assignment and Distribution of Child Support Under Sections 408(a)(3) and 457 of",success,2,0
+1594,1594,OCSE,"AT-07-04","Recommended State Child Support Enforcement Program Self-Assessment Report Forma",success,2,0
+1595,1595,OCSE,"AT-07-02","Coordination between TANF and the CSE Programs Since the Deficit Reduction Act o",success,2,0
+1596,1596,OCSE,"AT-07-01","NPRM: Implementing Provisions of Title IV-D of the Social Security Act as Amende",success,2,0
+1597,1597,OCSE,"AT-06-06","Revisions in OCSE Financial Reporting Instructions for FY 2007",success,1,0
+1598,1598,OCSE,"AT-06-05","Issues Regarding Child Support Provisions of the New Federal Bankruptcy Law, P.L",success,4,0
+1599,1599,OCSE,"AT-06-04","NPRM: Child Support Enforcement Program Medical Support",success,2,0
+1600,1600,OCSE,"AT-06-03","Policy Clarifications of Automated Systems in Title IV-D Child Support Enforceme",success,1,0
+1601,1601,OCSE,"AT-06-02","Final Rule: Reasonable Quantitative Standards for Review and Adjustment of Child",success,2,0
+1602,1602,OCSE,"AT-06-01","Child Support Provision in the Deficit Reduction Act of 2005",success,2,0
+1603,1603,OCSE,"AT-05-10","NPRM: State Parent Locator Service; Safeguarding Child Support Information",success,2,0
+1604,1604,OCSE,"AT-05-09","Annual Data Report: Instructions for Completing the Revised OCSE-157 Form",success,1,0
+1605,1605,OCSE,"AT-05-07","Miscellaneous Issues regarding 45 CFR part 309, the Tribal Child Support Enforce",success,3,0
+1606,1606,OCSE,"AT-05-02","Final Rule: Tribal Child Support Program - Systems and Financial Policy Question",success,2,0
+1607,1607,OCSE,"AT-05-01","Interim Final Rule: Quantitative Standards for Review and Adjustment of Child Su",success,3,0
+1608,1608,OCSE,"AT-04-07","Schedule UDC, A Financial Reporting Form for Itemized Undistributed Collections",success,2,0
+1609,1609,OCSE,"AT-04-08","Final Rule: Federal Tax Refund Offset",success,2,0
+1610,1610,OCSE,"AT-04-01","Final Rule: Tribal Child Support Enforcement Programs",success,3,0
+1611,1611,OCSE,"AT-03-06","Requests for Information from the FPLS for Parental Kidnapping, Child Custody or",success,1,0
+1612,1612,OCSE,"AT-03-03","Submission of the Latest Security Review Findings and Determination of Complianc",success,2,0
+1613,1613,OCSE,"AT-03-02","Interim Final Rule with Comment Period – Federal Tax Refund Offset",success,2,0
+1614,1614,OCSE,"AT-03-01","Technical Corrections Final Rule",success,2,0
+1615,1615,OCSE,"","Providing FPLS Locate Services to an “Agent of the Child” for Child Support Purp",success,1,0
+1616,1616,OCSE,"AT-02-03","Applicability of the Full Faith and Credit for Child Support Orders Act to State",success,1,0
+1617,1617,OCSE,"AT-02-02","Requesting an Exemption from the Mandatory Law and Procedure in Section 466(f) o",success,1,0
+1618,1618,OCSE,"AT-01-11","Clarification of "Time Deposit Accounts" as Related to Financial Institution Dat",success,1,0
+1619,1619,OCSE,"AT-01-04","Reinvestment of Child Support Incentive Payments",success,1,0
+1620,1620,OCSE,"AT-01-02","Final Rule: National Medical Support Notice",success,3,0
+1621,1621,OCSE,"AT-01-01","Final Rule: Incentives, Penalties and Audit",success,2,0
+1622,1622,OCSE,"AT-00-09","Final Rule: State Self-Assessment",success,3,0
+1623,1623,OCSE,"AT-00-08","Questions and Responses Regarding Collaborative Efforts: IV-D Agencies and Agenc",success,1,0
+1624,1624,OCSE,"AT-00-06","NPRM and Interim Final Rule: Tribal Child Support Enforcement Programs",success,1,0
+1625,1625,OCSE,"AT-OSSP-00-01","Consideration of FFP in State System Acquisitions Without Prior Approval",success,2,0
+1626,1626,OCSE,"AT-99-13","NPRM: National Medical Support Notice",success,2,0
+1627,1627,OCSE,"AT-99-12","NPRM on Incentives, Penalties and Audit",success,1,0
+1628,1628,OCSE,"AT-99-10","Definition of "Assistance Paid to the Family" for Child Support Enforcement Coll",success,1,0
+1629,1629,OCSE,"AT-99-09","Policy Questions and Responses Regarding Requests for Information from the FPLS",success,1,0
+1630,1630,OCSE,"AT-99-08","Reduction in Penalty for States Failing to Meet Statewide Automated Systems Dead",success,1,0
+1631,1631,OCSE,"AT-99-07","Final Rule: Grants to States for Access and Visitation Programs",success,1,0
+1632,1632,OCSE,"AT-99-05","Policy Questions and Responses Regarding NDNH and SDNH",success,1,0
+1633,1633,OCSE,"AT-99-03","Distribution of Addendum to State Systems APD Guide for Child Support Enforcemen",success,1,0
+1634,1634,OCSE,"AT-99-04","Final Rule: Case Closure Criteria, 45 CFR Part 303",success,2,0
+1635,1635,OCSE,"AT-99-02","Final Rule: Implementing Part of the Paternity Establishment Provisions in PRWOR",success,2,0
+1636,1636,OCSE,"AT-99-01","Interim Final Rule - Conforming Child Support Enforcement Rules to PRWORA",success,2,0
+1637,1637,OCSE,"AT-98-27","PRWORA Requiring the Placement of a Family Violence Indicator",success,1,0
+1638,1638,OCSE,"AT-98-26","Final Rule: Standards for Program Operations - Program Automation",success,3,0
+1639,1639,OCSE,"AT-98-25","Final Rule: Allocation of 80 Percent Matching Funds",success,2,0
+1640,1640,OCSE,"AT-98-24","Instructions for the Distribution of Child Support, Definition of Assistance Pai",success,1,0
+1641,1641,OCSE,"AT-98-18","Final Rule: Standards for Program Operations - Quarterly Wage and Unemployment C",success,2,0
+1642,1642,OCSE,"AT-98-23","Alternative System Configuration - Implement Automation Provisions of CSPIA 1998",success,1,0
+1643,1643,OCSE,"AT-98-22","Alternative Penalty for States Which Fail to Implement Statewide Automated Syste",success,1,0
+1644,1644,OCSE,"AT-98-21","Cooperative Agreements between Indian Tribes and State IV-D Agencies",success,1,0
+1645,1645,OCSE,"AT-98-19","Payment Procedures to Recover Delinquent Child Support from Noncustodial Parents",success,1,0
+1646,1646,OCSE,"AT-98-20","Instructions for Completing Form OCSE-157, Child Support Enforcement Annual Data",success,2,0
+1647,1647,OCSE,"AT-98-15","Financial Distribution Test Deck Generator for Child Support Distributions under",success,1,0
+1648,1648,OCSE,"AT-98-13","Request for Comments on Automation Requirements under PRWORA",success,1,0
+1649,1649,OCSE,"AT-98-11","NPRM: PRWORA Child Support Enforcement Program Automation",success,1,0
+1650,1650,OCSE,"AT-98-10","Implementation of the "Hold Harmless" Provision to the State Share of Child Supp",success,1,0
+1651,1651,OCSE,"AT-98-09","NPRM: Automated Data Processing Funding Limitation for Child Support Enforcement",success,2,0
+1652,1652,OCSE,"AT-98-08","Policy Responses Regarding the State Case Registry and the Federal Case Registry",success,1,0
+1653,1653,OCSE,"AT-98-07","Financial Institution Data Match Requirements Under PRWORA",success,1,0
+1654,1654,OCSE,"AT-98-01","NPRM: Paternity Establishment Provisions Contained in Section 331 of PRWORA",success,1,0
+1655,1655,OCSE,"AT-97-18","NPRM: Reporting Quarterly Wage and Unemployment Compensation Claims Data to the ",success,2,0
+1656,1656,OCSE,"AT-97-17","Instructions for the Distribution of Child Support Under Section 457 of the Soci",success,1,0
+1657,1657,OCSE,"AT-97-13","Collection and Disbursement of Support Payments",success,1,0
+1658,1658,OCSE,"AT-97-10","Policy Questions and Responses to Miscellaneous Issues regarding PRWORA",success,1,0
+1659,1659,OCSE,"AT-97-09","Revisions to the Title IV-D State Plan Preprint, Due September 1997",success,1,0
+1660,1660,OCSE,"AT-97-08","Reduction in Federal Financial Participation (FFP) Rates for the Child Support E",success,1,0
+1661,1661,OCSE,"AT-97-05","Procedures for Determining That a State IV-D Plan is Disapproved",success,1,0
+1662,1662,OCSE,"AT-97-02","Requesting an Exemption from the Mandatory Laws and Procedures in Section 466 of",success,1,0
+1663,1663,OCSE,"AT-97-01","Recoupment of the Federal Share of Collections Made on Behalf of Children in Fos",success,1,0
+1664,1664,OCSE,"AT-96-10","Availability of Federal Financial Participation at an Enhanced Rate under PRWORA",success,1,0
+1665,1665,OCSE,"AT-96-09","Final Rule: Revisions for the President's Reform Initiative; Certified Statewide",success,2,0
+1666,1666,OCSE,"AT-96-08","Revision to the Title IV-D State Plan Preprint on Computerized Support Enforceme",success,1,0
+1667,1667,OCSE,"AT-96-06","Recoupment of the Federal Share of Collections and Payment of Child Support Ince",success,1,0
+1668,1668,OCSE,"AT-96-05","Collection of Child Support by the IRS through Federal Income Tax Refunds Offset",success,1,0
+1669,1669,OCSE,"AT-96-02","NPRM: Consumer Reporting Agencies; Certified Statewide Systems; President's Refo",success,2,0
+1670,1670,OCSE,"AT-96-01","Charge-backs for OCSE for the Printing and Processing of OCSE Issued Pre-offset ",success,1,0
+1671,1671,OCSE,"AT-95-06","Final Rule: Processing Garnishment Orders for Child Support and/or Alimony",success,3,0
+1672,1672,OCSE,"AT-94-06","Final Rule: Paternity Establishment and Revision of Child Support Audit Regulati",success,7,0
+1673,1673,OCSE,"AT-94-05","Collection of Child Support by the IRS through Federal Income Tax Refunds Offset",success,6,0
+1674,1674,OCSE,"AT-94-03","Elimination of Annual Three-Year Hardware and Software Configuration Plan Requir",success,1,0
+1675,1675,OCSE,"AT-94-04","Charge-backs for Child Support Enforcement Network (CSENet) Usage",success,1,0
+1676,1676,OCSE,"AT-94-02","Revised Program Instructions for Immediate Wage Withholding",success,1,0
+1677,1677,OCSE,"AT-93-14","NPRM: Paternity Establishment Provisions of the Omnibus Budget Reconciliation Ac",success,2,0
+1678,1678,OCSE,"AT-93-12","NPRM: Revision of Child Support Enforcement Program and Audit Regulations",success,2,0
+1679,1679,OCSE,"AT-93-10","Final Rule: Safeguarding Information; Federal Income Tax Refund Offset",success,1,0
+1680,1680,OCSE,"AT-93-07","Final Rule: Processing Garnishment Orders for Child Support and/or Alimony",success,2,0
+1681,1681,OCSE,"AT-93-08","Clarification - Use of Presumptive Guidelines for Establishment of Support / Col",success,1,0
+1682,1682,OCSE,"AT-93-06","Requirements for Immediate Wage Withholding in All Orders Not Being Enforced Und",success,1,0
+1683,1683,OCSE,"AT-93-04","Use of Presumptive Child Support Guidelines to Establish and Collect Support",success,1,0
+1684,1684,OCSE,"AT-93-03","Clarification of Case Closure Criteria",success,1,0
+1685,1685,OCSE,"AT-93-02","Review and Adjustment Requirements for Child Support Orders, Final Rule--CORRECT",success,1,0
+1686,1686,OCSE,"AT-93-01","Submitting Processing Fees to FPLS for Non-AFDC Cases, Locate Only, and Parental",success,1,0
+1687,1687,OCSE,"AT-92-12","Final Rule: Review and Adjustment Requirements for Child Support Orders Effectiv",success,2,0
+1688,1688,OCSE,"AT-92-10","Final Rule: Prohibition of Federal Funding for Costs of Guardians Ad Litem in IV",success,1,0
+1689,1689,OCSE,"AT-92-11","Final Rule: Revision to the Timeframes for Distributing $50.00 Pass-Through Paym",success,1,0
+1690,1690,OCSE,"AT-92-07","SSNs under the Social Security Administration's Enumeration Verification System",success,1,0
+1691,1691,OCSE,"AT-92-05","Guidance for States on the Child Support Enforcement Network (CSENet) Contract A",success,1,0
+1692,1692,OCSE,"AT-92-04","Fees for Submitting Cases to the Federal Parent Locator Service",success,1,0
+1693,1693,OCSE,"AT-92-02","Final Rule: Income Withholding; Review and Adjustment; Notice of Assigned Suppor",success,2,0
+1694,1694,OCSE,"AT-92-01","Final Rule: Federal Parent Locator Service Fees",success,2,0
+1695,1695,OCSE,"AT-91-11","NPRM: Safeguarding Information; Federal Income Tax Refund Offset",success,1,0
+1696,1696,OCSE,"AT-91-10","Submission of State Plan Page for Submitting an Advance Planning Document or APD",success,1,0
+1697,1697,OCSE,"AT-91-08","NPRM: Revision to the Timeframes for Distributing $50.00 Pass-Through Payments",success,2,0
+1698,1698,OCSE,"AT-91-06","Audit Resolution Process for OCSE Audits",success,1,0
+1699,1699,OCSE,"AT-91-07","Revision to the Title IV-D State Plan Preprint and Submission of State Plan Page",success,1,0
+1700,1700,OCSE,"AT-91-04","Information on Absent Parents from Forms 1099 on the Wage and Information Docume",success,1,0
+1701,1701,OCSE,"AT-91-03","NPRM: Prohibition of Federal Funding for Costs of Guardians Ad Litem",success,1,0

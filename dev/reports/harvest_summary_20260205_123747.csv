@@ -1,0 +1,12 @@
+row,folder,office,doc_number,title,status,files_count,errors_count
+31,0031,CB,"IM-83-04","",success,1,0
+32,0032,CB,"PI-83-03","",success,1,0
+33,0033,CB,"IM-83-14","",success,1,0
+34,0034,CB,"PI-83-06","",success,1,0
+35,0035,CB,"PI-83-07","",success,1,0
+36,0036,CB,"PI-83-08","",success,1,0
+37,0037,CB,"PI-84-02","",success,1,0
+38,0038,CB,"IM-84-02","",success,1,0
+39,0039,CB,"PI-84-05","",success,1,0
+40,0040,CB,"IM-84-09","",success,1,0
+41,0041,CB,"PI-84-06","",success,1,0

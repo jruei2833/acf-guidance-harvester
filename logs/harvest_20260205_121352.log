@@ -1,0 +1,87 @@
+2026-02-05 12:13:52,113 [INFO] ACF Guidance Harvester starting
+2026-02-05 12:13:52,113 [INFO]   Input:   C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\input\Sub-Regulatory Inventory for Programs_12112025.xlsx.xlsx
+2026-02-05 12:13:52,113 [INFO]   Output:  C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\output
+2026-02-05 12:13:52,114 [INFO]   Reports: C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\reports
+2026-02-05 12:13:52,114 [INFO]   Log:     C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\logs\harvest_20260205_121352.log
+2026-02-05 12:13:52,114 [INFO] Loading Excel workbook...
+2026-02-05 12:13:52,872 [INFO]   Found 3383 data rows in sheet 'ALL'
+2026-02-05 12:13:52,872 [INFO]   Processing rows 1 to 10 (10 rows)
+2026-02-05 12:13:52,873 [INFO] Row 0002: Visiting https://acf.gov/cb/policy-guidance/79-12
+2026-02-05 12:13:54,443 [WARNING]   Retry 1/3 for https://acf.gov/cb/policy-guidance/79-12 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/79-12
+2026-02-05 12:13:56,528 [WARNING]   Retry 2/3 for https://acf.gov/cb/policy-guidance/79-12 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/79-12
+2026-02-05 12:14:00,593 [ERROR]   Failed after 3 attempts: https://acf.gov/cb/policy-guidance/79-12 — 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/79-12
+2026-02-05 12:14:00,594 [INFO]   Trying Wayback Machine for https://acf.gov/cb/policy-guidance/79-12
+2026-02-05 12:14:01,252 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232331/https://acf.gov/cb/policy-guidance/79-12
+2026-02-05 12:14:10,415 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:14:29,623 [INFO] Row 0003: Visiting https://acf.gov/cb/policy-guidance/80-01
+2026-02-05 12:14:30,681 [WARNING]   Retry 1/3 for https://acf.gov/cb/policy-guidance/80-01 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-01
+2026-02-05 12:14:32,742 [WARNING]   Retry 2/3 for https://acf.gov/cb/policy-guidance/80-01 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-01
+2026-02-05 12:14:36,797 [ERROR]   Failed after 3 attempts: https://acf.gov/cb/policy-guidance/80-01 — 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-01
+2026-02-05 12:14:36,798 [INFO]   Trying Wayback Machine for https://acf.gov/cb/policy-guidance/80-01
+2026-02-05 12:14:37,169 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231230401/https://acf.gov/cb/policy-guidance/80-01
+2026-02-05 12:14:43,018 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:14:56,954 [INFO] Row 0004: Visiting https://acf.gov/cb/policy-guidance/80-02
+2026-02-05 12:14:58,009 [WARNING]   Retry 1/3 for https://acf.gov/cb/policy-guidance/80-02 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-02
+2026-02-05 12:15:00,069 [WARNING]   Retry 2/3 for https://acf.gov/cb/policy-guidance/80-02 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-02
+2026-02-05 12:15:04,127 [ERROR]   Failed after 3 attempts: https://acf.gov/cb/policy-guidance/80-02 — 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-02
+2026-02-05 12:15:04,127 [INFO]   Trying Wayback Machine for https://acf.gov/cb/policy-guidance/80-02
+2026-02-05 12:15:04,502 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232235/https://acf.gov/cb/policy-guidance/80-02
+2026-02-05 12:15:09,942 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:15:23,952 [INFO] Row 0005: Visiting https://acf.gov/cb/policy-guidance/80-03
+2026-02-05 12:15:25,010 [WARNING]   Retry 1/3 for https://acf.gov/cb/policy-guidance/80-03 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-03
+2026-02-05 12:15:27,066 [WARNING]   Retry 2/3 for https://acf.gov/cb/policy-guidance/80-03 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-03
+2026-02-05 12:15:31,128 [ERROR]   Failed after 3 attempts: https://acf.gov/cb/policy-guidance/80-03 — 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-03
+2026-02-05 12:15:31,128 [INFO]   Trying Wayback Machine for https://acf.gov/cb/policy-guidance/80-03
+2026-02-05 12:15:31,544 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231706/https://acf.gov/cb/policy-guidance/80-03
+2026-02-05 12:15:38,248 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:15:50,246 [INFO] Row 0006: Visiting https://acf.gov/cb/policy-guidance/80-04
+2026-02-05 12:15:51,306 [WARNING]   Retry 1/3 for https://acf.gov/cb/policy-guidance/80-04 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-04
+2026-02-05 12:15:53,361 [WARNING]   Retry 2/3 for https://acf.gov/cb/policy-guidance/80-04 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-04
+2026-02-05 12:15:57,417 [ERROR]   Failed after 3 attempts: https://acf.gov/cb/policy-guidance/80-04 — 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-04
+2026-02-05 12:15:57,417 [INFO]   Trying Wayback Machine for https://acf.gov/cb/policy-guidance/80-04
+2026-02-05 12:15:57,737 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232302/https://acf.gov/cb/policy-guidance/80-04
+2026-02-05 12:16:03,044 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:16:19,364 [INFO] Row 0007: Visiting https://acf.gov/cb/policy-guidance/80-05
+2026-02-05 12:16:20,420 [WARNING]   Retry 1/3 for https://acf.gov/cb/policy-guidance/80-05 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-05
+2026-02-05 12:16:22,477 [WARNING]   Retry 2/3 for https://acf.gov/cb/policy-guidance/80-05 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-05
+2026-02-05 12:16:26,532 [ERROR]   Failed after 3 attempts: https://acf.gov/cb/policy-guidance/80-05 — 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/80-05
+2026-02-05 12:16:26,533 [INFO]   Trying Wayback Machine for https://acf.gov/cb/policy-guidance/80-05
+2026-02-05 12:16:31,630 [INFO] Row 0008: Visiting https://acf.gov/cb/policy-guidance/81-01
+2026-02-05 12:16:32,687 [WARNING]   Retry 1/3 for https://acf.gov/cb/policy-guidance/81-01 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/81-01
+2026-02-05 12:16:34,746 [WARNING]   Retry 2/3 for https://acf.gov/cb/policy-guidance/81-01 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/81-01
+2026-02-05 12:16:38,802 [ERROR]   Failed after 3 attempts: https://acf.gov/cb/policy-guidance/81-01 — 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/81-01
+2026-02-05 12:16:38,803 [INFO]   Trying Wayback Machine for https://acf.gov/cb/policy-guidance/81-01
+2026-02-05 12:16:39,035 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232245/https://acf.gov/cb/policy-guidance/81-01
+2026-02-05 12:16:43,941 [INFO]   Found 1 downloadable links on page
+2026-02-05 12:16:49,300 [INFO] Row 0009: Visiting https://acf.gov/cb/policy-guidance/pi-80-01
+2026-02-05 12:16:50,356 [WARNING]   Retry 1/3 for https://acf.gov/cb/policy-guidance/pi-80-01 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/pi-80-01
+2026-02-05 12:16:52,413 [WARNING]   Retry 2/3 for https://acf.gov/cb/policy-guidance/pi-80-01 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/pi-80-01
+2026-02-05 12:16:56,477 [ERROR]   Failed after 3 attempts: https://acf.gov/cb/policy-guidance/pi-80-01 — 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/pi-80-01
+2026-02-05 12:16:56,477 [INFO]   Trying Wayback Machine for https://acf.gov/cb/policy-guidance/pi-80-01
+2026-02-05 12:17:01,573 [INFO] Row 0010: Visiting https://acf.gov/cb/policy-guidance/pi-80-02
+2026-02-05 12:17:02,632 [WARNING]   Retry 1/3 for https://acf.gov/cb/policy-guidance/pi-80-02 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/pi-80-02
+2026-02-05 12:17:04,690 [WARNING]   Retry 2/3 for https://acf.gov/cb/policy-guidance/pi-80-02 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/pi-80-02
+2026-02-05 12:17:08,747 [ERROR]   Failed after 3 attempts: https://acf.gov/cb/policy-guidance/pi-80-02 — 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/pi-80-02
+2026-02-05 12:17:08,748 [INFO]   Trying Wayback Machine for https://acf.gov/cb/policy-guidance/pi-80-02
+2026-02-05 12:17:09,113 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231232215/https://acf.gov/cb/policy-guidance/pi-80-02
+2026-02-05 12:17:18,253 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:17:32,094 [INFO] Row 0011: Visiting https://acf.gov/cb/policy-guidance/pi-80-03
+2026-02-05 12:17:33,151 [WARNING]   Retry 1/3 for https://acf.gov/cb/policy-guidance/pi-80-03 (waiting 2s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/pi-80-03
+2026-02-05 12:17:35,205 [WARNING]   Retry 2/3 for https://acf.gov/cb/policy-guidance/pi-80-03 (waiting 4s): 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/pi-80-03
+2026-02-05 12:17:39,259 [ERROR]   Failed after 3 attempts: https://acf.gov/cb/policy-guidance/pi-80-03 — 403 Client Error: Forbidden for url: https://acf.gov/cb/policy-guidance/pi-80-03
+2026-02-05 12:17:39,259 [INFO]   Trying Wayback Machine for https://acf.gov/cb/policy-guidance/pi-80-03
+2026-02-05 12:17:39,539 [INFO]   Wayback fallback found: http://web.archive.org/web/20251231231059/https://acf.gov/cb/policy-guidance/pi-80-03
+2026-02-05 12:17:44,558 [INFO]   Found 2 downloadable links on page
+2026-02-05 12:17:57,334 [INFO] ============================================================
+2026-02-05 12:17:57,334 [INFO] HARVEST COMPLETE
+2026-02-05 12:17:57,334 [INFO]   Duration: 4.1 minutes
+2026-02-05 12:17:57,334 [INFO]   Rows processed: 10
+2026-02-05 12:17:57,334 [INFO]   Success: 8
+2026-02-05 12:17:57,334 [INFO]   Failed: 2
+2026-02-05 12:17:57,334 [INFO]   No URLs: 0
+2026-02-05 12:17:57,334 [INFO]   No documents found: 0
+2026-02-05 12:17:57,334 [INFO]   Skipped (resume): 0
+2026-02-05 12:17:57,334 [INFO]   Total files downloaded: 15
+2026-02-05 12:17:57,334 [INFO] ============================================================
+2026-02-05 12:17:57,335 [INFO] Report saved: C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\reports\harvest_report_20260205_121757.json
+2026-02-05 12:17:57,336 [INFO] CSV summary saved: C:\Users\JanyjorRuei\Documents\acf-guidance-harvester\reports\harvest_summary_20260205_121757.csv

@@ -1,0 +1,11 @@
+row,folder,office,doc_number,title,status,files_count,errors_count
+2,0002,CB,"AT-79-12","",success,2,0
+3,0003,CB,"AT-80-01","",success,2,0
+4,0004,CB,"AT-80-02","",success,2,0
+5,0005,CB,"AT-80-03","",success,2,0
+6,0006,CB,"AT-80-04","",success,2,0
+7,0007,CB,"AT-80-05","",failed,0,1
+8,0008,CB,"AT-81-01","",success,1,0
+9,0009,CB,"PI-80-01","",failed,0,1
+10,0010,CB,"PI-80-02","",success,2,0
+11,0011,CB,"PI-80-03","",success,2,0
