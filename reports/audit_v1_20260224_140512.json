@@ -1,0 +1,1228 @@
+{
+  "stats": {
+    "total_rows": 3351,
+    "rows_with_valid_content": 3303,
+    "rows_with_only_junk": 11,
+    "rows_empty": 37,
+    "total_files": 7941,
+    "valid_files": 7850,
+    "invalid_files": 91,
+    "file_types": {
+      "pdf": 5548,
+      "html": 2004,
+      "ole": 129,
+      "zip_based": 251,
+      "text": 9
+    },
+    "failure_reasons": {
+      "insufficient_content": 18,
+      "html_masquerade": 14,
+      "doj_access_denied": 25,
+      "wayback_error": 34
+    },
+    "failure_by_office": {
+      "CB": {
+        "insufficient_content": 2
+      },
+      "OCC": {
+        "html_masquerade": 3,
+        "doj_access_denied": 1,
+        "insufficient_content": 1
+      },
+      "OCS": {
+        "insufficient_content": 4,
+        "wayback_error": 25,
+        "html_masquerade": 2,
+        "doj_access_denied": 4
+      },
+      "OCSE": {
+        "wayback_error": 2,
+        "html_masquerade": 2,
+        "doj_access_denied": 2,
+        "insufficient_content": 1
+      },
+      "ORR": {
+        "doj_access_denied": 11,
+        "wayback_error": 7,
+        "insufficient_content": 3,
+        "html_masquerade": 7
+      },
+      "OFA": {
+        "insufficient_content": 2,
+        "doj_access_denied": 6
+      },
+      "OHS": {
+        "insufficient_content": 5,
+        "doj_access_denied": 1
+      }
+    }
+  },
+  "junk_rows": [
+    {
+      "row": "0859",
+      "office": "OCC",
+      "status": "success",
+      "files": [
+        {
+          "file": "pq9902.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        }
+      ]
+    },
+    {
+      "row": "1118",
+      "office": "OCC",
+      "status": "success",
+      "files": [
+        {
+          "file": "child_care.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        }
+      ]
+    },
+    {
+      "row": "1468",
+      "office": "OCS",
+      "status": "success",
+      "files": [
+        {
+          "file": "comm_liheap_recruitment_dcl_2020_09_042220.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        }
+      ]
+    },
+    {
+      "row": "2574",
+      "office": "ORR",
+      "status": "success",
+      "files": [
+        {
+          "file": "domestic.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2750",
+      "office": "ORR",
+      "status": "success",
+      "files": [
+        {
+          "file": "orr_1_instructions_and_justification_0_0_0.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        }
+      ]
+    },
+    {
+      "row": "2766",
+      "office": "ORR",
+      "status": "success",
+      "files": [
+        {
+          "file": "FG-13%20EIS%20Instructions%20and%20Standards%202021%2004%2030.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        }
+      ]
+    },
+    {
+      "row": "2768",
+      "office": "ORR",
+      "status": "success",
+      "files": [
+        {
+          "file": "Field-Guidance-No.-22_FINAL.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        }
+      ]
+    },
+    {
+      "row": "2769",
+      "office": "ORR",
+      "status": "success",
+      "files": [
+        {
+          "file": "Field-Guidance-No.-23_FINAL.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        }
+      ]
+    },
+    {
+      "row": "2774",
+      "office": "ORR",
+      "status": "success",
+      "files": [
+        {
+          "file": "A-17-Interpreter-Agreement-with-ORR_v4_2024-10-04.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        }
+      ]
+    },
+    {
+      "row": "2775",
+      "office": "ORR",
+      "status": "success",
+      "files": [
+        {
+          "file": "A-16-Volunteer-Agreement-with-ORR_v3_2024-10-04.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        }
+      ]
+    },
+    {
+      "row": "2815",
+      "office": "ORR",
+      "status": "success",
+      "files": [
+        {
+          "file": "assessment_grid_for_loan_committee_508_0.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        }
+      ]
+    }
+  ],
+  "junk_row_count": 11,
+  "mixed_rows": [
+    {
+      "row": "0674",
+      "office": "CB",
+      "invalids": [
+        {
+          "file": "applicant-training.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 495
+          }
+        },
+        {
+          "file": "apply-for-grants.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 495
+          }
+        }
+      ]
+    },
+    {
+      "row": "0825",
+      "office": "OCC",
+      "invalids": [
+        {
+          "file": "Collaborative_Approach_508.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        },
+        {
+          "file": "heroin.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "0842",
+      "office": "OCC",
+      "invalids": [
+        {
+          "file": "content-detail.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 7
+          }
+        }
+      ]
+    },
+    {
+      "row": "1124",
+      "office": "OCS",
+      "invalids": [
+        {
+          "file": "ADMIN_LIHEAP_LPDFInstructions_FY2024.docx",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 11
+          }
+        }
+      ]
+    },
+    {
+      "row": "1140",
+      "office": "OCS",
+      "invalids": [
+        {
+          "file": "pms-user-guide.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 482
+          }
+        }
+      ]
+    },
+    {
+      "row": "1327",
+      "office": "OCS",
+      "invalids": [
+        {
+          "file": "index.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 194
+          }
+        }
+      ]
+    },
+    {
+      "row": "1354",
+      "office": "OCS",
+      "invalids": [
+        {
+          "file": "20111222a.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 20
+          }
+        }
+      ]
+    },
+    {
+      "row": "1441",
+      "office": "OCS",
+      "invalids": [
+        {
+          "file": "benefits.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "benefits_1.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "calendar.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "contact.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "contact_us.html",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "disconnect.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "grants.doc",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "income_categorical.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "income_categorical_1.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "income_eligibility.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "income_eligibility_1.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "liheapstatute.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "manual.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "POLICY.docx",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "program_dates.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "program_dates_1.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "pub_ch.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "pub_other.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "quickref.doc",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "reports.doc",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "snapshots.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "stateplans.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "stateplans_1.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "Table-Allocations-Tribes-11-20-2025.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        },
+        {
+          "file": "trplans.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        },
+        {
+          "file": "trplans_1.htm",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "1442",
+      "office": "OCS",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "1459",
+      "office": "OCS",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "1460",
+      "office": "OCS",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "1465",
+      "office": "OCS",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "1511",
+      "office": "OCSE",
+      "invalids": [
+        {
+          "file": "welcome.html",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "1531",
+      "office": "OCSE",
+      "invalids": [
+        {
+          "file": "2022-11391.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        },
+        {
+          "file": "welcome.html",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2099",
+      "office": "OCSE",
+      "invalids": [
+        {
+          "file": "00-20916.htm",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2121",
+      "office": "OCSE",
+      "invalids": [
+        {
+          "file": "USCODE-2010-title42-chap7-subchapXIX.htm",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2179",
+      "office": "OCSE",
+      "invalids": [
+        {
+          "file": "fecacont.htm",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 20
+          }
+        }
+      ]
+    },
+    {
+      "row": "2216",
+      "office": "OCSE",
+      "invalids": [
+        {
+          "file": "Child-Support-User-%20Guide-%20Feb%202017%202.pdf",
+          "reason": "html_masquerade",
+          "details": {
+            "declared_type": "pdf",
+            "actual_type": "html"
+          }
+        }
+      ]
+    },
+    {
+      "row": "2395",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2405",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2513",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice",
+              "justice.gov"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2544",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2566",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2576",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2578",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2581",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "index.htm",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "justice.gov"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2586",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "sf-424-family.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 495
+          }
+        }
+      ]
+    },
+    {
+      "row": "2587",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "sf-424-family.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 495
+          }
+        }
+      ]
+    },
+    {
+      "row": "2589",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "search-grants.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 495
+          }
+        }
+      ]
+    },
+    {
+      "row": "2612",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2613",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2614",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2623",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2674",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2728",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2730",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2732",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "wayback_error",
+          "details": {
+            "matched_indicators": [
+              "web.archive.org/web/"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2761",
+      "office": "ORR",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "justice.gov"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "2966",
+      "office": "OFA",
+      "invalids": [
+        {
+          "file": "content-detail.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 7
+          }
+        }
+      ]
+    },
+    {
+      "row": "3022",
+      "office": "OFA",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice",
+              "justice.gov"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "3070",
+      "office": "OFA",
+      "invalids": [
+        {
+          "file": "location.htm",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 20
+          }
+        }
+      ]
+    },
+    {
+      "row": "3096",
+      "office": "OFA",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "3137",
+      "office": "OFA",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "3160",
+      "office": "OFA",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "3234",
+      "office": "OFA",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "3236",
+      "office": "OFA",
+      "invalids": [
+        {
+          "file": "agorderf.htm",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "3270",
+      "office": "OHS",
+      "invalids": [
+        {
+          "file": "dbra.htm",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 20
+          }
+        }
+      ]
+    },
+    {
+      "row": "3272",
+      "office": "OHS",
+      "invalids": [
+        {
+          "file": "dbra.htm",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 20
+          }
+        }
+      ]
+    },
+    {
+      "row": "3276",
+      "office": "OHS",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "doj_access_denied",
+          "details": {
+            "matched_indicators": [
+              "department of justice"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": "3288",
+      "office": "OHS",
+      "invalids": [
+        {
+          "file": "post-award-reporting-forms.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 495
+          }
+        }
+      ]
+    },
+    {
+      "row": "3300",
+      "office": "OHS",
+      "invalids": [
+        {
+          "file": "post-award-reporting-forms.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 495
+          }
+        }
+      ]
+    },
+    {
+      "row": "3383",
+      "office": "OHS",
+      "invalids": [
+        {
+          "file": "page_content.html",
+          "reason": "insufficient_content",
+          "details": {
+            "visible_chars": 452
+          }
+        }
+      ]
+    }
+  ],
+  "elapsed_seconds": 791.533717,
+  "scan_dir": "C:\\Users\\JanyjorRuei\\Documents\\acf-guidance-harvester\\output",
+  "sampled": false
+}

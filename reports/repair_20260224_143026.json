@@ -1,0 +1,12 @@
+{
+  "stats": {
+    "phase1": {
+      "identified": 63,
+      "critical": 11,
+      "repaired": 0,
+      "failed": 0
+    }
+  },
+  "elapsed_seconds": 781.386086,
+  "dry_run": true
+}

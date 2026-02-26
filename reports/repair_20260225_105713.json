@@ -1,0 +1,58 @@
+{
+  "stats": {
+    "phase1": {
+      "attempted": 11,
+      "repaired": 0,
+      "failed": 11,
+      "details": [
+        {
+          "row": "0859",
+          "result": "failed"
+        },
+        {
+          "row": "1118",
+          "result": "failed"
+        },
+        {
+          "row": "1468",
+          "result": "failed"
+        },
+        {
+          "row": "2574",
+          "result": "failed"
+        },
+        {
+          "row": "2750",
+          "result": "failed"
+        },
+        {
+          "row": "2766",
+          "result": "failed"
+        },
+        {
+          "row": "2768",
+          "result": "failed"
+        },
+        {
+          "row": "2769",
+          "result": "failed"
+        },
+        {
+          "row": "2774",
+          "result": "failed"
+        },
+        {
+          "row": "2775",
+          "result": "failed"
+        },
+        {
+          "row": "2815",
+          "result": "failed"
+        }
+      ],
+      "quarantined": 80
+    }
+  },
+  "elapsed_seconds": 1659.446829,
+  "dry_run": false
+}
